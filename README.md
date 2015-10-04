@@ -1,6 +1,6 @@
 # Description
 
-Interface en ligne de commande pour `piolog`.
+Interface en ligne de commande pour [piolog](https://github.com/cicithesquirrel/piolog-cli).
 
 # Commandes utiles
 
