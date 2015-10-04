@@ -29,3 +29,9 @@ Voir les commandes dans le fichier `gulpfile.js`.
   * `gulpfile.js` : Script de build Gulp
   * `package.json` : Configuration NPM
   * `README.md` : Documentation du module
+
+# Installation
+
+  * Exécuter un checkout Git de [piolog](https://github.com/cicithesquirrel/piolog)
+  * Exécuter un checkout Git de [piolog-cli](https://github.com/cicithesquirrel/piolog-cli)
+  * Dans le répertoire de `piolog-cli`, exécuter `npm install /path/to/piolog` puis `npm install` pour installer les autres dépendances
