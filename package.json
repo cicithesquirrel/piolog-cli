@@ -1,0 +1,33 @@
+{
+    "name": "piolog-cli",
+    "version": "1.0.0",
+    "description": "Command-line interface for piolog",
+    "main": "src/js/piolog-cli.js",
+    "scripts": {
+        "main": "LOG4JS_CONFIG=log4js-config.json node src/js/piolog-cli.js",
+        "debug": "LOG4JS_CONFIG=log4js-config.json node-debug src/js/piolog-cli.js"
+    },
+    "dependencies": {
+        "commander": "~2.0.0",
+        "log4js": "~0.6.27",
+        "js-beautify": "~1.5.10",
+        "piolog": "~1.0.0"
+    },
+    "devDependencies": {
+        "del": "~2.0.2",
+        "gulp": "~3.9.0",
+        "gulp-concat": "~2.6.0",
+        "gulp-sourcemaps": "~1.6.0",
+        "gulp-uglify": "~1.4.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cicithesquirrel/piolog-cli.git"
+    },
+    "author": "Cyril Chéné",
+    "license": "GPL-2.0",
+    "bugs": {
+        "url": "https://github.com/cicithesquirrel/piolog-cli/issues"
+    },
+    "homepage": "https://github.com/cicithesquirrel/piolog-cli#readme"
+}
