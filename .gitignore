@@ -1,0 +1,5 @@
+pio*.json
+pio*.log
+/build/
+/node_modules/
+/debug/
