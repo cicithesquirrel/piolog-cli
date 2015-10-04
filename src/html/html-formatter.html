@@ -1,0 +1,21 @@
+<!DOCTYPE>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Pioneers Game</title>
+</head>
+
+<body>
+    <h1>Pioneers Game</h1>
+    <h2>Summary</h2>
+    <p>The game started at {{startDate}} with the following players:</p>
+    <ol>
+        {{#playerOrder}}
+        <li>{{.}}</li>
+        {{/playerOrder}}
+    </ol>
+    <p>At {{endDate}}, during the {{stats.nthTurnLabel}} turn, the game ended {{#winner}}when {{winner}} has won{{/winner}}{{^winner}}without a winner {{/winner}}!</p>
+</body>
+
+</html>

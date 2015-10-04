@@ -6,6 +6,7 @@ var program = require('commander');
 var log4js = require('log4js');
 var Buffer = require('buffer').Buffer;
 var jsonformatter = require('./json-formatter');
+var htmlformatter = require('./html-formatter');
 
 var logger = log4js.getLogger("piolog.main");
 
@@ -18,7 +19,7 @@ program.version('1.0.0')
 
 var formatters = {
     'json': jsonformatter,
-    'html': null
+    'html': htmlformatter
 };
 
 // open file

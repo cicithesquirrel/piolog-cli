@@ -21,8 +21,9 @@ Voir les commandes dans le fichier `gulpfile.js`.
 
 # Structure du projet
 
-  * `src/js` : Sources
-    * `piolog-cli.js` : Programme en ligne de commande
+  * `src` : Sources
+    * `js/piolog-cli.js` : Programme en ligne de commande
+    * `html/html-formatter.html` : Modèle de page HTML pour le rendu dans ce format
   * `log4js-config.json` : Exemple de configuration des loggers
   * `.jshintrc` : Configuration JSHint
   * `.gitignore` : Configuration Git
