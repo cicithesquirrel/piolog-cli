@@ -9,8 +9,6 @@ var logger = log4js.getLogger("piolog.formatter.html");
 
 exports.format = function (game, options) {
 
-    game.stats = piolog.computeStats(game);
-
     game.stats.nthTurnLabel = function () {
         var numberOfTurns = game.turns.length - 1;
         var label = '' + numberOfTurns;
