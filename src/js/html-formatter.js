@@ -8,37 +8,6 @@ var logger = log4js.getLogger("piolog.formatter.html");
 
 exports.format = function (game, options) {
 
-
-
-    /*var demoData = {
-        records: [{
-            "name": "Steve Balmer",
-            "company": "Microsoft",
-            "systems": [{
-                "os": "Windows XP"
-        }, {
-                "os": "Vista"
-        }, {
-                "os": "Windows 7"
-        }, {
-                "os": "Windows 8"
-        }]
-    }, {
-            "name": "Steve Jobs",
-            "company": "Apple",
-            "systems": [{
-                "os": "OSX Lion"
-        }, {
-                "os": "OSX Leopard"
-        }, {
-                "os": "IOS"
-        }]
-    }, {
-            "name": "Mark Z.",
-            "company": "Facebook"
-    }]
-    };*/
-
     game.stats = {
         nthTurnLabel: function () {
             var numberOfTurns = game.turns.length - 1;
@@ -51,12 +20,6 @@ exports.format = function (game, options) {
                 label = label + 'th';
             }
             return label;
-        }
-    };
-
-    game.utils = {
-        colonyLabel: function () {
-            return this.colony > 1 ? 'colonies' : 'colony';
         }
     };
 
