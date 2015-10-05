@@ -1,6 +1,8 @@
 # Description
 
-Interface en ligne de commande pour [piolog](https://github.com/cicithesquirrel/piolog).
+Interface en ligne de commande pour [piolog](https://github.com/cicithesquirrel/piolog). Génère un rapport dans un format textuel à partir du log d'une partie. Les formats possibles sont :
+  * JSON : obtenu avec l'API standard `JSON.stringify()` éventuellement indenté avec [js-beautify](https://www.npmjs.com/package/js-beautify) ;
+  * HTML : obtenu par templating [{{Mustache}}](http://mustache.github.io/)) et incluant un graphique [Google Charts API](https://developers.google.com/chart/) pour les statistiques.
 
 # Commandes utiles
 
@@ -21,8 +23,9 @@ Voir les commandes dans le fichier `gulpfile.js`.
 
 # Structure du projet
 
-  * `src/js` : Sources
-    * `piolog-cli.js` : Programme en ligne de commande
+  * `src` : Sources
+    * `js/piolog-cli.js` : Programme en ligne de commande
+    * `html/html-formatter.html` : Modèle de page HTML pour le rendu dans ce format
   * `log4js-config.json` : Exemple de configuration des loggers
   * `.jshintrc` : Configuration JSHint
   * `.gitignore` : Configuration Git

@@ -3,4 +3,6 @@ pio*.log
 /build/
 /node_modules/
 /debug/
+/npm-debug.log
+/logs/
 /result.html

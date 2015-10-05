@@ -4,16 +4,23 @@ var piolog = require('piolog');
 var fs = require('fs');
 var program = require('commander');
 var log4js = require('log4js');
-var beautifier = require('js-beautify');
 var Buffer = require('buffer').Buffer;
+var jsonformatter = require('./json-formatter');
+var htmlformatter = require('./html-formatter');
 
 var logger = log4js.getLogger("piolog.main");
 
 program.version('1.0.0')
     .usage('[options] <pio log file>')
-    .option('-o, --out <file>', 'Output to file instead of stdout')
-    .option('-b, --beautify', 'Beautify output')
+    .option('-f, --format <format>', 'Output format [json]', 'json', /^(json|html)$/i)
+    .option('-o, --formatopt <options>', 'Output formatter options (comma separated list)')
     .parse(process.argv);
+
+
+var formatters = {
+    'json': jsonformatter,
+    'html': htmlformatter
+};
 
 // open file
 var input = fs.openSync(program.args[0], 'r');
@@ -69,17 +76,11 @@ var game = piolog.parse(nextLogFileLine);
 // close fine
 fs.closeSync(input);
 
-// generate output
-var text = JSON.stringify(game);
+var formatter = formatters[program.format];
 
-if (program.beautify) {
-    text = beautifier.js_beautify(text);
+var formatOptions = [];
+if (program.formatopt) {
+    formatOptions = program.formatopt.split(',');
 }
 
-if (!program.out || program.out == 'stdout') {
-    console.log(text);
-} else {
-    var outFd = fs.openSync(program.out, 'w');
-    fs.writeSync(outFd, text);
-    fs.close(outFd);
-}
+formatter.format(game, formatOptions);

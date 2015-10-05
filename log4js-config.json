@@ -1,8 +1,10 @@
 {
     "appenders": [{
-        "type": "console"
+        "type": "file",
+        "filename": "logs/piolog-cli.log",
+        "category": "piolog"
     }],
     "levels": {
-        "piolog": "WARN"
+        "piolog": "ALL"
     }
 }
