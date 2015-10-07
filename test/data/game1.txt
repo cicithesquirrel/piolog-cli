@@ -1,0 +1,550 @@
+07:20:20 Connexion à localhost, port 5556
+07:20:20 Le joueur 3 s'appelle maintenant cyril.
+07:20:20 Le joueur 1 s'appelle maintenant Bach.
+07:20:20 Le joueur 0 s'appelle maintenant Coolio.
+07:20:20 Le joueur 2 s'appelle maintenant Saddam Hussein.
+07:20:20 Placement pour Coolio.
+07:20:21 Coolio fonde une colonie.
+07:20:22 Coolio construit une route.
+07:20:23 Placement pour Bach.
+07:20:24 Bach fonde une colonie.
+07:20:25 Bach construit une route.
+07:20:26 Placement pour Saddam Hussein.
+07:20:27 Saddam Hussein fonde une colonie.
+07:20:28 Saddam Hussein construit une route.
+07:20:29 Double placement pour cyril.
+07:20:40 cyril fonde une colonie.
+07:20:42 cyril construit une route.
+07:20:47 cyril retire une route.
+07:20:48 cyril construit une route.
+07:20:57 cyril fonde une colonie.
+07:20:58 cyril construit une route.
+07:21:00 cyril reçoit une carte d'argile, une carte de blé et une carte de bois.
+07:21:00 Placement pour Saddam Hussein.
+07:21:01 Saddam Hussein fonde une colonie.
+07:21:02 Saddam Hussein construit une route.
+07:21:03 Saddam Hussein reçoit une carte d'argile, une carte de laine et une carte de bois.
+07:21:03 Placement pour Bach.
+07:21:04 Bach fonde une colonie.
+07:21:05 Bach construit une route.
+07:21:06 Bach reçoit une carte de pierre et une carte de laine.
+07:21:06 Placement pour Coolio.
+07:21:07 Coolio fonde une colonie.
+07:21:08 Coolio construit une route.
+07:21:09 Coolio reçoit 2 cartes de laine.
+07:21:09 Début du tour 1 pour Coolio.
+07:21:09 Coolio a fait 9.
+07:21:09 Bach reçoit une carte d'argile.
+07:21:09 Saddam Hussein reçoit une carte d'argile.
+07:21:09 cyril reçoit une carte de bois.
+07:21:10 Début du tour 1 pour Bach.
+07:21:10 Bach a fait 9.
+07:21:10 Bach reçoit une carte d'argile.
+07:21:10 Saddam Hussein reçoit une carte d'argile.
+07:21:10 cyril reçoit une carte de bois.
+07:21:11 Début du tour 1 pour Saddam Hussein.
+07:21:11 Saddam Hussein a fait 7.
+07:21:12 Saddam Hussein déplace le voleur.
+07:21:12 Saddam Hussein vole une ressource à Bach.
+07:21:13 Saddam Hussein dépense une carte d'argile et une carte de bois.
+07:21:13 Saddam Hussein construit une route.
+07:21:14 Début du tour 1 pour cyril.
+07:21:15 cyril a fait 10.
+07:21:15 cyril reçoit une carte d'argile.
+07:21:15 Coolio reçoit une carte d'argile.
+07:21:15 Bach reçoit une carte de pierre.
+07:21:23 cyril donne Coolio une carte de bois en échange de une carte de laine.
+07:21:26 cyril dépense une carte d'argile et une carte de bois.
+07:21:26 cyril construit une route.
+07:21:27 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:21:27 cyril fonde une colonie.
+07:21:28 Début du tour 2 pour Coolio.
+07:21:28 Coolio a fait 8.
+07:21:28 Coolio reçoit une carte de blé.
+07:21:29 Coolio dépense une carte d'argile et une carte de bois.
+07:21:29 Coolio construit une route.
+07:21:30 Début du tour 2 pour Bach.
+07:21:30 Bach a fait 2.
+07:21:30 Coolio reçoit une carte de laine.
+07:21:31 Début du tour 2 pour Saddam Hussein.
+07:21:31 Saddam Hussein a fait 8.
+07:21:31 Coolio reçoit une carte de blé.
+07:21:32 Début du tour 2 pour cyril.
+07:21:34 cyril a fait 8.
+07:21:34 Coolio reçoit une carte de blé.
+07:21:35 Début du tour 3 pour Coolio.
+07:21:35 Coolio a fait 10.
+07:21:35 Coolio reçoit une carte d'argile.
+07:21:35 Bach reçoit une carte de pierre.
+07:21:35 cyril reçoit 2 cartes d'argile.
+07:21:36 Début du tour 3 pour Bach.
+07:21:36 Bach a fait 3.
+07:21:36 Saddam Hussein reçoit une carte de bois.
+07:21:37 Début du tour 3 pour Saddam Hussein.
+07:21:37 Saddam Hussein a fait 6.
+07:21:37 Saddam Hussein reçoit une carte de pierre et une carte de laine.
+07:21:37 cyril reçoit une carte de pierre.
+07:21:37 Coolio reçoit une carte de laine.
+07:21:38 Début du tour 3 pour cyril.
+07:21:51 cyril a fait 3.
+07:21:51 Saddam Hussein reçoit une carte de bois.
+07:21:53 Début du tour 4 pour Coolio.
+07:21:53 Coolio a fait 8.
+07:21:53 Coolio reçoit une carte de blé.
+07:21:54 Coolio échange 3 cartes de blés contre une carte de bois.
+07:21:55 Coolio dépense une carte d'argile et une carte de bois.
+07:21:55 Coolio construit une route.
+07:21:56 Début du tour 4 pour Bach.
+07:21:56 Bach a fait 7.
+07:21:57 Saddam Hussein jete une carte d'argile, une carte de pierre, une carte de laine et une carte de bois.
+07:21:58 Bach déplace le voleur.
+07:21:58 Bach vole une ressource à Saddam Hussein.
+07:21:59 Début du tour 4 pour Saddam Hussein.
+07:21:59 Saddam Hussein a fait 12.
+07:22:00 Début du tour 4 pour cyril.
+07:22:01 cyril a fait 8.
+07:22:01 Coolio reçoit 2 cartes de blés.
+07:22:01 Bach reçoit une carte de blé.
+07:22:02 Début du tour 5 pour Coolio.
+07:22:02 Coolio a fait 7.
+07:22:03 Coolio déplace le voleur.
+07:22:03 Coolio vole une ressource à Bach.
+07:22:04 Coolio dépense une carte de blé, une carte de pierre et une carte de laine.
+07:22:04 Coolio achète une carte de développement.
+07:22:05 Début du tour 5 pour Bach.
+07:22:05 Bach a fait 5.
+07:22:05 Bach reçoit une carte de laine.
+07:22:05 Saddam Hussein reçoit une carte de blé.
+07:22:05 cyril reçoit une carte de blé.
+07:22:06 Bach dépense une carte de blé, une carte de pierre et une carte de laine.
+07:22:06 Bach achète une carte de développement.
+07:22:07 Début du tour 5 pour Saddam Hussein.
+07:22:07 Saddam Hussein a fait 8.
+07:22:07 Coolio reçoit 2 cartes de blés.
+07:22:07 Bach reçoit une carte de blé.
+07:22:08 Saddam Hussein dépense une carte de blé, une carte de pierre et une carte de laine.
+07:22:08 Saddam Hussein achète une carte de développement.
+07:22:09 Début du tour 5 pour cyril.
+07:22:15 cyril a fait 7.
+07:22:18 cyril déplace le voleur.
+07:22:20 Vous volez une carte de blé à Coolio.
+07:22:28 Début du tour 6 pour Coolio.
+07:22:28 Coolio joue la carte de développement Chevalier.
+07:22:29 Coolio déplace le voleur.
+07:22:29 Coolio vous vole une carte d'argile.
+07:22:29 Coolio a fait 6.
+07:22:29 Coolio reçoit une carte de laine.
+07:22:29 Saddam Hussein reçoit une carte de laine.
+07:22:30 Début du tour 6 pour Bach.
+07:22:30 Bach a fait 6.
+07:22:30 Saddam Hussein reçoit une carte de laine.
+07:22:30 Coolio reçoit une carte de laine.
+07:22:31 Début du tour 6 pour Saddam Hussein.
+07:22:31 Saddam Hussein a fait 10.
+07:22:31 cyril reçoit 2 cartes d'argile.
+07:22:31 Coolio reçoit une carte d'argile.
+07:22:31 Bach reçoit une carte de pierre.
+07:22:32 Saddam Hussein joue la carte de développement Année faste.
+07:22:33 Saddam Hussein prend une carte d'argile et une carte de blé.
+07:22:34 Saddam Hussein dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:22:34 Saddam Hussein fonde une colonie.
+07:22:35 Début du tour 6 pour cyril.
+07:22:37 cyril a fait 6.
+07:22:37 Coolio reçoit une carte de laine.
+07:22:37 Saddam Hussein reçoit une carte de laine.
+07:22:52 Début du tour 7 pour Coolio.
+07:22:52 Coolio a fait 6.
+07:22:52 Coolio reçoit une carte de laine.
+07:22:52 Saddam Hussein reçoit une carte de laine.
+07:22:53 Coolio échange 3 cartes de laine contre une carte de bois.
+07:22:54 Coolio dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:22:54 Coolio fonde une colonie.
+07:22:55 Début du tour 7 pour Bach.
+07:22:55 Bach a fait 6.
+07:22:55 Saddam Hussein reçoit une carte de laine.
+07:22:55 Coolio reçoit une carte de laine.
+07:22:56 Bach dépense une carte de blé, une carte de pierre et une carte de laine.
+07:22:56 Bach achète une carte de développement.
+07:22:57 Début du tour 7 pour Saddam Hussein.
+07:22:57 Saddam Hussein a fait 7.
+07:22:58 Saddam Hussein déplace le voleur.
+07:22:58 Saddam Hussein vole une ressource à Coolio.
+07:22:59 Saddam Hussein échange 4 cartes de laine contre une carte de bois.
+07:23:00 Début du tour 7 pour cyril.
+07:23:02 cyril a fait 8.
+07:23:02 Coolio reçoit 2 cartes de blés.
+07:23:04 Début du tour 8 pour Coolio.
+07:23:04 Coolio a fait 8.
+07:23:04 Coolio reçoit 2 cartes de blés.
+07:23:05 Coolio échange 3 cartes de blés contre une carte de bois.
+07:23:06 Coolio dépense une carte d'argile et une carte de bois.
+07:23:06 Coolio construit une route.
+07:23:07 Début du tour 8 pour Bach.
+07:23:07 Bach a fait 10.
+07:23:07 Bach reçoit une carte de pierre.
+07:23:07 cyril reçoit 2 cartes d'argile.
+07:23:07 Coolio reçoit une carte d'argile.
+07:23:08 Bach joue la carte de développement Monopole.
+07:23:09 Bach prend une carte d'argile à Coolio.
+07:23:09 Bach prend 0 cartes d'argile à Saddam Hussein.
+07:23:09 Bach vous prend 5 cartes d'argile.
+07:23:10 Bach échange 4 cartes d'argile contre une carte de bois.
+07:23:11 Bach dépense une carte d'argile et une carte de bois.
+07:23:11 Bach construit une route.
+07:23:12 Début du tour 8 pour Saddam Hussein.
+07:23:12 Saddam Hussein a fait 8.
+07:23:12 Coolio reçoit 2 cartes de blés.
+07:23:13 Début du tour 8 pour cyril.
+07:23:18 cyril a fait 6.
+07:23:18 cyril reçoit une carte de pierre.
+07:23:18 Coolio reçoit une carte de laine.
+07:23:18 Saddam Hussein reçoit une carte de pierre et une carte de laine.
+07:23:20 Début du tour 9 pour Coolio.
+07:23:20 Coolio a fait 12.
+07:23:21 Coolio échange 3 cartes de blés contre une carte de pierre.
+07:23:22 Coolio dépense une carte de blé, une carte de pierre et une carte de laine.
+07:23:22 Coolio achète une carte de développement.
+07:23:23 Début du tour 9 pour Bach.
+07:23:23 Bach a fait 4.
+07:23:23 Bach reçoit une carte d'argile.
+07:23:23 Saddam Hussein reçoit une carte d'argile.
+07:23:23 cyril reçoit une carte de laine.
+07:23:24 Bach échange 4 cartes d'argile contre une carte de bois.
+07:23:25 Début du tour 9 pour Saddam Hussein.
+07:23:25 Saddam Hussein a fait 10.
+07:23:25 cyril reçoit 2 cartes d'argile.
+07:23:25 Coolio reçoit une carte d'argile.
+07:23:25 Bach reçoit une carte de pierre.
+07:23:26 Saddam Hussein dépense une carte d'argile et une carte de bois.
+07:23:26 Saddam Hussein construit une route.
+07:23:27 Début du tour 9 pour cyril.
+07:23:29 cyril a fait 6.
+07:23:29 cyril reçoit une carte de pierre.
+07:23:29 Coolio reçoit une carte de laine.
+07:23:29 Saddam Hussein reçoit une carte de pierre et une carte de laine.
+07:23:36 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+07:23:36 cyril érige une ville.
+07:23:38 Début du tour 10 pour Coolio.
+07:23:38 Coolio joue la carte de développement Chevalier.
+07:23:39 Coolio déplace le voleur.
+07:23:39 Coolio vole une ressource à Saddam Hussein.
+07:23:39 Coolio a fait 7.
+07:23:40 Coolio déplace le voleur.
+07:23:40 Coolio vole une ressource à Bach.
+07:23:41 Coolio dépense une carte d'argile et une carte de bois.
+07:23:41 Coolio construit une route.
+07:23:42 Coolio dépense une carte de blé, une carte de pierre et une carte de laine.
+07:23:42 Coolio achète une carte de développement.
+07:23:43 Début du tour 10 pour Bach.
+07:23:43 Bach a fait 4.
+07:23:43 Bach reçoit une carte d'argile.
+07:23:43 Saddam Hussein reçoit une carte d'argile.
+07:23:43 cyril reçoit 2 cartes de laine.
+07:23:44 Début du tour 10 pour Saddam Hussein.
+07:23:44 Saddam Hussein a fait 4.
+07:23:44 Saddam Hussein reçoit une carte d'argile.
+07:23:44 cyril reçoit 2 cartes de laine.
+07:23:44 Bach reçoit une carte d'argile.
+07:23:45 Début du tour 10 pour cyril.
+07:23:46 cyril a fait 6.
+07:23:46 cyril reçoit 2 cartes de pierre.
+07:23:46 Coolio reçoit une carte de laine.
+07:23:46 Saddam Hussein reçoit une carte de pierre et une carte de laine.
+07:23:50 cyril échange 3 cartes de laine contre une carte de bois.
+07:23:54 cyril dépense une carte d'argile et une carte de bois.
+07:23:54 cyril construit une route.
+07:23:55 Début du tour 11 pour Coolio.
+07:23:55 Coolio a fait 7.
+07:23:56 Saddam Hussein jete une carte d'argile, une carte de pierre et 2 cartes de laine.
+07:23:57 Coolio déplace le voleur.
+07:23:57 Coolio vous vole une carte d'argile.
+07:23:58 Coolio joue la carte de développement Chevalier.
+07:23:58 Coolio détient le chevalier le plus puissant.
+07:23:59 Coolio déplace le voleur.
+07:23:59 Coolio vole une ressource à Bach.
+07:24:00 Début du tour 11 pour Bach.
+07:24:00 Bach a fait 6.
+07:24:00 Saddam Hussein reçoit une carte de pierre et une carte de laine.
+07:24:00 cyril reçoit 2 cartes de pierre.
+07:24:00 Coolio reçoit une carte de laine.
+07:24:01 Début du tour 11 pour Saddam Hussein.
+07:24:01 Saddam Hussein a fait 4.
+07:24:01 Saddam Hussein reçoit une carte d'argile.
+07:24:01 cyril reçoit 2 cartes de laine.
+07:24:01 Bach reçoit une carte d'argile.
+07:24:02 Début du tour 11 pour cyril.
+07:24:03 cyril a fait 5.
+07:24:03 cyril reçoit une carte de blé.
+07:24:03 Bach reçoit une carte de laine.
+07:24:03 Saddam Hussein reçoit une carte de blé.
+07:24:07 cyril échange 3 cartes de laine contre une carte de blé.
+07:24:10 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+07:24:10 cyril érige une ville.
+07:24:11 Début du tour 12 pour Coolio.
+07:24:11 Coolio a fait 7.
+07:24:12 Saddam Hussein jete une carte d'argile, une carte de pierre et 2 cartes de laine.
+07:24:13 Coolio déplace le voleur.
+07:24:13 Coolio vole une ressource à Saddam Hussein.
+07:24:14 Coolio échange 3 cartes de laine contre une carte de bois.
+07:24:15 Début du tour 12 pour Bach.
+07:24:15 Bach a fait 8.
+07:24:15 Bach reçoit une carte de blé.
+07:24:15 Coolio reçoit 3 cartes de blés.
+07:24:16 Bach dépense une carte de blé, une carte de pierre et une carte de laine.
+07:24:16 Bach achète une carte de développement.
+07:24:17 Début du tour 12 pour Saddam Hussein.
+07:24:17 Saddam Hussein a fait 9.
+07:24:17 Saddam Hussein reçoit 2 cartes d'argile.
+07:24:17 cyril reçoit 2 cartes de bois.
+07:24:17 Bach reçoit une carte d'argile.
+07:24:18 Début du tour 12 pour cyril.
+07:24:19 cyril a fait 6.
+07:24:19 Coolio reçoit une carte de laine.
+07:24:19 Saddam Hussein reçoit une carte de laine.
+07:24:30 cyril donne Bach une carte de bois en échange de une carte d'argile.
+07:24:32 cyril dépense une carte d'argile et une carte de bois.
+07:24:32 cyril construit une route.
+07:24:33 Début du tour 13 pour Coolio.
+07:24:33 Coolio a fait 8.
+07:24:33 Coolio reçoit 3 cartes de blés.
+07:24:33 Bach reçoit une carte de blé.
+07:24:34 Coolio dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:24:34 Coolio fonde une colonie.
+07:24:35 Début du tour 13 pour Bach.
+07:24:35 Bach a fait 12.
+07:24:36 Bach joue la carte de développement Chevalier.
+07:24:37 Bach déplace le voleur.
+07:24:37 Bach vole une ressource à Coolio.
+07:24:38 Début du tour 13 pour Saddam Hussein.
+07:24:38 Saddam Hussein a fait 4.
+07:24:38 Saddam Hussein reçoit une carte d'argile.
+07:24:38 cyril reçoit 2 cartes de laine.
+07:24:38 Bach reçoit une carte d'argile.
+07:24:39 Saddam Hussein dépense une carte de blé, une carte de pierre et une carte de laine.
+07:24:39 Saddam Hussein achète une carte de développement.
+07:24:40 Début du tour 13 pour cyril.
+07:24:42 cyril a fait 5.
+07:24:42 cyril reçoit 2 cartes de blés.
+07:24:42 Coolio reçoit une carte de laine.
+07:24:42 Bach reçoit une carte de laine.
+07:24:42 Saddam Hussein reçoit une carte de blé.
+07:24:55 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+07:24:55 Vous avez acheté une carte de développement Monopole.
+07:24:56 Début du tour 14 pour Coolio.
+07:24:56 Coolio a fait 7.
+07:24:57 Bach jete 3 cartes d'argile et une carte de blé.
+07:24:57 Coolio jete une carte d'argile, 2 cartes de blés et une carte de laine.
+07:24:58 Coolio déplace le voleur.
+07:24:58 Coolio vole une ressource à Saddam Hussein.
+07:24:59 Début du tour 14 pour Bach.
+07:24:59 Bach a fait 7.
+07:25:00 Bach déplace le voleur.
+07:25:00 Bach vole une ressource à Coolio.
+07:25:01 Bach dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:25:01 Bach fonde une colonie.
+07:25:02 Début du tour 14 pour Saddam Hussein.
+07:25:02 Saddam Hussein a fait 10.
+07:25:02 Bach reçoit 2 cartes de pierre.
+07:25:03 Saddam Hussein joue la carte de développement Chevalier.
+07:25:04 Saddam Hussein déplace le voleur.
+07:25:04 Saddam Hussein vole une ressource à Coolio.
+07:25:05 Début du tour 14 pour cyril.
+07:25:16 cyril a fait 7.
+07:25:31 cyril déplace le voleur.
+07:25:31 Vous volez une carte de blé à Coolio.
+07:25:41 Début du tour 15 pour Coolio.
+07:25:41 Coolio a fait 11.
+07:25:41 Bach reçoit une carte de bois.
+07:25:41 cyril reçoit 2 cartes de pierre.
+07:25:42 Début du tour 15 pour Bach.
+07:25:42 Bach a fait 6.
+07:25:42 Saddam Hussein reçoit une carte de pierre et une carte de laine.
+07:25:42 cyril reçoit 2 cartes de pierre.
+07:25:42 Coolio reçoit une carte de laine.
+07:25:44 Début du tour 15 pour Saddam Hussein.
+07:25:44 Saddam Hussein a fait 9.
+07:25:44 Saddam Hussein reçoit 2 cartes d'argile.
+07:25:44 cyril reçoit 2 cartes de bois.
+07:25:44 Bach reçoit une carte d'argile.
+07:25:45 Saddam Hussein échange 4 cartes d'argile contre une carte de bois.
+07:25:46 Saddam Hussein dépense une carte d'argile et une carte de bois.
+07:25:46 Saddam Hussein construit une route.
+07:25:47 Début du tour 15 pour cyril.
+07:25:49 cyril a fait 7.
+07:26:00 cyril jete une carte de blé, 2 cartes de pierre, une carte de laine et une carte de bois.
+07:26:02 cyril déplace le voleur.
+07:26:05 Vous volez une carte de laine à Coolio.
+07:26:14 Début du tour 16 pour Coolio.
+07:26:14 Coolio a fait 3.
+07:26:14 Coolio reçoit une carte de bois.
+07:26:14 Saddam Hussein reçoit une carte de bois.
+07:26:15 Début du tour 16 pour Bach.
+07:26:15 Bach a fait 8.
+07:26:15 Coolio reçoit 2 cartes de blés.
+07:26:16 Bach dépense une carte d'argile et une carte de bois.
+07:26:16 Bach construit une route.
+07:26:17 Début du tour 16 pour Saddam Hussein.
+07:26:17 Saddam Hussein a fait 6.
+07:26:17 Saddam Hussein reçoit une carte de pierre et une carte de laine.
+07:26:17 cyril reçoit 2 cartes de pierre.
+07:26:17 Coolio reçoit une carte de laine.
+07:26:18 Saddam Hussein dépense une carte d'argile et une carte de bois.
+07:26:18 Saddam Hussein construit une route.
+07:26:19 Début du tour 16 pour cyril.
+07:26:23 cyril a fait 10.
+07:26:23 cyril reçoit 3 cartes d'argile.
+07:26:23 Coolio reçoit une carte d'argile.
+07:26:23 Bach reçoit 2 cartes de pierre.
+07:26:39 cyril joue la carte de développement Monopole.
+07:26:41 Vous recevez une carte de bois de Coolio.
+07:26:41 Vous recevez 0 cartes de bois de Bach.
+07:26:41 Vous recevez 0 cartes de bois de Saddam Hussein.
+07:27:18 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:27:18 cyril fonde une colonie.
+07:27:19 cyril dépense une carte d'argile et une carte de bois.
+07:27:19 cyril construit une route.
+07:27:21 Début du tour 17 pour Coolio.
+07:27:21 Coolio a fait 7.
+07:27:22 Coolio déplace le voleur.
+07:27:22 Coolio vous vole une carte d'argile.
+07:27:23 Début du tour 17 pour Bach.
+07:27:23 Bach a fait 6.
+07:27:23 Saddam Hussein reçoit une carte de laine.
+07:27:23 Coolio reçoit une carte de laine.
+07:27:24 Bach échange 4 cartes de pierre contre une carte de blé.
+07:27:25 Début du tour 17 pour Saddam Hussein.
+07:27:25 Saddam Hussein a fait 8.
+07:27:25 cyril reçoit une carte de blé.
+07:27:25 Coolio reçoit 3 cartes de blés.
+07:27:25 Bach reçoit une carte de blé.
+07:27:26 Début du tour 17 pour cyril.
+07:27:30 cyril a fait 7.
+07:27:31 Coolio jete 2 cartes d'argile et 3 cartes de blés.
+07:27:33 cyril déplace le voleur.
+07:27:34 Vous volez une carte de blé à Coolio.
+07:27:38 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+07:27:38 cyril érige une ville.
+07:27:40 Début du tour 18 pour Coolio.
+07:27:40 Coolio a fait 6.
+07:27:40 Coolio reçoit une carte de laine.
+07:27:40 Saddam Hussein reçoit une carte de pierre et une carte de laine.
+07:27:40 cyril reçoit 2 cartes de pierre.
+07:27:41 Coolio échange 3 cartes de laine contre une carte de pierre.
+07:27:42 Coolio dépense une carte de blé, une carte de pierre et une carte de laine.
+07:27:42 Coolio achète une carte de développement.
+07:27:43 Début du tour 18 pour Bach.
+07:27:43 Bach a fait 6.
+07:27:43 Saddam Hussein reçoit une carte de pierre et une carte de laine.
+07:27:43 cyril reçoit 2 cartes de pierre.
+07:27:43 Coolio reçoit une carte de laine.
+07:27:44 Début du tour 18 pour Saddam Hussein.
+07:27:44 Saddam Hussein a fait 11.
+07:27:44 cyril reçoit 2 cartes de pierre.
+07:27:44 Bach reçoit une carte de bois.
+07:27:45 Saddam Hussein échange 4 cartes de laine contre une carte de blé.
+07:27:46 Saddam Hussein dépense une carte de blé, une carte de pierre et une carte de laine.
+07:27:46 Saddam Hussein achète une carte de développement.
+07:27:47 Début du tour 18 pour cyril.
+07:27:48 cyril a fait 10.
+07:27:48 cyril reçoit 3 cartes d'argile.
+07:27:48 Coolio reçoit une carte d'argile.
+07:27:48 Bach reçoit 2 cartes de pierre.
+07:27:55 cyril échange 3 cartes de pierre contre une carte de bois.
+07:27:56 cyril échange 3 cartes de pierre contre une carte de bois.
+07:27:59 cyril dépense une carte d'argile et une carte de bois.
+07:27:59 cyril construit une route.
+07:27:59 cyril dépense une carte d'argile et une carte de bois.
+07:27:59 cyril construit une route.
+07:28:02 Début du tour 19 pour Coolio.
+07:28:02 Coolio joue la carte de développement Chevalier.
+07:28:03 Coolio déplace le voleur.
+07:28:03 Coolio vole une ressource à Saddam Hussein.
+07:28:04 Coolio a fait 2.
+07:28:04 Coolio reçoit 2 cartes de laine.
+07:28:04 Saddam Hussein reçoit une carte de laine.
+07:28:04 Coolio dépense une carte de blé, une carte de pierre et une carte de laine.
+07:28:04 Coolio achète une carte de développement.
+07:28:05 Début du tour 19 pour Bach.
+07:28:05 Bach a fait 7.
+07:28:06 Bach déplace le voleur.
+07:28:06 Bach vous vole une carte de laine.
+07:28:07 Bach dépense 2 cartes de blés et 3 cartes de pierre.
+07:28:07 Bach érige une ville.
+07:28:08 Début du tour 19 pour Saddam Hussein.
+07:28:08 Saddam Hussein a fait 8.
+07:28:08 Coolio reçoit une carte de blé.
+07:28:08 Bach reçoit 2 cartes de blés.
+07:28:09 Début du tour 19 pour cyril.
+07:28:11 cyril a fait 10.
+07:28:11 cyril reçoit 3 cartes d'argile.
+07:28:11 Coolio reçoit une carte d'argile.
+07:28:11 Bach reçoit 2 cartes de pierre.
+07:28:23 cyril échange 2 cartes d'argile contre une carte de bois.
+07:28:25 Début du tour 20 pour Coolio.
+07:28:25 Coolio joue la carte de développement Chevalier.
+07:28:26 Coolio déplace le voleur.
+07:28:26 Coolio vole une ressource à Bach.
+07:28:26 Coolio a fait 7.
+07:28:27 Coolio déplace le voleur.
+07:28:27 Coolio vous vole une carte de pierre.
+07:28:28 Coolio dépense une carte de blé, une carte de pierre et une carte de laine.
+07:28:28 Coolio achète une carte de développement.
+07:28:29 Début du tour 20 pour Bach.
+07:28:29 Bach a fait 5.
+07:28:29 Bach reçoit une carte de laine.
+07:28:29 Saddam Hussein reçoit une carte de blé.
+07:28:29 cyril reçoit 2 cartes de blés.
+07:28:29 Coolio reçoit une carte de laine.
+07:28:30 Bach dépense une carte de blé, une carte de pierre et une carte de laine.
+07:28:30 Bach achète une carte de développement.
+07:28:31 Bach dépense une carte de blé, une carte de pierre et une carte de laine.
+07:28:31 Bach achète une carte de développement.
+07:28:32 Début du tour 20 pour Saddam Hussein.
+07:28:32 Saddam Hussein a fait 6.
+07:28:32 Saddam Hussein reçoit une carte de laine.
+07:28:32 Coolio reçoit une carte de laine.
+07:28:33 Saddam Hussein dépense une carte de blé, une carte de pierre et une carte de laine.
+07:28:33 Saddam Hussein achète une carte de développement.
+07:28:34 Début du tour 20 pour cyril.
+07:28:36 cyril a fait 5.
+07:28:36 cyril reçoit 2 cartes de blés.
+07:28:36 Coolio reçoit une carte de laine.
+07:28:36 Bach reçoit une carte de laine.
+07:28:36 Saddam Hussein reçoit une carte de blé.
+07:28:47 cyril échange 3 cartes de blés contre une carte de laine.
+07:28:50 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:28:50 cyril fonde une colonie.
+07:28:53 Début du tour 21 pour Coolio.
+07:28:53 Coolio a fait 2.
+07:28:53 Coolio reçoit 2 cartes de laine.
+07:28:53 Saddam Hussein reçoit une carte de laine.
+07:28:54 Coolio échange 3 cartes de laine contre une carte de bois.
+07:28:55 Coolio dépense une carte d'argile et une carte de bois.
+07:28:55 Coolio construit une route.
+07:28:56 Début du tour 21 pour Bach.
+07:28:56 Bach a fait 8.
+07:28:56 Bach reçoit 2 cartes de blés.
+07:28:56 cyril reçoit 2 cartes de blés.
+07:28:56 Coolio reçoit 3 cartes de blés.
+07:28:57 Bach joue la carte de développement Construction de route.
+07:28:58 Bach construit une route.
+07:28:59 Bach construit une route.
+07:29:01 Début du tour 21 pour Saddam Hussein.
+07:29:01 Saddam Hussein a fait 6.
+07:29:01 Saddam Hussein reçoit une carte de laine.
+07:29:01 Coolio reçoit une carte de laine.
+07:29:02 Saddam Hussein dépense une carte de blé, une carte de pierre et une carte de laine.
+07:29:02 Saddam Hussein achète une carte de développement.
+07:29:03 Début du tour 21 pour cyril.
+07:29:04 cyril a fait 9.
+07:29:04 cyril reçoit 2 cartes de bois.
+07:29:04 Bach reçoit 2 cartes d'argile.
+07:29:04 Saddam Hussein reçoit 2 cartes d'argile.
+07:29:06 cyril dépense une carte d'argile et une carte de bois.
+07:29:06 cyril construit une route.
+07:29:06 cyril a la route la plus longue.
+07:29:06 cyril a gagné la partie avec 10 points de victoire !
+07:29:06 Bach est parti.
+07:29:06 Saddam Hussein est parti.
+07:29:06 Coolio est parti.
+

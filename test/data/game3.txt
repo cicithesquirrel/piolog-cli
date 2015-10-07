@@ -1,0 +1,447 @@
+11:25:37 Connexion à localhost, port 5556
+11:25:37 Le joueur 1 s'appelle maintenant cyril.
+11:25:37 Le joueur 0 s'appelle maintenant Rupert Murdoch.
+11:25:37 Le joueur 3 s'appelle maintenant Commander Taco.
+11:25:37 Le joueur 2 s'appelle maintenant Winston Churchill.
+11:25:37 Placement pour Rupert Murdoch.
+11:25:38 Rupert Murdoch fonde une colonie.
+11:25:39 Rupert Murdoch construit une route.
+11:25:40 Placement pour cyril.
+11:27:11 cyril fonde une colonie.
+11:27:12 cyril construit une route.
+11:27:16 Placement pour Winston Churchill.
+11:27:17 Winston Churchill fonde une colonie.
+11:27:18 Winston Churchill construit une route.
+11:27:19 Double placement pour Commander Taco.
+11:27:20 Commander Taco fonde une colonie.
+11:27:21 Commander Taco fonde une colonie.
+11:27:22 Commander Taco construit une route.
+11:27:23 Commander Taco construit une route.
+11:27:24 Commander Taco reçoit une carte d'argile et 2 cartes de laine.
+11:27:24 Placement pour Winston Churchill.
+11:27:25 Winston Churchill fonde une colonie.
+11:27:26 Winston Churchill construit une route.
+11:27:27 Winston Churchill reçoit une carte de pierre, une carte de laine et une carte de bois.
+11:27:27 Placement pour cyril.
+11:27:28 cyril fonde une colonie.
+11:27:32 cyril construit une route.
+11:27:34 cyril reçoit une carte d'argile.
+11:27:34 Placement pour Rupert Murdoch.
+11:27:35 Rupert Murdoch fonde une colonie.
+11:27:36 Rupert Murdoch construit une route.
+11:27:37 Rupert Murdoch reçoit une carte de blé et 2 cartes de pierre.
+11:27:37 Début du tour 1 pour Rupert Murdoch.
+11:27:37 Rupert Murdoch a fait 7.
+11:27:38 Rupert Murdoch déplace le voleur.
+11:27:38 Rupert Murdoch vole une ressource à Winston Churchill.
+11:27:39 Début du tour 1 pour cyril.
+11:27:40 cyril a fait 10.
+11:27:40 Winston Churchill reçoit une carte de bois.
+11:27:40 Commander Taco reçoit une carte de laine.
+11:27:40 Rupert Murdoch reçoit une carte de laine.
+11:27:42 Début du tour 1 pour Winston Churchill.
+11:27:42 Winston Churchill a fait 6.
+11:27:42 Winston Churchill reçoit une carte de blé.
+11:27:42 Commander Taco reçoit une carte de bois.
+11:27:42 Rupert Murdoch reçoit une carte de blé.
+11:27:43 Winston Churchill dépense une carte de blé, une carte de pierre et une carte de laine.
+11:27:43 Winston Churchill achète une carte de développement.
+11:27:44 Début du tour 1 pour Commander Taco.
+11:27:44 Commander Taco a fait 4.
+11:27:44 Rupert Murdoch reçoit une carte de pierre.
+11:27:44 cyril reçoit une carte de blé.
+11:27:44 Winston Churchill reçoit une carte de blé.
+11:27:45 Commander Taco dépense une carte d'argile et une carte de bois.
+11:27:45 Commander Taco construit une route.
+11:27:46 Début du tour 2 pour Rupert Murdoch.
+11:27:46 Rupert Murdoch a fait 8.
+11:27:46 Rupert Murdoch reçoit une carte d'argile et une carte de bois.
+11:27:46 cyril reçoit une carte d'argile et une carte de bois.
+11:27:47 Rupert Murdoch dépense 2 cartes de blés et 3 cartes de pierre.
+11:27:47 Rupert Murdoch érige une ville.
+11:27:48 Rupert Murdoch dépense une carte d'argile et une carte de bois.
+11:27:48 Rupert Murdoch construit une route.
+11:27:49 Début du tour 2 pour cyril.
+11:27:49 cyril a fait 8.
+11:27:49 cyril reçoit une carte d'argile et une carte de bois.
+11:27:49 Rupert Murdoch reçoit 2 cartes d'argile et 2 cartes de bois.
+11:27:57 cyril dépense une carte d'argile et une carte de bois.
+11:27:57 cyril construit une route.
+11:28:03 Début du tour 2 pour Winston Churchill.
+11:28:03 Winston Churchill a fait 8.
+11:28:03 Rupert Murdoch reçoit 2 cartes d'argile et 2 cartes de bois.
+11:28:03 cyril reçoit une carte d'argile et une carte de bois.
+11:28:04 Début du tour 2 pour Commander Taco.
+11:28:04 Commander Taco a fait 4.
+11:28:04 Rupert Murdoch reçoit une carte de pierre.
+11:28:04 cyril reçoit une carte de blé.
+11:28:04 Winston Churchill reçoit une carte de blé.
+11:28:05 Début du tour 3 pour Rupert Murdoch.
+11:28:05 Rupert Murdoch a fait 12.
+11:28:06 Rupert Murdoch échange 4 cartes de bois contre une carte de blé.
+11:28:07 Rupert Murdoch dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:28:07 Rupert Murdoch fonde une colonie.
+11:28:08 Début du tour 3 pour cyril.
+11:28:09 cyril a fait 9.
+11:28:09 Commander Taco reçoit une carte de laine.
+11:28:16 cyril donne Commander Taco une carte de blé en échange de une carte de laine.
+11:28:18 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:28:18 cyril fonde une colonie.
+11:28:24 cyril dépense une carte d'argile et une carte de bois.
+11:28:24 cyril construit une route.
+11:28:26 Début du tour 3 pour Winston Churchill.
+11:28:26 Winston Churchill a fait 9.
+11:28:26 Commander Taco reçoit une carte de laine.
+11:28:27 Début du tour 3 pour Commander Taco.
+11:28:27 Commander Taco a fait 9.
+11:28:27 Commander Taco reçoit une carte de laine.
+11:28:28 Commander Taco échange 4 cartes de laine contre une carte de pierre.
+11:28:29 Commander Taco dépense une carte de blé, une carte de pierre et une carte de laine.
+11:28:29 Commander Taco achète une carte de développement.
+11:28:30 Début du tour 4 pour Rupert Murdoch.
+11:28:30 Rupert Murdoch a fait 5.
+11:28:30 Winston Churchill reçoit une carte d'argile.
+11:28:30 Commander Taco reçoit une carte d'argile.
+11:28:31 Début du tour 4 pour cyril.
+11:28:33 cyril a fait 5.
+11:28:33 Winston Churchill reçoit une carte d'argile.
+11:28:33 Commander Taco reçoit une carte d'argile.
+11:28:34 Début du tour 4 pour Winston Churchill.
+11:28:34 Winston Churchill a fait 5.
+11:28:34 Winston Churchill reçoit une carte d'argile.
+11:28:34 Commander Taco reçoit une carte d'argile.
+11:28:35 Winston Churchill dépense une carte d'argile et une carte de bois.
+11:28:35 Winston Churchill construit une route.
+11:28:36 Début du tour 4 pour Commander Taco.
+11:28:36 Commander Taco joue la carte de développement Chevalier.
+11:28:37 Commander Taco déplace le voleur.
+11:28:37 Commander Taco vole une ressource à Rupert Murdoch.
+11:28:37 Commander Taco a fait 5.
+11:28:37 Commander Taco reçoit une carte d'argile.
+11:28:37 Winston Churchill reçoit une carte d'argile.
+11:28:38 Début du tour 5 pour Rupert Murdoch.
+11:28:38 Rupert Murdoch a fait 9.
+11:28:38 cyril reçoit une carte de pierre.
+11:28:38 Winston Churchill reçoit une carte de pierre.
+11:28:38 Commander Taco reçoit une carte de pierre et une carte de laine.
+11:28:39 Début du tour 5 pour cyril.
+11:28:40 cyril a fait 4.
+11:28:40 cyril reçoit une carte de blé.
+11:28:40 Winston Churchill reçoit une carte de blé.
+11:28:40 Rupert Murdoch reçoit 2 cartes de pierre.
+11:28:43 Début du tour 5 pour Winston Churchill.
+11:28:43 Winston Churchill a fait 11.
+11:28:43 Rupert Murdoch reçoit une carte de pierre.
+11:28:44 Début du tour 5 pour Commander Taco.
+11:28:44 Commander Taco a fait 4.
+11:28:44 Rupert Murdoch reçoit 2 cartes de pierre.
+11:28:44 cyril reçoit une carte de blé.
+11:28:44 Winston Churchill reçoit une carte de blé.
+11:28:45 Début du tour 6 pour Rupert Murdoch.
+11:28:45 Rupert Murdoch a fait 5.
+11:28:45 Winston Churchill reçoit une carte d'argile.
+11:28:45 Commander Taco reçoit une carte d'argile.
+11:28:46 Rupert Murdoch échange 3 cartes de pierre contre une carte de bois.
+11:28:47 Rupert Murdoch dépense une carte d'argile et une carte de bois.
+11:28:47 Rupert Murdoch construit une route.
+11:28:48 Début du tour 6 pour cyril.
+11:28:53 cyril a fait 10.
+11:28:53 cyril reçoit une carte de laine.
+11:28:53 Winston Churchill reçoit une carte de bois.
+11:28:53 Commander Taco reçoit une carte de laine.
+11:28:53 Rupert Murdoch reçoit 2 cartes de laine.
+11:28:56 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+11:28:56 Vous avez acheté la carte de développement Palais du Gouverneur.
+11:28:57 Début du tour 6 pour Winston Churchill.
+11:28:57 Winston Churchill a fait 8.
+11:28:57 Rupert Murdoch reçoit 2 cartes d'argile.
+11:28:57 cyril reçoit une carte d'argile.
+11:28:58 Début du tour 6 pour Commander Taco.
+11:28:58 Commander Taco a fait 5.
+11:28:58 Commander Taco reçoit une carte d'argile.
+11:28:58 Winston Churchill reçoit une carte d'argile.
+11:28:59 Commander Taco échange 4 cartes d'argile contre une carte de bois.
+11:29:00 Début du tour 7 pour Rupert Murdoch.
+11:29:00 Rupert Murdoch a fait 5.
+11:29:00 Winston Churchill reçoit une carte d'argile.
+11:29:00 Commander Taco reçoit une carte d'argile.
+11:29:01 Rupert Murdoch échange 3 cartes d'argile contre une carte de blé.
+11:29:02 Rupert Murdoch dépense une carte de blé, une carte de pierre et une carte de laine.
+11:29:02 Rupert Murdoch achète une carte de développement.
+11:29:03 Début du tour 7 pour cyril.
+11:29:06 cyril a fait 6.
+11:29:06 Winston Churchill reçoit une carte de blé.
+11:29:06 Commander Taco reçoit une carte de bois.
+11:29:06 Rupert Murdoch reçoit une carte de blé.
+11:29:20 cyril donne Commander Taco une carte de blé en échange de une carte de bois.
+11:29:22 cyril dépense une carte d'argile et une carte de bois.
+11:29:22 cyril construit une route.
+11:29:24 Début du tour 7 pour Winston Churchill.
+11:29:24 Winston Churchill a fait 8.
+11:29:24 Rupert Murdoch reçoit 2 cartes d'argile.
+11:29:24 cyril reçoit une carte d'argile.
+11:29:25 Winston Churchill échange 4 cartes d'argile contre une carte de laine.
+11:29:26 Winston Churchill dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:29:26 Winston Churchill fonde une colonie.
+11:29:27 Début du tour 7 pour Commander Taco.
+11:29:27 Commander Taco a fait 6.
+11:29:27 Commander Taco reçoit une carte de bois.
+11:29:27 Rupert Murdoch reçoit une carte de blé.
+11:29:27 Winston Churchill reçoit une carte de blé et une carte de bois.
+11:29:28 Commander Taco dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:29:28 Commander Taco fonde une colonie.
+11:29:29 Commander Taco dépense une carte d'argile et une carte de bois.
+11:29:29 Commander Taco construit une route.
+11:29:30 Début du tour 8 pour Rupert Murdoch.
+11:29:30 Rupert Murdoch joue la carte de développement Chevalier.
+11:29:31 Rupert Murdoch déplace le voleur.
+11:29:31 Rupert Murdoch vole une ressource à Winston Churchill.
+11:29:31 Rupert Murdoch a fait 4.
+11:29:31 Rupert Murdoch reçoit 2 cartes de pierre.
+11:29:31 cyril reçoit une carte de blé.
+11:29:31 Winston Churchill reçoit une carte de blé.
+11:29:32 Rupert Murdoch dépense 2 cartes de blés et 3 cartes de pierre.
+11:29:32 Rupert Murdoch érige une ville.
+11:29:33 Début du tour 8 pour cyril.
+11:29:57 cyril a fait 8.
+11:29:58 cyril reçoit une carte d'argile et une carte de bois.
+11:29:58 Rupert Murdoch reçoit 2 cartes d'argile et 2 cartes de bois.
+11:30:13 cyril échange 3 cartes d'argile contre une carte de laine.
+11:30:15 Début du tour 8 pour Winston Churchill.
+11:30:15 Winston Churchill a fait 2.
+11:30:15 Winston Churchill reçoit 2 cartes de laine.
+11:30:16 Winston Churchill dépense une carte de blé, une carte de pierre et une carte de laine.
+11:30:16 Winston Churchill achète une carte de développement.
+11:30:17 Début du tour 8 pour Commander Taco.
+11:30:17 Commander Taco a fait 4.
+11:30:17 Rupert Murdoch reçoit 3 cartes de pierre.
+11:30:17 cyril reçoit une carte de blé.
+11:30:17 Winston Churchill reçoit une carte de blé.
+11:30:18 Début du tour 9 pour Rupert Murdoch.
+11:30:18 Rupert Murdoch a fait 8.
+11:30:18 Rupert Murdoch reçoit 2 cartes d'argile et 2 cartes de bois.
+11:30:18 cyril reçoit une carte d'argile et une carte de bois.
+11:30:19 Rupert Murdoch échange 3 cartes d'argile contre une carte de blé.
+11:30:20 Rupert Murdoch dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:30:20 Rupert Murdoch fonde une colonie.
+11:30:21 Rupert Murdoch dépense une carte d'argile et une carte de bois.
+11:30:21 Rupert Murdoch construit une route.
+11:30:22 Début du tour 9 pour cyril.
+11:30:23 cyril a fait 6.
+11:30:23 Winston Churchill reçoit une carte de blé et une carte de bois.
+11:30:23 Commander Taco reçoit une carte de bois.
+11:30:23 Rupert Murdoch reçoit 2 cartes de blés.
+11:30:25 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:30:25 cyril fonde une colonie.
+11:30:27 Début du tour 9 pour Winston Churchill.
+11:30:27 Winston Churchill a fait 7.
+11:30:28 Rupert Murdoch jete 3 cartes d'argile et 2 cartes de bois.
+11:30:28 Winston Churchill jete 5 cartes de blés.
+11:30:29 Winston Churchill déplace le voleur.
+11:30:29 Winston Churchill vole une ressource à Rupert Murdoch.
+11:30:30 Winston Churchill dépense une carte de blé, une carte de pierre et une carte de laine.
+11:30:30 Winston Churchill achète une carte de développement.
+11:30:31 Winston Churchill joue la carte de développement Construction de route.
+11:30:32 Winston Churchill construit une route.
+11:30:33 Winston Churchill construit une route.
+11:30:35 Début du tour 9 pour Commander Taco.
+11:30:35 Commander Taco a fait 3.
+11:30:35 Commander Taco reçoit une carte d'argile.
+11:30:35 Rupert Murdoch reçoit une carte d'argile et une carte de blé.
+11:30:36 Commander Taco dépense une carte d'argile et une carte de bois.
+11:30:36 Commander Taco construit une route.
+11:30:37 Début du tour 10 pour Rupert Murdoch.
+11:30:37 Rupert Murdoch a fait 9.
+11:30:37 cyril reçoit une carte de pierre.
+11:30:37 Winston Churchill reçoit une carte de pierre.
+11:30:37 Commander Taco reçoit une carte de pierre et 2 cartes de laine.
+11:30:38 Début du tour 10 pour cyril.
+11:32:48 cyril a fait 5.
+11:32:49 Winston Churchill reçoit une carte d'argile.
+11:32:49 Commander Taco reçoit une carte d'argile.
+11:32:51 Début du tour 10 pour Winston Churchill.
+11:32:51 Winston Churchill a fait 9.
+11:32:51 Winston Churchill reçoit une carte de pierre.
+11:32:51 Commander Taco reçoit une carte de pierre et 2 cartes de laine.
+11:32:51 cyril reçoit une carte de pierre.
+11:32:52 Winston Churchill joue la carte de développement Chevalier.
+11:32:53 Winston Churchill déplace le voleur.
+11:32:53 Winston Churchill vole une ressource à Rupert Murdoch.
+11:32:54 Début du tour 10 pour Commander Taco.
+11:32:54 Commander Taco a fait 4.
+11:32:54 Rupert Murdoch reçoit 3 cartes de pierre.
+11:32:54 cyril reçoit 2 cartes de blés.
+11:32:54 Winston Churchill reçoit une carte de blé.
+11:32:55 Commander Taco échange 4 cartes de laine contre une carte de bois.
+11:32:56 Début du tour 11 pour Rupert Murdoch.
+11:32:56 Rupert Murdoch a fait 10.
+11:32:56 Rupert Murdoch reçoit 2 cartes de laine.
+11:32:56 cyril reçoit une carte de laine et une carte de bois.
+11:32:56 Winston Churchill reçoit une carte de bois.
+11:32:56 Commander Taco reçoit une carte de laine.
+11:32:57 Rupert Murdoch dépense 2 cartes de blés et 3 cartes de pierre.
+11:32:57 Rupert Murdoch érige une ville.
+11:32:58 Début du tour 11 pour cyril.
+11:32:59 cyril a fait 7.
+11:33:00 Commander Taco jete une carte d'argile et 3 cartes de pierre.
+11:33:00 Winston Churchill jete une carte d'argile, 2 cartes de blés et une carte de pierre.
+11:33:12 cyril jete 3 cartes de blés et une carte de bois.
+11:33:16 cyril déplace le voleur.
+11:33:16 Vous volez une carte de laine à Rupert Murdoch.
+11:33:29 cyril échange 2 cartes de pierre contre une carte d'argile.
+11:33:31 cyril dépense une carte d'argile et une carte de bois.
+11:33:31 cyril construit une route.
+11:33:32 Début du tour 11 pour Winston Churchill.
+11:33:32 Winston Churchill a fait 8.
+11:33:32 Rupert Murdoch reçoit 3 cartes d'argile et 2 cartes de bois.
+11:33:32 cyril reçoit une carte d'argile et une carte de bois.
+11:33:33 Début du tour 11 pour Commander Taco.
+11:33:33 Commander Taco a fait 5.
+11:33:33 Commander Taco reçoit une carte d'argile.
+11:33:33 Winston Churchill reçoit une carte d'argile.
+11:33:34 Début du tour 12 pour Rupert Murdoch.
+11:33:34 Rupert Murdoch a fait 6.
+11:33:34 Rupert Murdoch reçoit 2 cartes de blés.
+11:33:34 Winston Churchill reçoit une carte de blé et une carte de bois.
+11:33:34 Commander Taco reçoit une carte de bois.
+11:33:35 Rupert Murdoch dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:33:35 Rupert Murdoch fonde une colonie.
+11:33:36 Rupert Murdoch dépense une carte d'argile et une carte de bois.
+11:33:36 Rupert Murdoch construit une route.
+11:33:37 Début du tour 12 pour cyril.
+11:34:36 cyril a fait 4.
+11:34:36 cyril reçoit 2 cartes de blés.
+11:34:36 Winston Churchill reçoit une carte de blé.
+11:34:57 cyril donne Winston Churchill une carte de laine en échange de une carte de bois.
+11:34:58 cyril donne Commander Taco une carte de blé en échange de une carte d'argile.
+11:35:01 cyril dépense une carte d'argile et une carte de bois.
+11:35:01 cyril construit une route.
+11:35:01 cyril a la route la plus longue.
+11:35:01 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:35:01 cyril fonde une colonie.
+11:35:04 Début du tour 12 pour Winston Churchill.
+11:35:04 Winston Churchill a fait 7.
+11:35:05 Winston Churchill jete 2 cartes de blés, une carte de pierre et une carte de bois.
+11:35:06 Winston Churchill déplace le voleur.
+11:35:06 Winston Churchill vole une ressource à Rupert Murdoch.
+11:35:07 Winston Churchill dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:35:07 Winston Churchill fonde une colonie.
+11:35:08 Début du tour 12 pour Commander Taco.
+11:35:08 Commander Taco a fait 3.
+11:35:08 Commander Taco reçoit une carte d'argile.
+11:35:08 Rupert Murdoch reçoit une carte d'argile et 3 cartes de blés.
+11:35:09 Commander Taco dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:35:09 Commander Taco fonde une colonie.
+11:35:10 Commander Taco dépense une carte d'argile et une carte de bois.
+11:35:10 Commander Taco construit une route.
+11:35:11 Début du tour 13 pour Rupert Murdoch.
+11:35:11 Rupert Murdoch a fait 3.
+11:35:11 Rupert Murdoch reçoit une carte d'argile et 3 cartes de blés.
+11:35:11 Commander Taco reçoit une carte d'argile.
+11:35:12 Rupert Murdoch échange 3 cartes d'argile contre une carte de pierre.
+11:35:13 Rupert Murdoch dépense 2 cartes de blés et 3 cartes de pierre.
+11:35:13 Rupert Murdoch érige une ville.
+11:35:14 Début du tour 13 pour cyril.
+11:35:15 cyril a fait 7.
+11:35:17 cyril déplace le voleur.
+11:35:17 Vous volez une carte de blé à Rupert Murdoch.
+11:35:21 Début du tour 13 pour Winston Churchill.
+11:35:21 Winston Churchill a fait 7.
+11:35:22 Winston Churchill déplace le voleur.
+11:35:22 Winston Churchill vole une ressource à Rupert Murdoch.
+11:35:23 Winston Churchill dépense une carte d'argile et une carte de bois.
+11:35:23 Winston Churchill construit une route.
+11:35:24 Début du tour 13 pour Commander Taco.
+11:35:24 Commander Taco a fait 7.
+11:35:25 Commander Taco déplace le voleur.
+11:35:25 Commander Taco vole une ressource à Rupert Murdoch.
+11:35:27 Commander Taco dépense une carte de blé, une carte de pierre et une carte de laine.
+11:35:27 Commander Taco achète une carte de développement.
+11:35:28 Début du tour 14 pour Rupert Murdoch.
+11:35:28 Rupert Murdoch a fait 11.
+11:35:28 Rupert Murdoch reçoit 3 cartes de pierre.
+11:35:28 cyril reçoit une carte de pierre.
+11:35:28 Winston Churchill reçoit une carte de bois.
+11:35:29 Début du tour 14 pour cyril.
+11:35:30 cyril a fait 5.
+11:35:30 cyril reçoit une carte de blé.
+11:35:30 Winston Churchill reçoit une carte d'argile.
+11:35:30 Commander Taco reçoit une carte d'argile.
+11:35:33 Début du tour 14 pour Winston Churchill.
+11:35:33 Winston Churchill a fait 9.
+11:35:33 Winston Churchill reçoit une carte de pierre.
+11:35:33 Commander Taco reçoit une carte de pierre et 2 cartes de laine.
+11:35:33 cyril reçoit une carte de pierre.
+11:35:34 Winston Churchill dépense une carte d'argile et une carte de bois.
+11:35:34 Winston Churchill construit une route.
+11:35:35 Début du tour 14 pour Commander Taco.
+11:35:35 Commander Taco a fait 10.
+11:35:35 Commander Taco reçoit une carte de laine.
+11:35:35 Rupert Murdoch reçoit 2 cartes de laine.
+11:35:35 cyril reçoit une carte de laine et 2 cartes de bois.
+11:35:35 Winston Churchill reçoit une carte de bois.
+11:35:36 Début du tour 15 pour Rupert Murdoch.
+11:35:36 Rupert Murdoch a fait 6.
+11:35:36 Winston Churchill reçoit une carte de bois.
+11:35:36 Commander Taco reçoit 2 cartes de bois.
+11:35:37 Rupert Murdoch dépense une carte de blé, une carte de pierre et une carte de laine.
+11:35:37 Rupert Murdoch achète une carte de développement.
+11:35:38 Rupert Murdoch dépense une carte de blé, une carte de pierre et une carte de laine.
+11:35:38 Rupert Murdoch achète une carte de développement.
+11:35:39 Début du tour 15 pour cyril.
+11:35:40 cyril a fait 9.
+11:35:40 cyril reçoit une carte de pierre.
+11:35:40 Winston Churchill reçoit une carte de pierre.
+11:35:40 Commander Taco reçoit une carte de pierre et 2 cartes de laine.
+11:35:52 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+11:35:52 cyril érige une ville.
+11:35:54 Début du tour 15 pour Winston Churchill.
+11:35:54 Winston Churchill a fait 11.
+11:35:54 Winston Churchill reçoit une carte de bois.
+11:35:54 Rupert Murdoch reçoit 3 cartes de pierre.
+11:35:54 cyril reçoit une carte de pierre.
+11:35:55 Début du tour 15 pour Commander Taco.
+11:35:55 Commander Taco a fait 5.
+11:35:55 Commander Taco reçoit une carte d'argile.
+11:35:55 cyril reçoit une carte de blé.
+11:35:55 Winston Churchill reçoit une carte d'argile.
+11:35:56 Commander Taco dépense une carte d'argile et une carte de bois.
+11:35:56 Commander Taco construit une route.
+11:35:57 Début du tour 16 pour Rupert Murdoch.
+11:35:57 Rupert Murdoch joue la carte de développement Chevalier.
+11:35:58 Rupert Murdoch déplace le voleur.
+11:35:58 Rupert Murdoch vole une ressource à Commander Taco.
+11:35:59 Rupert Murdoch a fait 7.
+11:35:59 Commander Taco jete 2 cartes d'argile et 2 cartes de pierre.
+11:36:00 Rupert Murdoch déplace le voleur.
+11:36:00 Rupert Murdoch vole une ressource à Winston Churchill.
+11:36:01 Rupert Murdoch échange 3 cartes de pierre contre une carte de bois.
+11:36:02 Rupert Murdoch dépense une carte d'argile et une carte de bois.
+11:36:02 Rupert Murdoch construit une route.
+11:36:03 Début du tour 16 pour cyril.
+11:36:05 cyril a fait 11.
+11:36:05 cyril reçoit une carte de pierre.
+11:36:05 Winston Churchill reçoit une carte de bois.
+11:36:05 Rupert Murdoch reçoit 3 cartes de pierre.
+11:36:07 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+11:36:07 Vous avez acheté une carte de développement Monopole.
+11:36:39 Début du tour 16 pour Winston Churchill.
+11:36:39 Winston Churchill a fait 9.
+11:36:39 Commander Taco reçoit 2 cartes de laine.
+11:36:40 Début du tour 16 pour Commander Taco.
+11:36:40 Commander Taco a fait 8.
+11:36:40 Rupert Murdoch reçoit 4 cartes d'argile et 2 cartes de bois.
+11:36:40 cyril reçoit une carte d'argile et 2 cartes de bois.
+11:36:41 Commander Taco échange 4 cartes de laine contre une carte d'argile.
+11:36:42 Début du tour 17 pour Rupert Murdoch.
+11:36:42 Rupert Murdoch a fait 8.
+11:36:42 Rupert Murdoch reçoit 4 cartes d'argile et 2 cartes de bois.
+11:36:42 cyril reçoit une carte d'argile et 2 cartes de bois.
+11:36:43 Rupert Murdoch échange 3 cartes d'argile contre une carte de blé.
+11:36:44 Rupert Murdoch dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:36:44 Rupert Murdoch fonde une colonie.
+11:36:44 Rupert Murdoch a gagné la partie avec 10 points de victoire !
+11:36:44 Commander Taco est parti.
+11:36:44 Winston Churchill est parti.
+11:36:45 Rupert Murdoch est parti.
+

@@ -1,0 +1,539 @@
+07:57:08 Connexion à localhost, port 5556
+07:57:08 Le joueur 0 s'appelle maintenant cyril.
+07:57:08 Le joueur 1 s'appelle maintenant Pikachu.
+07:57:08 Le joueur 2 s'appelle maintenant Escher.
+07:57:08 Le joueur 3 s'appelle maintenant Bob Dole.
+07:57:08 Placement pour cyril.
+07:57:35 cyril fonde une colonie.
+07:57:37 cyril construit une route.
+07:57:38 Placement pour Pikachu.
+07:57:39 Pikachu fonde une colonie.
+07:57:40 Pikachu construit une route.
+07:57:41 Placement pour Escher.
+07:57:42 Escher fonde une colonie.
+07:57:43 Escher construit une route.
+07:57:44 Double placement pour Bob Dole.
+07:57:45 Bob Dole fonde une colonie.
+07:57:46 Bob Dole fonde une colonie.
+07:57:47 Bob Dole construit une route.
+07:57:48 Bob Dole construit une route.
+07:57:49 Bob Dole reçoit 2 cartes d'argile et une carte de laine.
+07:57:49 Placement pour Escher.
+07:57:50 Escher fonde une colonie.
+07:57:51 Escher construit une route.
+07:57:52 Escher reçoit une carte de blé et une carte de pierre.
+07:57:52 Placement pour Pikachu.
+07:57:53 Pikachu fonde une colonie.
+07:57:54 Pikachu construit une route.
+07:57:55 Pikachu reçoit une carte d'argile, une carte de blé et une carte de laine.
+07:57:55 Placement pour cyril.
+07:58:04 cyril fonde une colonie.
+07:58:05 cyril construit une route.
+07:58:06 cyril reçoit une carte de blé, une carte de pierre et une carte de bois.
+07:58:06 Début du tour 1 pour cyril.
+07:58:09 cyril a fait 3.
+07:58:09 cyril reçoit une carte de laine.
+07:58:09 Bob Dole reçoit une carte de laine.
+07:58:10 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+07:58:10 Vous avez acheté une carte de développement Chevalier.
+07:58:11 Début du tour 1 pour Pikachu.
+07:58:11 Pikachu a fait 3.
+07:58:11 Bob Dole reçoit une carte de laine.
+07:58:11 cyril reçoit une carte de laine.
+07:58:12 Début du tour 1 pour Escher.
+07:58:12 Escher a fait 4.
+07:58:12 cyril reçoit une carte de pierre.
+07:58:12 Pikachu reçoit 2 cartes de laine.
+07:58:13 Début du tour 1 pour Bob Dole.
+07:58:13 Bob Dole a fait 5.
+07:58:13 Bob Dole reçoit une carte de bois.
+07:58:13 Pikachu reçoit une carte de bois.
+07:58:13 Escher reçoit une carte d'argile.
+07:58:14 Bob Dole dépense une carte d'argile et une carte de bois.
+07:58:14 Bob Dole construit une route.
+07:58:15 Début du tour 2 pour cyril.
+07:58:17 cyril joue la carte de développement Chevalier.
+07:58:18 cyril déplace le voleur.
+07:58:19 Vous volez une carte de laine à Pikachu.
+07:58:20 cyril a fait 4.
+07:58:20 cyril reçoit une carte de pierre.
+07:58:20 Pikachu reçoit 2 cartes de laine.
+07:58:22 Début du tour 2 pour Pikachu.
+07:58:22 Pikachu a fait 8.
+07:58:22 Escher reçoit une carte de laine.
+07:58:22 cyril reçoit une carte de laine.
+07:58:23 Pikachu dépense une carte d'argile et une carte de bois.
+07:58:23 Pikachu construit une route.
+07:58:24 Début du tour 2 pour Escher.
+07:58:24 Escher a fait 7.
+07:58:25 Escher déplace le voleur.
+07:58:25 Escher vous vole une carte de pierre.
+07:58:26 Escher dépense une carte de blé, une carte de pierre et une carte de laine.
+07:58:26 Escher achète une carte de développement.
+07:58:27 Début du tour 2 pour Bob Dole.
+07:58:27 Bob Dole a fait 3.
+07:58:27 Bob Dole reçoit une carte de laine.
+07:58:27 cyril reçoit une carte de laine.
+07:58:28 Début du tour 3 pour cyril.
+07:58:29 cyril a fait 8.
+07:58:29 cyril reçoit une carte de laine.
+07:58:29 Pikachu reçoit une carte de blé.
+07:58:29 Escher reçoit une carte de laine.
+07:58:29 Bob Dole reçoit une carte de blé.
+07:58:37 cyril échange 4 cartes de laine contre une carte de blé.
+07:58:39 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+07:58:39 Vous avez acheté une carte de développement Chevalier.
+07:58:40 Début du tour 3 pour Pikachu.
+07:58:40 Pikachu a fait 4.
+07:58:40 Pikachu reçoit 2 cartes de laine.
+07:58:40 cyril reçoit une carte de pierre.
+07:58:41 Pikachu échange 4 cartes de laine contre une carte de pierre.
+07:58:42 Pikachu dépense une carte de blé, une carte de pierre et une carte de laine.
+07:58:42 Pikachu achète une carte de développement.
+07:58:43 Début du tour 3 pour Escher.
+07:58:43 Escher a fait 5.
+07:58:43 Escher reçoit une carte d'argile.
+07:58:43 Bob Dole reçoit une carte de bois.
+07:58:43 Pikachu reçoit une carte de bois.
+07:58:44 Escher joue la carte de développement Chevalier.
+07:58:45 Escher déplace le voleur.
+07:58:45 Escher vole une ressource à Bob Dole.
+07:58:46 Début du tour 3 pour Bob Dole.
+07:58:46 Bob Dole a fait 6.
+07:58:46 Bob Dole reçoit une carte d'argile.
+07:58:46 cyril reçoit une carte de bois.
+07:58:46 Pikachu reçoit une carte de bois.
+07:58:47 Bob Dole dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:58:47 Bob Dole fonde une colonie.
+07:58:48 Début du tour 4 pour cyril.
+07:58:51 cyril a fait 3.
+07:58:51 cyril reçoit une carte de laine.
+07:58:51 Bob Dole reçoit 2 cartes de laine.
+07:58:56 Début du tour 4 pour Pikachu.
+07:58:56 Pikachu a fait 5.
+07:58:56 Pikachu reçoit une carte de bois.
+07:58:56 Escher reçoit une carte d'argile.
+07:58:56 Bob Dole reçoit une carte de bois.
+07:58:57 Pikachu joue la carte de développement Année faste.
+07:58:58 Pikachu prend une carte d'argile et une carte de pierre.
+07:58:59 Pikachu dépense une carte d'argile et une carte de bois.
+07:58:59 Pikachu construit une route.
+07:59:00 Pikachu dépense une carte de blé, une carte de pierre et une carte de laine.
+07:59:00 Pikachu achète une carte de développement.
+07:59:01 Début du tour 4 pour Escher.
+07:59:01 Escher a fait 9.
+07:59:01 Escher reçoit une carte de blé.
+07:59:01 Bob Dole reçoit une carte d'argile.
+07:59:01 Pikachu reçoit une carte d'argile.
+07:59:02 Escher dépense une carte de blé, une carte de pierre et une carte de laine.
+07:59:02 Escher achète une carte de développement.
+07:59:03 Début du tour 4 pour Bob Dole.
+07:59:03 Bob Dole a fait 11.
+07:59:03 cyril reçoit 2 cartes de blés.
+07:59:04 Bob Dole dépense une carte d'argile et une carte de bois.
+07:59:04 Bob Dole construit une route.
+07:59:05 Début du tour 5 pour cyril.
+07:59:06 cyril a fait 8.
+07:59:06 cyril reçoit une carte de laine.
+07:59:06 Escher reçoit une carte de laine.
+07:59:15 cyril joue la carte de développement Chevalier.
+07:59:19 cyril déplace le voleur.
+07:59:19 Vous volez une carte d'argile à Pikachu.
+07:59:29 cyril donne Escher une carte de pierre en échange de une carte d'argile.
+07:59:31 cyril dépense une carte d'argile et une carte de bois.
+07:59:31 cyril construit une route.
+07:59:31 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:59:31 cyril fonde une colonie.
+07:59:32 Début du tour 5 pour Pikachu.
+07:59:32 Pikachu joue la carte de développement Chevalier.
+07:59:33 Pikachu déplace le voleur.
+07:59:33 Pikachu vole une ressource à Escher.
+07:59:34 Pikachu a fait 4.
+07:59:34 Pikachu reçoit 2 cartes de laine.
+07:59:34 cyril reçoit une carte de pierre.
+07:59:34 Pikachu dépense une carte d'argile et une carte de bois.
+07:59:34 Pikachu construit une route.
+07:59:35 Début du tour 5 pour Escher.
+07:59:35 Escher joue la carte de développement Chevalier.
+07:59:36 Escher déplace le voleur.
+07:59:36 Escher vous vole une carte de pierre.
+07:59:37 Escher a fait 5.
+07:59:37 Escher reçoit une carte d'argile.
+07:59:37 Bob Dole reçoit une carte de bois.
+07:59:37 Pikachu reçoit une carte de bois.
+07:59:38 Début du tour 5 pour Bob Dole.
+07:59:38 Bob Dole a fait 10.
+07:59:38 Bob Dole reçoit une carte de pierre.
+07:59:38 Escher reçoit une carte de pierre et une carte de bois.
+07:59:39 Bob Dole dépense une carte d'argile et une carte de bois.
+07:59:39 Bob Dole construit une route.
+07:59:40 Début du tour 6 pour cyril.
+07:59:40 cyril a fait 7.
+07:59:41 Escher jete une carte d'argile et 3 cartes de pierre.
+07:59:43 cyril déplace le voleur.
+07:59:43 Vous volez une carte de laine à Pikachu.
+07:59:45 Début du tour 6 pour Pikachu.
+07:59:45 Pikachu a fait 7.
+07:59:46 Pikachu déplace le voleur.
+07:59:46 Pikachu vole une ressource à Escher.
+07:59:47 Début du tour 6 pour Escher.
+07:59:47 Escher a fait 4.
+07:59:47 cyril reçoit une carte de pierre.
+07:59:47 Pikachu reçoit 2 cartes de laine.
+07:59:48 Début du tour 6 pour Bob Dole.
+07:59:48 Bob Dole a fait 6.
+07:59:48 Bob Dole reçoit une carte d'argile.
+07:59:48 cyril reçoit 2 cartes de bois.
+07:59:48 Pikachu reçoit une carte de bois.
+07:59:49 Début du tour 7 pour cyril.
+07:59:51 cyril a fait 9.
+07:59:51 Pikachu reçoit une carte d'argile.
+07:59:51 Escher reçoit une carte de blé.
+07:59:51 Bob Dole reçoit une carte d'argile.
+07:59:53 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+07:59:53 Vous avez acheté une carte de développement Chevalier.
+07:59:54 Début du tour 7 pour Pikachu.
+07:59:54 Pikachu a fait 9.
+07:59:54 Pikachu reçoit une carte d'argile.
+07:59:54 Escher reçoit une carte de blé.
+07:59:54 Bob Dole reçoit une carte d'argile.
+07:59:55 Début du tour 7 pour Escher.
+07:59:55 Escher a fait 8.
+07:59:55 Bob Dole reçoit 2 cartes de blés.
+07:59:55 Pikachu reçoit une carte de blé.
+07:59:56 Début du tour 7 pour Bob Dole.
+07:59:56 Bob Dole a fait 7.
+07:59:57 Pikachu jete 2 cartes d'argile, 2 cartes de laine et une carte de bois.
+07:59:57 Bob Dole jete 3 cartes d'argile et 2 cartes de laine.
+07:59:58 Bob Dole déplace le voleur.
+07:59:58 Bob Dole vole une ressource à Pikachu.
+07:59:59 Bob Dole dépense une carte de blé, une carte de pierre et une carte de laine.
+07:59:59 Bob Dole achète une carte de développement.
+08:00:00 Début du tour 8 pour cyril.
+08:00:01 cyril a fait 4.
+08:00:01 cyril reçoit une carte de pierre.
+08:00:01 Pikachu reçoit 2 cartes de laine.
+08:00:03 Début du tour 8 pour Pikachu.
+08:00:03 Pikachu a fait 4.
+08:00:03 Pikachu reçoit 2 cartes de laine.
+08:00:03 cyril reçoit une carte de pierre.
+08:00:04 Pikachu dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+08:00:04 Pikachu fonde une colonie.
+08:00:05 Début du tour 8 pour Escher.
+08:00:05 Escher a fait 8.
+08:00:05 Escher reçoit une carte de laine.
+08:00:05 Bob Dole reçoit 2 cartes de blés.
+08:00:05 cyril reçoit une carte de laine.
+08:00:05 Pikachu reçoit une carte de blé.
+08:00:06 Début du tour 8 pour Bob Dole.
+08:00:06 Bob Dole a fait 3.
+08:00:06 Bob Dole reçoit 2 cartes de laine.
+08:00:06 cyril reçoit une carte de laine.
+08:00:07 Bob Dole joue la carte de développement Monopole.
+08:00:08 Bob Dole vous prend 3 cartes de laine.
+08:00:08 Bob Dole prend 4 cartes de laine à Pikachu.
+08:00:08 Bob Dole prend 3 cartes de laine à Escher.
+08:00:09 Bob Dole échange 4 cartes de laine contre une carte d'argile.
+08:00:10 Bob Dole dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+08:00:10 Bob Dole fonde une colonie.
+08:00:11 Début du tour 9 pour cyril.
+08:00:12 cyril a fait 6.
+08:00:12 Bob Dole reçoit 2 cartes d'argile.
+08:00:15 cyril joue la carte de développement Chevalier.
+08:00:15 cyril détient le chevalier le plus puissant.
+08:00:18 cyril déplace le voleur.
+08:00:23 Vous volez une carte de laine à Bob Dole.
+08:00:35 Début du tour 9 pour Pikachu.
+08:00:35 Pikachu a fait 5.
+08:00:35 Pikachu reçoit 2 cartes de bois.
+08:00:35 Escher reçoit une carte d'argile.
+08:00:35 Bob Dole reçoit une carte de bois.
+08:00:36 Début du tour 9 pour Escher.
+08:00:36 Escher a fait 10.
+08:00:36 Escher reçoit une carte de bois.
+08:00:37 Escher dépense une carte d'argile et une carte de bois.
+08:00:37 Escher construit une route.
+08:00:38 Début du tour 9 pour Bob Dole.
+08:00:38 Bob Dole a fait 6.
+08:00:38 Bob Dole reçoit 2 cartes d'argile.
+08:00:38 cyril reçoit 2 cartes de bois.
+08:00:38 Pikachu reçoit une carte de bois.
+08:00:39 Bob Dole dépense une carte d'argile et une carte de bois.
+08:00:39 Bob Dole construit une route.
+08:00:40 Début du tour 10 pour cyril.
+08:00:41 cyril a fait 7.
+08:00:42 Bob Dole jete une carte d'argile et 5 cartes de laine.
+08:00:43 cyril déplace le voleur.
+08:00:44 Vous volez une carte de blé à Bob Dole.
+08:01:00 cyril échange 4 cartes de bois contre une carte de blé.
+08:01:03 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+08:01:03 Vous avez acheté la carte de développement Bibliothèque.
+08:01:04 Début du tour 10 pour Pikachu.
+08:01:04 Pikachu a fait 2.
+08:01:06 Début du tour 10 pour Escher.
+08:01:06 Escher a fait 6.
+08:01:06 Bob Dole reçoit 2 cartes d'argile.
+08:01:06 cyril reçoit 2 cartes de bois.
+08:01:06 Pikachu reçoit une carte de bois.
+08:01:07 Début du tour 10 pour Bob Dole.
+08:01:07 Bob Dole a fait 8.
+08:01:07 cyril reçoit une carte de laine.
+08:01:07 Escher reçoit une carte de laine.
+08:01:08 Début du tour 11 pour cyril.
+08:01:09 cyril a fait 7.
+08:01:11 cyril déplace le voleur.
+08:01:12 Vous volez une carte de blé à Bob Dole.
+08:01:14 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+08:01:14 Vous avez acheté une carte de développement Chevalier.
+08:01:15 Début du tour 11 pour Pikachu.
+08:01:15 Pikachu a fait 2.
+08:01:16 Début du tour 11 pour Escher.
+08:01:16 Escher a fait 9.
+08:01:16 Escher reçoit une carte de blé.
+08:01:16 Bob Dole reçoit une carte d'argile.
+08:01:16 Pikachu reçoit une carte d'argile et une carte de blé.
+08:01:18 Début du tour 11 pour Bob Dole.
+08:01:18 Bob Dole a fait 8.
+08:01:18 Bob Dole reçoit 2 cartes de blés.
+08:01:18 cyril reçoit une carte de laine.
+08:01:18 Pikachu reçoit une carte de blé.
+08:01:18 Escher reçoit une carte de laine.
+08:01:19 Bob Dole échange 4 cartes d'argile contre une carte de pierre.
+08:01:20 Bob Dole dépense une carte de blé, une carte de pierre et une carte de laine.
+08:01:20 Bob Dole achète une carte de développement.
+08:01:21 Début du tour 12 pour cyril.
+08:01:22 cyril a fait 7.
+08:01:23 Pikachu jete 3 cartes de blés et une carte de bois.
+08:01:24 cyril déplace le voleur.
+08:01:24 Vous volez une carte d'argile à Bob Dole.
+08:01:40 cyril dépense une carte d'argile et une carte de bois.
+08:01:40 cyril construit une route.
+08:01:41 Début du tour 12 pour Pikachu.
+08:01:41 Pikachu a fait 6.
+08:01:41 Pikachu reçoit une carte de bois.
+08:01:41 Bob Dole reçoit 2 cartes d'argile.
+08:01:41 cyril reçoit 2 cartes de bois.
+08:01:42 Pikachu dépense une carte d'argile et une carte de bois.
+08:01:42 Pikachu construit une route.
+08:01:43 Début du tour 12 pour Escher.
+08:01:43 Escher a fait 6.
+08:01:43 Bob Dole reçoit 2 cartes d'argile.
+08:01:43 cyril reçoit 2 cartes de bois.
+08:01:43 Pikachu reçoit une carte de bois.
+08:01:44 Début du tour 12 pour Bob Dole.
+08:01:44 Bob Dole a fait 4.
+08:01:44 cyril reçoit une carte de pierre.
+08:01:44 Pikachu reçoit 2 cartes de laine.
+08:01:45 Bob Dole joue la carte de développement Année faste.
+08:01:46 Bob Dole prend une carte de pierre et une carte de bois.
+08:01:47 Bob Dole dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+08:01:47 Bob Dole fonde une colonie.
+08:01:48 Début du tour 13 pour cyril.
+08:01:48 cyril a fait 5.
+08:01:48 Pikachu reçoit 2 cartes de bois.
+08:01:48 Escher reçoit une carte d'argile.
+08:01:48 Bob Dole reçoit une carte de bois.
+08:01:53 cyril échange 4 cartes de bois contre une carte d'argile.
+08:01:56 cyril dépense une carte d'argile et une carte de bois.
+08:01:56 cyril construit une route.
+08:01:57 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+08:01:57 Vous avez acheté une carte de développement Construction de route.
+08:02:01 Début du tour 13 pour Pikachu.
+08:02:01 Pikachu a fait 5.
+08:02:01 Pikachu reçoit 2 cartes de bois.
+08:02:01 Escher reçoit une carte d'argile.
+08:02:01 Bob Dole reçoit une carte de bois.
+08:02:02 Pikachu échange 4 cartes de bois contre une carte d'argile.
+08:02:03 Pikachu dépense une carte d'argile et une carte de bois.
+08:02:03 Pikachu construit une route.
+08:02:04 Début du tour 13 pour Escher.
+08:02:04 Escher a fait 7.
+08:02:05 Escher jete une carte d'argile, 2 cartes de blés et une carte de laine.
+08:02:06 Escher déplace le voleur.
+08:02:06 Escher vole une ressource à Pikachu.
+08:02:07 Escher dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+08:02:07 Escher fonde une colonie.
+08:02:08 Début du tour 13 pour Bob Dole.
+08:02:08 Bob Dole a fait 10.
+08:02:08 Bob Dole reçoit une carte de pierre.
+08:02:08 Escher reçoit une carte de pierre et 2 cartes de bois.
+08:02:09 Bob Dole dépense une carte d'argile et une carte de bois.
+08:02:09 Bob Dole construit une route.
+08:02:10 Bob Dole dépense une carte d'argile et une carte de bois.
+08:02:10 Bob Dole construit une route.
+08:02:11 Début du tour 14 pour cyril.
+08:02:13 cyril joue la carte de développement Chevalier.
+08:02:14 cyril déplace le voleur.
+08:02:16 Vous volez une carte de pierre à Bob Dole.
+08:02:17 cyril a fait 7.
+08:02:19 cyril déplace le voleur.
+08:02:20 Vous volez une carte de pierre à Bob Dole.
+08:02:39 Début du tour 14 pour Pikachu.
+08:02:39 Pikachu a fait 6.
+08:02:39 Pikachu reçoit une carte de bois.
+08:02:39 Bob Dole reçoit 2 cartes d'argile.
+08:02:39 cyril reçoit 2 cartes de bois.
+08:02:40 Début du tour 14 pour Escher.
+08:02:40 Escher a fait 7.
+08:02:41 Escher déplace le voleur.
+08:02:41 Escher vole une ressource à Pikachu.
+08:02:42 Début du tour 14 pour Bob Dole.
+08:02:42 Bob Dole a fait 7.
+08:02:43 Bob Dole déplace le voleur.
+08:02:43 Bob Dole vole une ressource à Escher.
+08:02:44 Début du tour 15 pour cyril.
+08:02:49 cyril a fait 12.
+08:02:49 cyril reçoit une carte de blé.
+08:02:49 Pikachu reçoit une carte de blé.
+08:02:52 cyril joue la carte de développement Construction de route.
+08:02:53 cyril construit une route.
+08:02:53 cyril construit une route.
+08:03:02 cyril retire une route.
+08:03:03 cyril construit une route.
+08:03:03 cyril a la route la plus longue.
+08:03:07 Début du tour 15 pour Pikachu.
+08:03:07 Pikachu a fait 9.
+08:03:07 Pikachu reçoit une carte d'argile et une carte de blé.
+08:03:07 Escher reçoit une carte de blé.
+08:03:07 Bob Dole reçoit une carte d'argile.
+08:03:08 Pikachu dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+08:03:08 Pikachu fonde une colonie.
+08:03:09 Début du tour 15 pour Escher.
+08:03:09 Escher a fait 10.
+08:03:09 Escher reçoit une carte de pierre et 2 cartes de bois.
+08:03:09 Bob Dole reçoit une carte de pierre.
+08:03:09 Pikachu reçoit une carte de bois.
+08:03:10 Escher dépense une carte de blé, une carte de pierre et une carte de laine.
+08:03:10 Escher achète une carte de développement.
+08:03:11 Début du tour 15 pour Bob Dole.
+08:03:11 Bob Dole a fait 3.
+08:03:11 Bob Dole reçoit 3 cartes de laine.
+08:03:11 cyril reçoit une carte de laine.
+08:03:12 Bob Dole dépense une carte d'argile et une carte de bois.
+08:03:12 Bob Dole construit une route.
+08:03:13 Début du tour 16 pour cyril.
+08:03:14 cyril a fait 5.
+08:03:14 Pikachu reçoit 2 cartes de bois.
+08:03:14 Escher reçoit une carte d'argile.
+08:03:14 Bob Dole reçoit une carte de bois.
+08:03:17 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+08:03:17 Vous avez acheté la carte de développement Palais du Gouverneur.
+08:03:19 Début du tour 16 pour Pikachu.
+08:03:19 Pikachu a fait 3.
+08:03:19 Bob Dole reçoit 3 cartes de laine.
+08:03:19 cyril reçoit une carte de laine.
+08:03:20 Pikachu échange 4 cartes de bois contre une carte d'argile.
+08:03:21 Pikachu dépense une carte d'argile et une carte de bois.
+08:03:21 Pikachu construit une route.
+08:03:22 Début du tour 16 pour Escher.
+08:03:22 Escher joue la carte de développement Chevalier.
+08:03:23 Escher déplace le voleur.
+08:03:23 Escher vous vole une carte de pierre.
+08:03:23 Escher a fait 8.
+08:03:23 Escher reçoit une carte de laine.
+08:03:23 Bob Dole reçoit 2 cartes de blés.
+08:03:23 cyril reçoit une carte de laine.
+08:03:23 Pikachu reçoit une carte de blé.
+08:03:24 Escher dépense une carte d'argile et une carte de bois.
+08:03:24 Escher construit une route.
+08:03:25 Début du tour 16 pour Bob Dole.
+08:03:25 Bob Dole a fait 4.
+08:03:25 cyril reçoit une carte de pierre.
+08:03:25 Pikachu reçoit 2 cartes de laine.
+08:03:25 Escher reçoit une carte de laine.
+08:03:26 Bob Dole dépense une carte de blé, une carte de pierre et une carte de laine.
+08:03:26 Bob Dole achète une carte de développement.
+08:03:27 Début du tour 17 pour cyril.
+08:03:28 cyril a fait 6.
+08:03:28 Bob Dole reçoit 2 cartes d'argile.
+08:03:36 Début du tour 17 pour Pikachu.
+08:03:36 Pikachu a fait 9.
+08:03:36 Pikachu reçoit 2 cartes d'argile et une carte de blé.
+08:03:36 Escher reçoit une carte de blé.
+08:03:36 Bob Dole reçoit une carte d'argile.
+08:03:37 Début du tour 17 pour Escher.
+08:03:37 Escher a fait 6.
+08:03:37 Bob Dole reçoit 2 cartes d'argile.
+08:03:38 Escher dépense une carte de blé, une carte de pierre et une carte de laine.
+08:03:38 Escher achète une carte de développement.
+08:03:39 Début du tour 17 pour Bob Dole.
+08:03:39 Bob Dole a fait 5.
+08:03:39 Bob Dole reçoit une carte de bois.
+08:03:39 Pikachu reçoit 2 cartes de bois.
+08:03:39 Escher reçoit une carte d'argile.
+08:03:40 Bob Dole échange 3 cartes d'argile contre une carte de pierre.
+08:03:41 Bob Dole dépense une carte de blé, une carte de pierre et une carte de laine.
+08:03:41 Bob Dole achète une carte de développement.
+08:03:42 Bob Dole joue la carte de développement Chevalier.
+08:03:43 Bob Dole déplace le voleur.
+08:03:43 Bob Dole vole une ressource à Escher.
+08:03:44 Début du tour 18 pour cyril.
+08:03:46 cyril a fait 2.
+08:03:46 Pikachu reçoit une carte de bois.
+08:03:55 Début du tour 18 pour Pikachu.
+08:03:55 Pikachu a fait 7.
+08:03:56 Bob Dole jete 4 cartes d'argile et 2 cartes de laine.
+08:03:56 Pikachu jete une carte d'argile, 3 cartes de blés et une carte de laine.
+08:03:57 Pikachu déplace le voleur.
+08:03:57 Pikachu vole une ressource à Bob Dole.
+08:03:58 Pikachu dépense une carte d'argile et une carte de bois.
+08:03:58 Pikachu construit une route.
+08:03:59 Début du tour 18 pour Escher.
+08:03:59 Escher a fait 5.
+08:03:59 Escher reçoit une carte d'argile.
+08:03:59 Bob Dole reçoit une carte de bois.
+08:03:59 Pikachu reçoit 2 cartes de bois.
+08:04:00 Escher dépense une carte d'argile et une carte de bois.
+08:04:00 Escher construit une route.
+08:04:01 Escher joue la carte de développement Construction de route.
+08:04:02 Escher construit une route.
+08:04:03 Escher construit une route.
+08:04:05 Début du tour 18 pour Bob Dole.
+08:04:05 Bob Dole joue la carte de développement Chevalier.
+08:04:06 Bob Dole déplace le voleur.
+08:04:06 Bob Dole vole une ressource à Pikachu.
+08:04:07 Bob Dole a fait 10.
+08:04:07 Bob Dole reçoit une carte de pierre.
+08:04:07 Pikachu reçoit une carte de bois.
+08:04:07 Escher reçoit une carte de pierre et 2 cartes de bois.
+08:04:08 Début du tour 19 pour cyril.
+08:04:09 cyril a fait 8.
+08:04:09 cyril reçoit une carte de laine.
+08:04:09 Pikachu reçoit une carte de blé.
+08:04:09 Escher reçoit une carte de laine.
+08:04:09 Bob Dole reçoit 2 cartes de blés.
+08:04:17 Début du tour 19 pour Pikachu.
+08:04:17 Pikachu a fait 7.
+08:04:18 Escher jete 2 cartes de pierre et 2 cartes de bois.
+08:04:18 Bob Dole jete une carte d'argile, une carte de blé, une carte de laine et 2 cartes de bois.
+08:04:19 Pikachu déplace le voleur.
+08:04:19 Pikachu vole une ressource à Bob Dole.
+08:04:20 Pikachu dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+08:04:20 Pikachu fonde une colonie.
+08:04:21 Début du tour 19 pour Escher.
+08:04:21 Escher a fait 5.
+08:04:21 Escher reçoit une carte d'argile.
+08:04:21 Bob Dole reçoit une carte de bois.
+08:04:21 Pikachu reçoit une carte d'argile et 2 cartes de bois.
+08:04:22 Début du tour 19 pour Bob Dole.
+08:04:22 Bob Dole a fait 8.
+08:04:22 Bob Dole reçoit 2 cartes de blés.
+08:04:22 cyril reçoit une carte de laine.
+08:04:22 Pikachu reçoit une carte de blé.
+08:04:22 Escher reçoit une carte de laine.
+08:04:23 Bob Dole dépense une carte de blé, une carte de pierre et une carte de laine.
+08:04:23 Bob Dole achète une carte de développement.
+08:04:24 Début du tour 20 pour cyril.
+08:04:28 cyril a fait 6.
+08:04:28 cyril reçoit 2 cartes de bois.
+08:04:28 Pikachu reçoit une carte de bois.
+08:04:42 cyril échange 4 cartes de bois contre une carte de blé.
+08:04:46 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+08:04:46 Vous avez acheté la carte de développement Université.
+08:04:49 cyril joue la carte de développement Université.
+08:04:51 cyril joue la carte de développement Palais du Gouverneur.
+08:04:54 cyril joue la carte de développement Bibliothèque.
+08:04:54 cyril a gagné la partie avec 10 points de victoire !
+08:04:54 Pikachu est parti.
+08:04:54 Bob Dole est parti.
+08:04:54 Escher est parti.

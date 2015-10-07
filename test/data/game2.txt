@@ -1,0 +1,724 @@
+11:45:58 Connexion à localhost, port 5556
+11:45:58 Le joueur 2 s'appelle maintenant cyril.
+11:45:58 Le joueur 3 s'appelle maintenant Chairman Mao.
+11:45:58 Le joueur 1 s'appelle maintenant Jaws.
+11:45:58 Le joueur 0 s'appelle maintenant Escher.
+11:45:58 Placement pour Escher.
+11:45:59 Escher fonde une colonie.
+11:46:00 Escher construit une route.
+11:46:01 Placement pour Jaws.
+11:46:02 Jaws fonde une colonie.
+11:46:03 Jaws construit une route.
+11:46:04 Placement pour cyril.
+11:47:34 cyril fonde une colonie.
+11:47:41 cyril construit une route.
+11:47:43 Double placement pour Chairman Mao.
+11:47:44 Chairman Mao fonde une colonie.
+11:47:45 Chairman Mao fonde une colonie.
+11:47:46 Chairman Mao construit une route.
+11:47:47 Chairman Mao construit une route.
+11:47:48 Chairman Mao reçoit une carte d'argile, une carte de pierre et une carte de bois.
+11:47:48 Placement pour cyril.
+11:48:11 cyril fonde une colonie.
+11:48:12 cyril construit une route.
+11:48:14 cyril reçoit une carte de blé et une carte de bois.
+11:48:14 Placement pour Jaws.
+11:48:15 Jaws fonde une colonie.
+11:48:16 Jaws construit une route.
+11:48:17 Jaws reçoit une carte de laine et une carte de bois.
+11:48:17 Placement pour Escher.
+11:48:18 Escher fonde une colonie.
+11:48:19 Escher construit une route.
+11:48:20 Escher reçoit 2 cartes de blés et une carte de laine.
+11:48:20 Début du tour 1 pour Escher.
+11:48:20 Escher a fait 9.
+11:48:20 Escher reçoit une carte de blé.
+11:48:20 Chairman Mao reçoit une carte de bois.
+11:48:21 Début du tour 1 pour Jaws.
+11:48:21 Jaws a fait 12.
+11:48:22 Début du tour 1 pour cyril.
+11:48:24 cyril a fait 3.
+11:48:24 Chairman Mao reçoit une carte de laine et une carte de bois.
+11:48:26 Début du tour 1 pour Chairman Mao.
+11:48:26 Chairman Mao a fait 10.
+11:48:26 Chairman Mao reçoit une carte de pierre.
+11:48:26 Jaws reçoit une carte de pierre.
+11:48:27 Chairman Mao dépense une carte d'argile et une carte de bois.
+11:48:27 Chairman Mao construit une route.
+11:48:28 Début du tour 2 pour Escher.
+11:48:28 Escher a fait 9.
+11:48:28 Escher reçoit une carte de blé.
+11:48:28 Chairman Mao reçoit une carte de bois.
+11:48:29 Début du tour 2 pour Jaws.
+11:48:29 Jaws a fait 3.
+11:48:29 Chairman Mao reçoit une carte de laine et une carte de bois.
+11:48:30 Début du tour 2 pour cyril.
+11:48:31 cyril a fait 8.
+11:48:31 cyril reçoit une carte de blé.
+11:48:31 Chairman Mao reçoit une carte d'argile.
+11:48:31 Jaws reçoit une carte d'argile.
+11:48:37 Début du tour 2 pour Chairman Mao.
+11:48:37 Chairman Mao a fait 5.
+11:48:37 Escher reçoit une carte de bois.
+11:48:37 Jaws reçoit une carte de blé.
+11:48:37 cyril reçoit une carte de bois.
+11:48:38 Début du tour 3 pour Escher.
+11:48:38 Escher a fait 10.
+11:48:38 Jaws reçoit une carte de pierre.
+11:48:38 Chairman Mao reçoit une carte de pierre.
+11:48:39 Début du tour 3 pour Jaws.
+11:48:39 Jaws a fait 6.
+11:48:39 Jaws reçoit une carte de laine.
+11:48:39 cyril reçoit une carte de pierre.
+11:48:39 Chairman Mao reçoit une carte de laine.
+11:48:39 Escher reçoit une carte de pierre.
+11:48:40 Jaws dépense une carte d'argile et une carte de bois.
+11:48:40 Jaws construit une route.
+11:48:41 Jaws dépense une carte de blé, une carte de pierre et une carte de laine.
+11:48:41 Jaws achète une carte de développement.
+11:48:42 Début du tour 3 pour cyril.
+11:48:44 cyril a fait 6.
+11:48:44 cyril reçoit une carte de pierre.
+11:48:44 Chairman Mao reçoit une carte de laine.
+11:48:44 Escher reçoit une carte de pierre.
+11:48:44 Jaws reçoit une carte de laine.
+11:48:52 Début du tour 3 pour Chairman Mao.
+11:48:52 Chairman Mao a fait 12.
+11:48:53 Début du tour 4 pour Escher.
+11:48:53 Escher a fait 9.
+11:48:53 Escher reçoit une carte de blé.
+11:48:53 Chairman Mao reçoit une carte de bois.
+11:48:54 Escher dépense une carte de blé, une carte de pierre et une carte de laine.
+11:48:54 Escher achète une carte de développement.
+11:48:55 Début du tour 4 pour Jaws.
+11:48:55 Jaws a fait 8.
+11:48:55 Jaws reçoit une carte d'argile.
+11:48:55 cyril reçoit une carte de blé.
+11:48:55 Chairman Mao reçoit une carte d'argile.
+11:48:56 Début du tour 4 pour cyril.
+11:48:57 cyril a fait 8.
+11:48:57 cyril reçoit une carte de blé.
+11:48:57 Chairman Mao reçoit une carte d'argile.
+11:48:57 Jaws reçoit une carte d'argile.
+11:49:20 cyril échange 4 cartes de blés contre une carte de laine.
+11:49:22 Début du tour 4 pour Chairman Mao.
+11:49:22 Chairman Mao a fait 2.
+11:49:22 Jaws reçoit une carte de bois.
+11:49:23 Chairman Mao échange 4 cartes de bois contre une carte de blé.
+11:49:24 Chairman Mao dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:49:24 Chairman Mao fonde une colonie.
+11:49:25 Début du tour 5 pour Escher.
+11:49:25 Escher a fait 3.
+11:49:25 Chairman Mao reçoit 2 cartes de laine et une carte de bois.
+11:49:26 Début du tour 5 pour Jaws.
+11:49:26 Jaws a fait 9.
+11:49:26 Chairman Mao reçoit une carte de bois.
+11:49:26 Escher reçoit une carte de blé.
+11:49:27 Début du tour 5 pour cyril.
+11:49:32 cyril a fait 11.
+11:49:32 cyril reçoit une carte d'argile.
+11:49:32 Escher reçoit une carte de laine.
+11:49:34 cyril dépense une carte d'argile et une carte de bois.
+11:49:34 cyril construit une route.
+11:49:34 Début du tour 5 pour Chairman Mao.
+11:49:34 Chairman Mao a fait 10.
+11:49:34 Chairman Mao reçoit une carte de pierre.
+11:49:34 Jaws reçoit une carte de pierre.
+11:49:35 Chairman Mao dépense une carte d'argile et une carte de bois.
+11:49:35 Chairman Mao construit une route.
+11:49:36 Début du tour 6 pour Escher.
+11:49:36 Escher a fait 6.
+11:49:36 Escher reçoit une carte de pierre.
+11:49:36 Jaws reçoit une carte de laine.
+11:49:36 cyril reçoit une carte de pierre.
+11:49:36 Chairman Mao reçoit une carte de laine.
+11:49:37 Escher dépense une carte de blé, une carte de pierre et une carte de laine.
+11:49:37 Escher achète une carte de développement.
+11:49:38 Début du tour 6 pour Jaws.
+11:49:38 Jaws a fait 7.
+11:49:39 Chairman Mao jete une carte d'argile, 4 cartes de pierre et une carte de laine.
+11:49:39 Jaws jete une carte d'argile, une carte de pierre et 2 cartes de laine.
+11:49:40 Jaws déplace le voleur.
+11:49:40 Jaws vole une ressource à Escher.
+11:49:42 Début du tour 6 pour cyril.
+11:49:42 cyril a fait 9.
+11:49:42 Chairman Mao reçoit une carte de bois.
+11:49:42 Escher reçoit une carte de blé.
+11:49:48 Début du tour 6 pour Chairman Mao.
+11:49:48 Chairman Mao a fait 9.
+11:49:48 Chairman Mao reçoit une carte de bois.
+11:49:48 Escher reçoit une carte de blé.
+11:49:49 Chairman Mao échange 4 cartes de laine contre une carte d'argile.
+11:49:50 Début du tour 7 pour Escher.
+11:49:50 Escher joue la carte de développement Chevalier.
+11:49:51 Escher déplace le voleur.
+11:49:51 Escher vole une ressource à Chairman Mao.
+11:49:51 Escher a fait 4.
+11:49:52 Escher reçoit une carte d'argile et une carte de blé.
+11:49:52 cyril reçoit une carte de blé.
+11:49:52 Chairman Mao reçoit une carte d'argile.
+11:49:52 Escher dépense une carte d'argile et une carte de bois.
+11:49:52 Escher construit une route.
+11:49:53 Début du tour 7 pour Jaws.
+11:49:53 Jaws a fait 9.
+11:49:53 Chairman Mao reçoit une carte de bois.
+11:49:53 Escher reçoit une carte de blé.
+11:49:54 Début du tour 7 pour cyril.
+11:49:56 cyril a fait 10.
+11:49:56 Chairman Mao reçoit une carte de pierre.
+11:49:56 Jaws reçoit une carte de pierre.
+11:50:09 cyril donne Chairman Mao une carte de blé en échange de une carte d'argile.
+11:50:11 cyril dépense une carte d'argile et une carte de bois.
+11:50:11 cyril construit une route.
+11:50:12 Début du tour 7 pour Chairman Mao.
+11:50:12 Chairman Mao a fait 11.
+11:50:12 Escher reçoit une carte de laine.
+11:50:12 cyril reçoit une carte d'argile.
+11:50:13 Chairman Mao dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:50:13 Chairman Mao fonde une colonie.
+11:50:14 Début du tour 8 pour Escher.
+11:50:14 Escher a fait 4.
+11:50:14 Escher reçoit une carte d'argile et une carte de blé.
+11:50:14 cyril reçoit une carte de blé.
+11:50:14 Chairman Mao reçoit une carte d'argile.
+11:50:15 Escher dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:50:15 Escher fonde une colonie.
+11:50:16 Début du tour 8 pour Jaws.
+11:50:16 Jaws a fait 2.
+11:50:16 Jaws reçoit une carte de bois.
+11:50:17 Début du tour 8 pour cyril.
+11:50:21 cyril a fait 3.
+11:50:21 Chairman Mao reçoit 2 cartes de laine et une carte de bois.
+11:50:26 cyril donne Chairman Mao une carte de pierre en échange de une carte de bois.
+11:50:29 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:50:29 cyril fonde une colonie.
+11:50:30 Début du tour 8 pour Chairman Mao.
+11:50:30 Chairman Mao a fait 5.
+11:50:30 Escher reçoit une carte de bois.
+11:50:30 Jaws reçoit une carte de blé.
+11:50:30 cyril reçoit une carte de bois.
+11:50:31 Chairman Mao dépense une carte d'argile et une carte de bois.
+11:50:31 Chairman Mao construit une route.
+11:50:32 Début du tour 9 pour Escher.
+11:50:32 Escher a fait 8.
+11:50:32 cyril reçoit une carte de blé.
+11:50:32 Chairman Mao reçoit une carte de blé.
+11:50:33 Escher échange 3 cartes de blés contre une carte d'argile.
+11:50:34 Escher dépense une carte d'argile et une carte de bois.
+11:50:34 Escher construit une route.
+11:50:35 Début du tour 9 pour Jaws.
+11:50:35 Jaws a fait 6.
+11:50:35 Jaws reçoit une carte de laine.
+11:50:35 cyril reçoit une carte de pierre.
+11:50:35 Chairman Mao reçoit une carte de laine.
+11:50:35 Escher reçoit une carte de pierre.
+11:50:36 Jaws dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:50:36 Jaws fonde une colonie.
+11:50:37 Début du tour 9 pour cyril.
+11:50:39 cyril a fait 7.
+11:50:45 cyril déplace le voleur.
+11:50:46 Vous volez une carte de laine à Chairman Mao.
+11:50:56 Début du tour 9 pour Chairman Mao.
+11:50:56 Chairman Mao a fait 11.
+11:50:56 Escher reçoit 2 cartes de laine.
+11:50:56 cyril reçoit une carte d'argile et une carte de laine.
+11:50:57 Chairman Mao dépense une carte de blé, une carte de pierre et une carte de laine.
+11:50:57 Chairman Mao achète une carte de développement.
+11:50:58 Début du tour 10 pour Escher.
+11:50:58 Escher a fait 7.
+11:51:00 Escher jete 4 cartes de blés.
+11:51:14 cyril jete une carte de blé, 2 cartes de pierre et une carte de laine.
+11:51:15 Escher déplace le voleur.
+11:51:15 Escher vole une ressource à Jaws.
+11:51:16 Escher dépense une carte de blé, une carte de pierre et une carte de laine.
+11:51:16 Escher achète une carte de développement.
+11:51:17 Début du tour 10 pour Jaws.
+11:51:17 Jaws a fait 4.
+11:51:17 cyril reçoit une carte de blé.
+11:51:17 Chairman Mao reçoit une carte d'argile.
+11:51:17 Escher reçoit une carte d'argile et une carte de blé.
+11:51:18 Début du tour 10 pour cyril.
+11:51:21 cyril a fait 5.
+11:51:21 cyril reçoit une carte de bois.
+11:51:21 Escher reçoit une carte de bois.
+11:51:21 Jaws reçoit une carte de blé.
+11:51:23 cyril dépense une carte d'argile et une carte de bois.
+11:51:23 cyril construit une route.
+11:51:24 Début du tour 10 pour Chairman Mao.
+11:51:24 Chairman Mao joue la carte de développement Chevalier.
+11:51:25 Chairman Mao déplace le voleur.
+11:51:25 Chairman Mao vole une ressource à Escher.
+11:51:26 Chairman Mao a fait 3.
+11:51:26 Chairman Mao reçoit 2 cartes de laine et une carte de bois.
+11:51:26 Chairman Mao dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:51:26 Chairman Mao fonde une colonie.
+11:51:27 Début du tour 11 pour Escher.
+11:51:27 Escher a fait 4.
+11:51:27 Escher reçoit une carte d'argile et une carte de blé.
+11:51:27 cyril reçoit une carte de blé.
+11:51:27 Chairman Mao reçoit 2 cartes d'argile.
+11:51:28 Escher dépense une carte d'argile et une carte de bois.
+11:51:28 Escher construit une route.
+11:51:29 Escher dépense une carte de blé, une carte de pierre et une carte de laine.
+11:51:29 Escher achète une carte de développement.
+11:51:30 Début du tour 11 pour Jaws.
+11:51:30 Jaws a fait 4.
+11:51:30 cyril reçoit une carte de blé.
+11:51:30 Chairman Mao reçoit 2 cartes d'argile.
+11:51:30 Escher reçoit une carte d'argile et une carte de blé.
+11:51:31 Jaws dépense une carte de blé, une carte de pierre et une carte de laine.
+11:51:31 Jaws achète une carte de développement.
+11:51:32 Début du tour 11 pour cyril.
+11:51:34 cyril a fait 6.
+11:51:34 Chairman Mao reçoit une carte de laine.
+11:51:34 Jaws reçoit une carte de laine.
+11:51:48 Début du tour 11 pour Chairman Mao.
+11:51:48 Chairman Mao a fait 9.
+11:51:48 Chairman Mao reçoit une carte de blé et 2 cartes de bois.
+11:51:48 Escher reçoit une carte de blé.
+11:51:48 Jaws reçoit une carte de bois.
+11:51:49 Chairman Mao dépense une carte d'argile et une carte de bois.
+11:51:49 Chairman Mao construit une route.
+11:51:50 Chairman Mao dépense une carte d'argile et une carte de bois.
+11:51:50 Chairman Mao construit une route.
+11:51:51 Chairman Mao dépense une carte de blé, une carte de pierre et une carte de laine.
+11:51:51 Chairman Mao achète une carte de développement.
+11:51:52 Début du tour 12 pour Escher.
+11:51:52 Escher a fait 11.
+11:51:52 Escher reçoit 2 cartes de laine.
+11:51:52 cyril reçoit une carte d'argile et une carte de laine.
+11:51:52 Chairman Mao reçoit une carte d'argile.
+11:51:53 Début du tour 12 pour Jaws.
+11:51:53 Jaws a fait 5.
+11:51:53 Jaws reçoit une carte de blé.
+11:51:53 cyril reçoit une carte de bois.
+11:51:53 Escher reçoit une carte de bois.
+11:51:54 Jaws dépense une carte de blé, une carte de pierre et une carte de laine.
+11:51:54 Jaws achète une carte de développement.
+11:51:55 Jaws joue la carte de développement Année faste.
+11:51:56 Jaws prend une carte d'argile et une carte de blé.
+11:51:57 Jaws dépense une carte d'argile et une carte de bois.
+11:51:57 Jaws construit une route.
+11:51:58 Début du tour 12 pour cyril.
+11:51:59 cyril a fait 4.
+11:51:59 cyril reçoit une carte de blé.
+11:51:59 Chairman Mao reçoit 2 cartes d'argile.
+11:51:59 Escher reçoit une carte d'argile et une carte de blé.
+11:52:08 cyril donne Chairman Mao une carte de blé en échange de une carte d'argile.
+11:52:10 cyril dépense une carte d'argile et une carte de bois.
+11:52:10 cyril construit une route.
+11:52:10 cyril a la route la plus longue.
+11:52:11 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:52:11 cyril fonde une colonie.
+11:52:14 Début du tour 12 pour Chairman Mao.
+11:52:14 Chairman Mao a fait 10.
+11:52:14 Chairman Mao reçoit 2 cartes de pierre.
+11:52:14 Jaws reçoit 2 cartes de pierre.
+11:52:14 cyril reçoit une carte de pierre.
+11:52:15 Chairman Mao dépense une carte d'argile et une carte de bois.
+11:52:15 Chairman Mao construit une route.
+11:52:16 Chairman Mao dépense une carte de blé, une carte de pierre et une carte de laine.
+11:52:16 Chairman Mao achète une carte de développement.
+11:52:17 Début du tour 13 pour Escher.
+11:52:17 Escher a fait 4.
+11:52:17 Escher reçoit une carte d'argile et une carte de blé.
+11:52:17 cyril reçoit une carte de blé.
+11:52:17 Chairman Mao reçoit 2 cartes d'argile.
+11:52:18 Escher dépense une carte d'argile et une carte de bois.
+11:52:18 Escher construit une route.
+11:52:19 Début du tour 13 pour Jaws.
+11:52:19 Jaws a fait 8.
+11:52:19 Jaws reçoit une carte d'argile.
+11:52:19 cyril reçoit une carte de blé.
+11:52:19 Chairman Mao reçoit une carte d'argile et une carte de blé.
+11:52:20 Jaws joue la carte de développement Chevalier.
+11:52:21 Jaws déplace le voleur.
+11:52:21 Jaws vole une ressource à Chairman Mao.
+11:52:22 Début du tour 13 pour cyril.
+11:52:24 cyril a fait 6.
+11:52:24 cyril reçoit une carte de pierre.
+11:52:24 Chairman Mao reçoit une carte de laine.
+11:52:24 Escher reçoit une carte de pierre.
+11:52:24 Jaws reçoit une carte de laine.
+11:52:37 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+11:52:37 cyril érige une ville.
+11:52:38 Début du tour 13 pour Chairman Mao.
+11:52:38 Chairman Mao joue la carte de développement Chevalier.
+11:52:39 Chairman Mao déplace le voleur.
+11:52:39 Chairman Mao vole une ressource à Escher.
+11:52:40 Chairman Mao a fait 12.
+11:52:40 Chairman Mao dépense une carte de blé, une carte de pierre et une carte de laine.
+11:52:40 Chairman Mao achète une carte de développement.
+11:52:41 Début du tour 14 pour Escher.
+11:52:41 Escher a fait 4.
+11:52:41 Escher reçoit une carte d'argile et une carte de blé.
+11:52:41 cyril reçoit 2 cartes de blés.
+11:52:41 Chairman Mao reçoit 2 cartes d'argile.
+11:52:42 Escher dépense une carte de blé, une carte de pierre et une carte de laine.
+11:52:42 Escher achète une carte de développement.
+11:52:43 Début du tour 14 pour Jaws.
+11:52:43 Jaws a fait 11.
+11:52:43 cyril reçoit 3 cartes d'argile et une carte de laine.
+11:52:43 Chairman Mao reçoit une carte d'argile.
+11:52:43 Escher reçoit 2 cartes de laine.
+11:52:44 Jaws dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:52:44 Jaws fonde une colonie.
+11:52:45 Début du tour 14 pour cyril.
+11:52:47 cyril a fait 7.
+11:52:48 Chairman Mao jete 5 cartes d'argile.
+11:52:48 Escher jete 4 cartes d'argile et une carte de blé.
+11:53:03 cyril jete une carte d'argile, 2 cartes de blés et une carte de laine.
+11:53:06 cyril déplace le voleur.
+11:53:08 Vous volez une carte de blé à Escher.
+11:53:15 Début du tour 14 pour Chairman Mao.
+11:53:15 Chairman Mao joue la carte de développement Chevalier.
+11:53:15 Chairman Mao détient le chevalier le plus puissant.
+11:53:16 Chairman Mao déplace le voleur.
+11:53:16 Chairman Mao vous vole une carte de blé.
+11:53:17 Chairman Mao a fait 11.
+11:53:17 Chairman Mao reçoit une carte d'argile.
+11:53:17 Escher reçoit 2 cartes de laine.
+11:53:17 cyril reçoit 3 cartes d'argile et une carte de laine.
+11:53:17 Début du tour 15 pour Escher.
+11:53:17 Escher joue la carte de développement Chevalier.
+11:53:18 Escher déplace le voleur.
+11:53:18 Escher vole une ressource à Chairman Mao.
+11:53:19 Escher a fait 7.
+11:53:30 cyril jete 3 cartes d'argile et une carte de laine.
+11:53:31 Escher déplace le voleur.
+11:53:31 Escher vole une ressource à Chairman Mao.
+11:53:32 Escher échange 3 cartes de laine contre une carte de bois.
+11:53:33 Escher dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:53:33 Escher fonde une colonie.
+11:53:34 Début du tour 15 pour Jaws.
+11:53:34 Jaws a fait 9.
+11:53:34 Jaws reçoit une carte de bois.
+11:53:34 Chairman Mao reçoit une carte de blé et 2 cartes de bois.
+11:53:34 Escher reçoit une carte de blé.
+11:53:36 Jaws dépense une carte d'argile et une carte de bois.
+11:53:36 Jaws construit une route.
+11:53:37 Début du tour 15 pour cyril.
+11:53:39 cyril a fait 8.
+11:53:39 cyril reçoit une carte de blé.
+11:53:39 Chairman Mao reçoit une carte de blé.
+11:54:00 Début du tour 15 pour Chairman Mao.
+11:54:00 Chairman Mao a fait 4.
+11:54:00 Chairman Mao reçoit 2 cartes d'argile.
+11:54:00 Escher reçoit une carte d'argile et une carte de blé.
+11:54:00 cyril reçoit 2 cartes de blés.
+11:54:01 Chairman Mao dépense une carte d'argile et une carte de bois.
+11:54:01 Chairman Mao construit une route.
+11:54:02 Début du tour 16 pour Escher.
+11:54:02 Escher a fait 6.
+11:54:02 Escher reçoit 2 cartes de pierre.
+11:54:02 Jaws reçoit une carte de laine.
+11:54:02 cyril reçoit 2 cartes de pierre.
+11:54:02 Chairman Mao reçoit une carte de laine.
+11:54:03 Escher dépense une carte de blé, une carte de pierre et une carte de laine.
+11:54:03 Escher achète une carte de développement.
+11:54:04 Début du tour 16 pour Jaws.
+11:54:04 Jaws a fait 9.
+11:54:04 Jaws reçoit une carte de bois.
+11:54:04 Chairman Mao reçoit une carte de blé et 2 cartes de bois.
+11:54:04 Escher reçoit une carte de blé.
+11:54:05 Début du tour 16 pour cyril.
+11:54:08 cyril a fait 7.
+11:54:09 Chairman Mao jete 3 cartes d'argile, 2 cartes de blés et une carte de bois.
+11:54:22 cyril jete une carte d'argile, 3 cartes de blés et une carte de laine.
+11:54:30 cyril déplace le voleur.
+11:54:30 Vous volez une carte de bois à Chairman Mao.
+11:54:38 cyril dépense une carte d'argile et une carte de bois.
+11:54:38 cyril construit une route.
+11:54:39 Début du tour 16 pour Chairman Mao.
+11:54:39 Chairman Mao a fait 5.
+11:54:39 Escher reçoit une carte de bois.
+11:54:39 Jaws reçoit 2 cartes de blés.
+11:54:39 cyril reçoit une carte de bois.
+11:54:40 Début du tour 17 pour Escher.
+11:54:40 Escher a fait 4.
+11:54:40 Escher reçoit une carte d'argile et une carte de blé.
+11:54:40 cyril reçoit 2 cartes de blés.
+11:54:40 Chairman Mao reçoit 2 cartes d'argile.
+11:54:41 Escher dépense une carte d'argile et une carte de bois.
+11:54:41 Escher construit une route.
+11:54:42 Escher joue la carte de développement Chevalier.
+11:54:43 Escher déplace le voleur.
+11:54:43 Escher vole une ressource à Chairman Mao.
+11:54:44 Début du tour 17 pour Jaws.
+11:54:44 Jaws a fait 5.
+11:54:44 Jaws reçoit 2 cartes de blés.
+11:54:44 cyril reçoit une carte de bois.
+11:54:44 Escher reçoit une carte de bois.
+11:54:45 Jaws dépense une carte de blé, une carte de pierre et une carte de laine.
+11:54:45 Jaws achète une carte de développement.
+11:54:46 Début du tour 17 pour cyril.
+11:54:47 cyril a fait 3.
+11:54:47 cyril reçoit une carte de bois.
+11:54:47 Chairman Mao reçoit 2 cartes de laine et une carte de bois.
+11:55:11 cyril échange 4 cartes de blés contre une carte d'argile.
+11:55:15 Début du tour 17 pour Chairman Mao.
+11:55:15 Chairman Mao a fait 7.
+11:55:16 Escher jete 2 cartes d'argile et 2 cartes de blés.
+11:55:16 Chairman Mao jete une carte d'argile, une carte de blé et 3 cartes de laine.
+11:55:17 Chairman Mao déplace le voleur.
+11:55:17 Chairman Mao vous vole une carte de bois.
+11:55:18 Début du tour 18 pour Escher.
+11:55:18 Escher a fait 7.
+11:55:19 Escher déplace le voleur.
+11:55:19 Escher vole une ressource à Chairman Mao.
+11:55:20 Début du tour 18 pour Jaws.
+11:55:20 Jaws joue la carte de développement Chevalier.
+11:55:21 Jaws déplace le voleur.
+11:55:21 Jaws vole une ressource à Escher.
+11:55:21 Jaws a fait 11.
+11:55:21 cyril reçoit 3 cartes d'argile et une carte de laine.
+11:55:21 Chairman Mao reçoit une carte d'argile.
+11:55:21 Escher reçoit 2 cartes de laine.
+11:55:22 Début du tour 18 pour cyril.
+11:55:23 cyril a fait 3.
+11:55:23 cyril reçoit une carte de bois.
+11:55:23 Chairman Mao reçoit 2 cartes de laine et une carte de bois.
+11:55:34 cyril donne Jaws une carte d'argile en échange de une carte de blé.
+11:55:36 cyril dépense une carte d'argile et une carte de bois.
+11:55:36 cyril construit une route.
+11:55:37 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:55:37 cyril fonde une colonie.
+11:55:45 Début du tour 18 pour Chairman Mao.
+11:55:45 Chairman Mao a fait 6.
+11:55:45 Chairman Mao reçoit une carte de laine.
+11:55:45 Jaws reçoit une carte de laine.
+11:55:46 Début du tour 19 pour Escher.
+11:55:46 Escher a fait 6.
+11:55:46 Jaws reçoit une carte de laine.
+11:55:46 Chairman Mao reçoit une carte de laine.
+11:55:47 Escher dépense une carte de blé, une carte de pierre et une carte de laine.
+11:55:47 Escher achète une carte de développement.
+11:55:48 Début du tour 19 pour Jaws.
+11:55:48 Jaws a fait 6.
+11:55:48 Jaws reçoit une carte de laine.
+11:55:48 Chairman Mao reçoit une carte de laine.
+11:55:49 Jaws dépense une carte d'argile et une carte de bois.
+11:55:49 Jaws construit une route.
+11:55:50 Jaws dépense une carte de blé, une carte de pierre et une carte de laine.
+11:55:50 Jaws achète une carte de développement.
+11:55:51 Début du tour 19 pour cyril.
+11:55:53 cyril a fait 5.
+11:55:53 cyril reçoit 2 cartes de bois.
+11:55:53 Escher reçoit une carte de bois.
+11:55:53 Jaws reçoit 2 cartes de blés.
+11:55:58 cyril dépense une carte d'argile et une carte de bois.
+11:55:58 cyril construit une route.
+11:55:59 Début du tour 19 pour Chairman Mao.
+11:55:59 Chairman Mao a fait 5.
+11:55:59 Escher reçoit une carte de bois.
+11:55:59 Jaws reçoit 2 cartes de blés.
+11:55:59 cyril reçoit 2 cartes de bois.
+11:56:00 Chairman Mao échange 4 cartes de laine contre une carte de pierre.
+11:56:01 Chairman Mao dépense une carte de blé, une carte de pierre et une carte de laine.
+11:56:01 Chairman Mao achète une carte de développement.
+11:56:02 Début du tour 20 pour Escher.
+11:56:02 Escher a fait 9.
+11:56:02 Escher reçoit une carte de blé.
+11:56:02 Jaws reçoit une carte de bois.
+11:56:02 Chairman Mao reçoit une carte de blé et 2 cartes de bois.
+11:56:03 Escher joue la carte de développement Monopole.
+11:56:04 Escher prend 2 cartes de bois à Jaws.
+11:56:04 Escher vous prend 4 cartes de bois.
+11:56:04 Escher prend 5 cartes de bois à Chairman Mao.
+11:56:05 Escher échange 3 cartes de bois contre une carte d'argile.
+11:56:06 Escher dépense une carte d'argile et une carte de bois.
+11:56:06 Escher construit une route.
+11:56:07 Début du tour 20 pour Jaws.
+11:56:07 Jaws a fait 4.
+11:56:07 cyril reçoit 2 cartes de blés.
+11:56:07 Chairman Mao reçoit 2 cartes d'argile.
+11:56:07 Escher reçoit une carte d'argile et une carte de blé.
+11:56:08 Jaws échange 3 cartes de blés contre une carte de pierre.
+11:56:09 Jaws dépense une carte de blé, une carte de pierre et une carte de laine.
+11:56:09 Jaws achète une carte de développement.
+11:56:10 Jaws joue la carte de développement Chevalier.
+11:56:11 Jaws déplace le voleur.
+11:56:11 Jaws vole une ressource à Escher.
+11:56:12 Début du tour 20 pour cyril.
+11:56:14 cyril a fait 7.
+11:56:15 Escher jete 7 cartes de bois.
+11:56:17 cyril déplace le voleur.
+11:56:19 Vous volez une carte de blé à Chairman Mao.
+11:56:35 Début du tour 20 pour Chairman Mao.
+11:56:35 Chairman Mao a fait 5.
+11:56:35 Escher reçoit une carte de bois.
+11:56:35 Jaws reçoit 2 cartes de blés.
+11:56:35 cyril reçoit 2 cartes de bois.
+11:56:36 Chairman Mao joue la carte de développement Année faste.
+11:56:37 Chairman Mao prend une carte de blé et une carte de bois.
+11:56:38 Début du tour 21 pour Escher.
+11:56:38 Escher a fait 6.
+11:56:38 Escher reçoit 2 cartes de pierre.
+11:56:38 Jaws reçoit une carte de laine.
+11:56:38 cyril reçoit 2 cartes de pierre.
+11:56:38 Chairman Mao reçoit une carte de laine.
+11:56:39 Escher dépense une carte de blé, une carte de pierre et une carte de laine.
+11:56:39 Escher achète une carte de développement.
+11:56:40 Début du tour 21 pour Jaws.
+11:56:40 Jaws joue la carte de développement Chevalier.
+11:56:40 Jaws détient le chevalier le plus puissant.
+11:56:41 Jaws déplace le voleur.
+11:56:41 Jaws vous vole une carte de blé.
+11:56:41 Jaws a fait 5.
+11:56:41 Jaws reçoit 2 cartes de blés.
+11:56:41 cyril reçoit 2 cartes de bois.
+11:56:41 Escher reçoit une carte de bois.
+11:56:42 Jaws échange 3 cartes de blés contre une carte de bois.
+11:56:43 Jaws dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:56:43 Jaws fonde une colonie.
+11:56:44 Début du tour 21 pour cyril.
+11:56:45 cyril a fait 5.
+11:56:45 cyril reçoit 2 cartes de bois.
+11:56:45 Escher reçoit une carte de bois.
+11:56:45 Jaws reçoit 2 cartes de blés.
+11:57:08 cyril donne Chairman Mao une carte de pierre en échange de une carte d'argile.
+11:57:10 cyril échange 3 cartes de pierre contre une carte d'argile.
+11:57:12 cyril échange 3 cartes de bois contre une carte de laine.
+11:57:15 cyril dépense une carte d'argile et une carte de bois.
+11:57:15 cyril construit une route.
+11:57:15 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:57:15 cyril fonde une colonie.
+11:57:17 Début du tour 21 pour Chairman Mao.
+11:57:17 Chairman Mao a fait 5.
+11:57:17 Escher reçoit une carte de bois.
+11:57:17 Jaws reçoit 2 cartes de blés.
+11:57:17 cyril reçoit 2 cartes de bois.
+11:57:18 Chairman Mao dépense une carte d'argile et une carte de bois.
+11:57:18 Chairman Mao construit une route.
+11:57:19 Chairman Mao dépense une carte de blé, une carte de pierre et une carte de laine.
+11:57:19 Chairman Mao achète une carte de développement.
+11:57:20 Début du tour 22 pour Escher.
+11:57:20 Escher a fait 6.
+11:57:20 Jaws reçoit 2 cartes de laine.
+11:57:20 Chairman Mao reçoit une carte de laine.
+11:57:21 Escher échange 3 cartes de bois contre une carte d'argile.
+11:57:22 Escher dépense une carte d'argile et une carte de bois.
+11:57:22 Escher construit une route.
+11:57:23 Escher joue la carte de développement Construction de route.
+11:57:24 Escher construit une route.
+11:57:24 Escher a la route la plus longue.
+11:57:25 Escher construit une route.
+11:57:27 Début du tour 22 pour Jaws.
+11:57:27 Jaws a fait 10.
+11:57:27 Jaws reçoit 2 cartes de pierre.
+11:57:27 cyril reçoit une carte de pierre.
+11:57:27 Chairman Mao reçoit 2 cartes de pierre.
+11:57:28 Jaws dépense une carte de blé, une carte de pierre et une carte de laine.
+11:57:28 Jaws achète une carte de développement.
+11:57:29 Jaws dépense une carte de blé, une carte de pierre et une carte de laine.
+11:57:29 Jaws achète une carte de développement.
+11:57:30 Début du tour 22 pour cyril.
+11:57:35 cyril a fait 8.
+11:57:35 cyril reçoit 2 cartes de blés.
+11:57:35 Chairman Mao reçoit une carte d'argile et une carte de blé.
+11:57:35 Jaws reçoit une carte d'argile.
+11:57:42 cyril échange 3 cartes de blés contre une carte d'argile.
+11:57:47 cyril dépense une carte d'argile et une carte de bois.
+11:57:47 cyril construit une route.
+11:57:48 Début du tour 22 pour Chairman Mao.
+11:57:48 Chairman Mao a fait 6.
+11:57:48 Chairman Mao reçoit une carte de laine.
+11:57:48 Jaws reçoit 2 cartes de laine.
+11:57:49 Chairman Mao dépense une carte de blé, une carte de pierre et une carte de laine.
+11:57:49 Chairman Mao achète une carte de développement.
+11:57:50 Chairman Mao joue la carte de développement Chevalier.
+11:57:51 Chairman Mao déplace le voleur.
+11:57:51 Chairman Mao vole une ressource à Escher.
+11:57:52 Début du tour 23 pour Escher.
+11:57:52 Escher a fait 6.
+11:57:52 Escher reçoit 2 cartes de pierre.
+11:57:52 Jaws reçoit 2 cartes de laine.
+11:57:52 cyril reçoit 2 cartes de pierre.
+11:57:52 Chairman Mao reçoit une carte de laine.
+11:57:53 Début du tour 23 pour Jaws.
+11:57:53 Jaws a fait 3.
+11:57:53 cyril reçoit une carte de bois.
+11:57:53 Chairman Mao reçoit 2 cartes de laine et une carte de bois.
+11:57:54 Jaws échange 3 cartes de laine contre une carte de bois.
+11:57:55 Jaws dépense une carte d'argile et une carte de bois.
+11:57:55 Jaws construit une route.
+11:57:56 Jaws joue la carte de développement Construction de route.
+11:57:57 Jaws construit une route.
+11:57:58 Jaws construit une route.
+11:58:00 Début du tour 23 pour cyril.
+11:58:01 cyril a fait 10.
+11:58:01 cyril reçoit une carte de pierre.
+11:58:01 Chairman Mao reçoit 2 cartes de pierre.
+11:58:01 Jaws reçoit 2 cartes de pierre.
+11:58:05 cyril échange 3 cartes de pierre contre une carte d'argile.
+11:58:11 cyril dépense une carte d'argile et une carte de bois.
+11:58:11 cyril construit une route.
+11:58:13 Début du tour 23 pour Chairman Mao.
+11:58:13 Chairman Mao a fait 8.
+11:58:13 Chairman Mao reçoit une carte d'argile et une carte de blé.
+11:58:13 Jaws reçoit une carte d'argile.
+11:58:13 cyril reçoit 2 cartes de blés.
+11:58:14 Chairman Mao dépense une carte de blé, une carte de pierre et une carte de laine.
+11:58:14 Chairman Mao achète une carte de développement.
+11:58:15 Chairman Mao joue la carte de développement Monopole.
+11:58:16 Chairman Mao prend 2 cartes de blés à Escher.
+11:58:16 Chairman Mao prend 4 cartes de blés à Jaws.
+11:58:16 Chairman Mao vous prend 2 cartes de blés.
+11:58:17 Chairman Mao dépense 2 cartes de blés et 3 cartes de pierre.
+11:58:17 Chairman Mao érige une ville.
+11:58:18 Chairman Mao dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+11:58:18 Chairman Mao fonde une colonie.
+11:58:19 Début du tour 24 pour Escher.
+11:58:19 Escher a fait 4.
+11:58:19 Escher reçoit une carte d'argile et une carte de blé.
+11:58:19 cyril reçoit 2 cartes de blés.
+11:58:19 Chairman Mao reçoit 2 cartes d'argile.
+11:58:20 Début du tour 24 pour Jaws.
+11:58:20 Jaws a fait 4.
+11:58:20 cyril reçoit 2 cartes de blés.
+11:58:20 Chairman Mao reçoit 2 cartes d'argile.
+11:58:20 Escher reçoit une carte d'argile et une carte de blé.
+11:58:21 Jaws joue la carte de développement Chevalier.
+11:58:22 Jaws déplace le voleur.
+11:58:22 Jaws vole une ressource à Escher.
+11:58:23 Début du tour 24 pour cyril.
+11:58:24 cyril a fait 7.
+11:58:25 Chairman Mao jete 5 cartes d'argile et 2 cartes de blés.
+11:58:25 Escher jete 2 cartes d'argile, une carte de blé et une carte de bois.
+11:58:31 cyril déplace le voleur.
+11:58:31 Vous volez une carte de laine à Jaws.
+11:58:41 cyril échange 3 cartes de blés contre une carte d'argile.
+11:58:46 cyril dépense une carte d'argile et une carte de bois.
+11:58:46 cyril construit une route.
+11:58:46 cyril a la route la plus longue.
+11:58:48 Début du tour 24 pour Chairman Mao.
+11:58:48 Chairman Mao a fait 8.
+11:58:48 Chairman Mao reçoit une carte d'argile et une carte de blé.
+11:58:48 Jaws reçoit une carte d'argile.
+11:58:48 cyril reçoit 2 cartes de blés.
+11:58:49 Chairman Mao échange 2 cartes d'argile contre une carte de pierre.
+11:58:50 Chairman Mao joue la carte de développement Chevalier.
+11:58:51 Chairman Mao déplace le voleur.
+11:58:51 Chairman Mao vous vole une carte de laine.
+11:58:52 Début du tour 25 pour Escher.
+11:58:52 Escher a fait 12.
+11:58:52 Escher reçoit une carte de laine.
+11:58:52 cyril reçoit une carte de laine.
+11:58:53 Début du tour 25 pour Jaws.
+11:58:53 Jaws a fait 10.
+11:58:53 Jaws reçoit 2 cartes de pierre.
+11:58:53 cyril reçoit une carte de pierre.
+11:58:53 Chairman Mao reçoit 2 cartes de pierre.
+11:58:54 Jaws échange 3 cartes de pierre contre une carte de blé.
+11:58:55 Début du tour 25 pour cyril.
+11:58:56 cyril a fait 10.
+11:58:56 cyril reçoit une carte de pierre.
+11:58:56 Chairman Mao reçoit 2 cartes de pierre.
+11:58:56 Jaws reçoit 2 cartes de pierre.
+11:58:57 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+11:58:57 cyril érige une ville.
+11:58:57 cyril a gagné la partie avec 10 points de victoire !
+11:58:57 Chairman Mao est parti.
+11:58:57 Escher est parti.
+11:58:57 Jaws est parti.
+
