@@ -45,11 +45,13 @@ function nextLogFileLine() {
 
             var bytesRead = fs.readSync(input, buffer, 0, bufferSize);
 
-            logger.trace('buffer: ' + buffer);
+            var bufferAsString = buffer.toString(undefined, 0, bytesRead);
+
+            logger.trace('buffer: "' + bufferAsString + '" with size: ' + bytesRead);
 
             eof = (bytesRead < bufferSize);
 
-            currentLine = currentLine + buffer.toString();
+            currentLine = currentLine + bufferAsString;
 
             indexOfCR = currentLine.indexOf('\n');
         }
