@@ -5,6 +5,39 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <title>Pioneers Game</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <style type="text/css">
+        body {
+            margin-left: 1em;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        #podium li {
+            /*list-style: none;
+            margin-left: -1em;*/
+            line-height: 2em;
+            margin-left: 1em;
+        }
+
+        #podium li i {
+            color: white;
+        }
+
+        #podium li:nth-child(1) i {
+            color: gold;
+        }
+
+        #podium li:nth-child(2) i {
+            color: silver;
+        }
+
+        #podium li:nth-child(3) i {
+            color: chocolate;
+        }
+    </style>
     <script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization','version':'1.1','packages':['corechart']}]}"></script>
 </head>
 
@@ -17,13 +50,15 @@
         <li>{{.}}</li>
         {{/playerOrder}}
     </ol>
-    <p>At {{endDate}}, during the {{stats.nthTurnLabel}} turn, the game ended {{#winner}}when {{winner}} has won{{/winner}}{{^winner}}without a winner {{/winner}}!</p>
+    <p>At {{endDate}}, during the {{{stats.nthTurnLabelAsHtml}}} turn, the game ended {{#winner}}when {{winner}} has won{{/winner}}{{^winner}}without a winner {{/winner}}!</p>
+    {{#winner}}
     <p>The game podium was:</p>
-    <ol>
+    <ol id="podium" class="fa-ul">
         {{#podium}}
-        <li>{{name}}: {{score}}</li>
+        <li><i class="fa fa-li fa-trophy fa-2x"></i> {{name}}: {{score}}</li>
         {{/podium}}
     </ol>
+    {{/winner}}
     <h2>Dice stats</h2>
     <script type="text/javascript">
         google.setOnLoadCallback(drawDiceStatsForAll);
@@ -73,11 +108,11 @@
             chart.draw(data, options);
         }
     </script>
-    <div id="dice_stats_for_all" style="width: 900px; height: 500px;" data-total="{{stats.dice.totalNumber}}">
+    <ul id="dice_stats_for_all" style="width: 900px; height: 500px;" data-total="{{stats.dice.totalNumber}}">
         {{#stats.dice.byScore}}
-        <div data-actual="{{.}}"></div>
+        <li data-actual="{{.}}">{{.}}</li>
         {{/stats.dice.byScore}}
-    </div>
+    </ul>
 </body>
 
 </html>

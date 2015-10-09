@@ -9,15 +9,15 @@ var logger = log4js.getLogger("piolog.formatter.html");
 
 exports.format = function (game, options) {
 
-    game.stats.nthTurnLabel = function () {
+    game.stats.nthTurnLabelAsHtml = function () {
         var numberOfTurns = game.turns.length - 1;
         var label = '' + numberOfTurns;
         if (numberOfTurns % 10 === 1) {
-            label = label + 'st';
+            label = label + '<sup>st</sup>';
         } else if (numberOfTurns % 10 === 2) {
-            label = label + 'nd';
+            label = label + '<sup>nd</sup>';
         } else {
-            label = label + 'th';
+            label = label + '<sup>th</sup>';
         }
         return label;
     };
