@@ -18,6 +18,12 @@
         {{/playerOrder}}
     </ol>
     <p>At {{endDate}}, during the {{stats.nthTurnLabel}} turn, the game ended {{#winner}}when {{winner}} has won{{/winner}}{{^winner}}without a winner {{/winner}}!</p>
+    <p>The game podium was:</p>
+    <ol>
+        {{#podium}}
+        <li>{{name}}: {{score}}</li>
+        {{/podium}}
+    </ol>
     <h2>Dice stats</h2>
     <script type="text/javascript">
         google.setOnLoadCallback(drawDiceStatsForAll);
