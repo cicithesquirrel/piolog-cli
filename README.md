@@ -2,7 +2,7 @@
 
 Interface en ligne de commande pour [piolog](https://github.com/cicithesquirrel/piolog). Génère un rapport dans un format textuel à partir du log d'une partie. Les formats possibles sont :
   * JSON : obtenu avec l'API standard `JSON.stringify()` éventuellement indenté avec [js-beautify](https://www.npmjs.com/package/js-beautify) ;
-  * HTML : obtenu par templating [{{Mustache}}](http://mustache.github.io/) et incluant un graphique [Google Charts API](https://developers.google.com/chart/) pour les statistiques.
+  * HTML : obtenu par templating [Handlebars](http://handlebarsjs.com/) et incluant un graphique [Google Charts API](https://developers.google.com/chart/) pour les statistiques.
 
 # Commandes utiles
 

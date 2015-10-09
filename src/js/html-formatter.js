@@ -1,7 +1,7 @@
 "use strict";
 
 var log4js = require('log4js');
-var mustache = require('mustache');
+var handlebars = require('handlebars');
 var fs = require('fs');
 var piolog = require('piolog');
 
@@ -24,7 +24,9 @@ exports.format = function (game, options) {
 
     var page = fs.readFileSync("./src/html/html-formatter.html", "utf8");
 
-    var html = mustache.to_html(page, game);
+    var template = handlebars.compile(page);
+
+    var html = template(game);
 
     console.log(html);
 };

@@ -16,8 +16,6 @@
         }
 
         #podium li {
-            /*list-style: none;
-            margin-left: -1em;*/
             line-height: 2em;
             margin-left: 1em;
         }
@@ -50,15 +48,15 @@
         <li>{{.}}</li>
         {{/playerOrder}}
     </ol>
-    <p>At {{endDate}}, during the {{{stats.nthTurnLabelAsHtml}}} turn, the game ended {{#winner}}when {{winner}} has won{{/winner}}{{^winner}}without a winner {{/winner}}!</p>
-    {{#winner}}
+    <p>At {{endDate}}, during the {{{stats.nthTurnLabelAsHtml}}} turn, the game ended {{#if winner}}when {{winner}} has won{{else}}without a winner {{/if}}!</p>
+    {{#if winner}}
     <p>The game podium was:</p>
     <ol id="podium" class="fa-ul">
         {{#podium}}
         <li><i class="fa fa-li fa-trophy fa-2x"></i> {{name}}: {{score}}</li>
         {{/podium}}
     </ol>
-    {{/winner}}
+    {{/if}}
     <h2>Dice stats</h2>
     <script type="text/javascript">
         google.setOnLoadCallback(drawDiceStatsForAll);
@@ -110,7 +108,7 @@
     </script>
     <ul id="dice_stats_for_all" style="width: 900px; height: 500px;" data-total="{{stats.dice.totalNumber}}">
         {{#stats.dice.byScore}}
-        <li data-actual="{{.}}">{{.}}</li>
+        <li data-actual="{{.}}">{{@index}}: {{.}}</li>
         {{/stats.dice.byScore}}
     </ul>
 </body>
