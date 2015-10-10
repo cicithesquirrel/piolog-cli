@@ -36,7 +36,50 @@
             color: chocolate;
         }
     </style>
-    <script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization','version':'1.1','packages':['corechart']}]}"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization','version':'1.1','packages':['corechart']}]}">
+        /* */
+    </script>
+    <script type="text/javascript">
+        function toGoogleChartDataTable(domTable) {
+            var googleDataTable = new google.visualization.DataTable();
+
+            var domHeaderLine = domTable.children[0].children[0];
+
+            var converters = [];
+
+            for (var domHeaderIndex = 0; domHeaderIndex < domHeaderLine.children.length; domHeaderIndex++) {
+                var domHeaderCell = domHeaderLine.children[domHeaderIndex];
+                var dataType = domHeaderCell.getAttribute('data-chart-type');
+                googleDataTable.addColumn(dataType, domHeaderCell.textContent);
+                if (dataType === 'number') {
+                    converters[domHeaderIndex] = parseFloat;
+                } else if (dataType === 'string') {
+                    converters[domHeaderIndex] = null;
+                }
+            }
+
+            for (var lineIndex = 0; lineIndex < domTable.children[1].childElementCount; lineIndex++) {
+                var domLine = domTable.children[1].children[lineIndex];
+
+                var googleDataLine = [];
+
+                for (var domCellIndex = 0; domCellIndex < domLine.children.length; domCellIndex++) {
+                    var domCell = domLine.children[domCellIndex];
+
+                    var converterFunction = converters[domCellIndex];
+                    if (converterFunction) {
+                        googleDataLine.push(converterFunction(domCell.textContent));
+                    } else {
+                        googleDataLine.push(domCell.textContent);
+                    }
+                }
+
+                googleDataTable.addRows([googleDataLine]);
+            }
+
+            return googleDataTable;
+        }
+    </script>
 </head>
 
 <body>
@@ -59,10 +102,13 @@
     {{/if}}
     <h2>Dice stats</h2>
     <script type="text/javascript">
-        google.setOnLoadCallback(drawDiceStatsForAll);
+        google.setOnLoadCallback(function () {
+            drawDiceStatsForAll();
+            drawDiceStatsByPlayer();
+        });
 
         function drawDiceStatsForAll() {
-            var chartDiv = document.getElementById('dice_stats_for_all')
+            /*var chartDiv = document.getElementById('dice_stats_for_all')
 
             function getActual(dice) {
                 return parseInt(chartDiv.children[dice - 2].getAttribute("data-actual"));
@@ -84,7 +130,11 @@
                 ['9', getActual(9), getExpected(4)],
                 ['10', getActual(10), getExpected(3)],
                 ['11', getActual(11), getExpected(2)],
-                ['12', getActual(12), getExpected(1)]]);
+                ['12', getActual(12), getExpected(1)]]);*/
+
+            var domTable = document.getElementById('dice_stats_for_all');
+
+            var data = toGoogleChartDataTable(domTable);
 
             var options = {
                 title: 'Dice stats for all players',
@@ -102,15 +152,73 @@
                 }
             };
 
-            var chart = new google.visualization.ComboChart(chartDiv);
+            var chart = new google.visualization.ComboChart(domTable);
+            chart.draw(data, options);
+        }
+
+        function drawDiceStatsByPlayer() {
+
+            var domTable = document.getElementById('dice_stats_by_player');
+
+            var data = toGoogleChartDataTable(domTable);
+
+            var options = {
+                title: 'Dice stats by player',
+                legend: {
+                    position: 'top',
+                    maxLines: 3
+                },
+                bar: {
+                    groupWidth: '75%'
+                },
+                isStacked: true,
+            };
+
+            var chart = new google.visualization.ColumnChart(document.getElementById('dice_stats_by_player'));
             chart.draw(data, options);
         }
     </script>
-    <ul id="dice_stats_for_all" style="width: 900px; height: 500px;" data-total="{{stats.dice.totalNumber}}">
-        {{#stats.dice.byScore}}
-        <li data-actual="{{.}}">{{@index}}: {{.}}</li>
-        {{/stats.dice.byScore}}
-    </ul>
+
+    <table id="dice_stats_for_all" style="width: 900px; height: 500px;">
+        <thead>
+            <tr>
+                <td data-chart-type="string">Dice</td>
+                <td data-chart-type="number">Actual Occurences</td>
+                <td data-chart-type="number">Expected Occurences</td>
+            </tr>
+        </thead>
+        <tbody>
+            {{#stats.dice.byScore}}
+            <tr>
+                <td>{{@index}}</td>
+                <td>{{.}}</td>
+                <!-- TODO expected -->
+                <td>0</td>
+            </tr>
+            {{/stats.dice.byScore}}
+        </tbody>
+    </table>
+
+    <table id="dice_stats_by_player" style="width: 900px; height: 500px;">
+        <thead>
+            <tr>
+                <td data-chart-type="string">Dice</td>
+                {{#playerOrder}}
+                <td data-chart-type="number">{{.}}</td>
+                {{/playerOrder}}
+            </tr>
+        </thead>
+        <tbody>
+            {{#stats.diceByPlayer}}
+            <tr>
+                <td>{{@index}}</td>
+                {{#.}}
+                <td>{{times}}</td>
+                {{/.}}
+            </tr>
+            {{/stats.diceByPlayer}}
+        </tbody>
+    </table>
 </body>
 
 </html>
