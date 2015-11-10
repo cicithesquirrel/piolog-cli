@@ -1,0 +1,482 @@
+19:47:14 Connexion à localhost, port 5556
+19:47:14 Le joueur 0 s'appelle maintenant cyril.
+19:47:14 Le joueur 3 s'appelle maintenant Richard Stallman.
+19:47:14 Le joueur 1 s'appelle maintenant Bach.
+19:47:14 Le joueur 2 s'appelle maintenant Coolio.
+19:47:14 Placement pour cyril.
+19:47:44 cyril fonde une colonie.
+19:47:44 cyril construit une route.
+19:47:56 Placement pour Bach.
+19:47:57 Bach fonde une colonie.
+19:47:58 Bach construit une route.
+19:47:59 Placement pour Coolio.
+19:48:00 Coolio fonde une colonie.
+19:48:01 Coolio construit une route.
+19:48:02 Double placement pour Richard Stallman.
+19:48:03 Richard Stallman fonde une colonie.
+19:48:04 Richard Stallman fonde une colonie.
+19:48:05 Richard Stallman construit une route.
+19:48:06 Richard Stallman construit une route.
+19:48:07 Richard Stallman reçoit 2 cartes de blés et une carte de bois.
+19:48:07 Placement pour Coolio.
+19:48:08 Coolio fonde une colonie.
+19:48:09 Coolio construit une route.
+19:48:10 Coolio reçoit une carte de blé et une carte de pierre.
+19:48:10 Placement pour Bach.
+19:48:11 Bach fonde une colonie.
+19:48:12 Bach construit une route.
+19:48:13 Bach reçoit une carte d'argile, une carte de blé et une carte de laine.
+19:48:13 Placement pour cyril.
+19:48:16 cyril fonde une colonie.
+19:48:16 cyril construit une route.
+19:48:17 cyril reçoit une carte de bois.
+19:48:17 Début du tour 1 pour cyril.
+19:48:19 cyril a fait 5.
+19:48:19 cyril reçoit une carte de pierre.
+19:48:19 Bach reçoit une carte de pierre.
+19:48:19 Richard Stallman reçoit une carte de pierre.
+19:48:21 Début du tour 1 pour Bach.
+19:48:21 Bach a fait 3.
+19:48:21 Coolio reçoit une carte de pierre.
+19:48:22 Bach dépense une carte de blé, une carte de pierre et une carte de laine.
+19:48:22 Bach achète une carte de développement.
+19:48:23 Début du tour 1 pour Coolio.
+19:48:23 Coolio a fait 5.
+19:48:23 Richard Stallman reçoit une carte de pierre.
+19:48:23 cyril reçoit une carte de pierre.
+19:48:23 Bach reçoit une carte de pierre.
+19:48:24 Début du tour 1 pour Richard Stallman.
+19:48:24 Richard Stallman a fait 7.
+19:48:25 Richard Stallman déplace le voleur.
+19:48:25 Richard Stallman vous vole une carte de bois.
+19:48:26 Début du tour 2 pour cyril.
+19:48:28 cyril a fait 8.
+19:48:28 cyril reçoit une carte de laine.
+19:48:28 Coolio reçoit une carte d'argile.
+19:48:37 Début du tour 2 pour Bach.
+19:48:37 Bach joue la carte de développement Chevalier.
+19:48:38 Bach déplace le voleur.
+19:48:38 Bach vole une ressource à Richard Stallman.
+19:48:38 Bach a fait 10.
+19:48:38 Bach reçoit une carte de bois.
+19:48:38 Coolio reçoit une carte de bois.
+19:48:38 cyril reçoit une carte de blé et une carte de bois.
+19:48:39 Bach dépense une carte d'argile et une carte de bois.
+19:48:39 Bach construit une route.
+19:48:40 Début du tour 2 pour Coolio.
+19:48:40 Coolio a fait 10.
+19:48:40 Coolio reçoit une carte de bois.
+19:48:40 cyril reçoit une carte de blé et une carte de bois.
+19:48:40 Bach reçoit une carte de bois.
+19:48:41 Coolio dépense une carte d'argile et une carte de bois.
+19:48:41 Coolio construit une route.
+19:48:42 Début du tour 2 pour Richard Stallman.
+19:48:42 Richard Stallman a fait 11.
+19:48:42 Richard Stallman reçoit une carte de laine.
+19:48:42 Bach reçoit une carte d'argile.
+19:48:43 Richard Stallman dépense une carte de blé, une carte de pierre et une carte de laine.
+19:48:43 Richard Stallman achète une carte de développement.
+19:48:44 Début du tour 3 pour cyril.
+19:48:45 cyril a fait 8.
+19:48:45 cyril reçoit une carte de laine.
+19:48:45 Coolio reçoit une carte d'argile.
+19:48:54 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+19:48:54 Vous avez acheté une carte de développement Chevalier.
+19:48:56 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+19:48:56 Vous avez acheté une carte de développement Monopole.
+19:48:59 Début du tour 3 pour Bach.
+19:48:59 Bach a fait 7.
+19:49:00 Bach déplace le voleur.
+19:49:00 Bach vole une ressource à Coolio.
+19:49:01 Début du tour 3 pour Coolio.
+19:49:01 Coolio a fait 10.
+19:49:01 Coolio reçoit une carte de bois.
+19:49:01 cyril reçoit une carte de blé et une carte de bois.
+19:49:01 Bach reçoit une carte de bois.
+19:49:02 Début du tour 3 pour Richard Stallman.
+19:49:02 Richard Stallman a fait 6.
+19:49:02 Richard Stallman reçoit une carte de blé et une carte de laine.
+19:49:02 Bach reçoit une carte de laine.
+19:49:02 Coolio reçoit une carte de blé.
+19:49:03 Richard Stallman dépense une carte de blé, une carte de pierre et une carte de laine.
+19:49:03 Richard Stallman achète une carte de développement.
+19:49:04 Richard Stallman joue la carte de développement Chevalier.
+19:49:05 Richard Stallman déplace le voleur.
+19:49:05 Richard Stallman vole une ressource à Bach.
+19:49:06 Richard Stallman dépense une carte d'argile et une carte de bois.
+19:49:06 Richard Stallman construit une route.
+19:49:07 Début du tour 4 pour cyril.
+19:49:08 cyril a fait 11.
+19:49:08 Bach reçoit une carte d'argile.
+19:49:08 Richard Stallman reçoit une carte de laine.
+19:49:41 cyril joue la carte de développement Monopole.
+19:49:43 Vous recevez 2 cartes de bois de Bach.
+19:49:43 Vous recevez 2 cartes de bois de Coolio.
+19:49:43 Vous recevez une carte de bois de Richard Stallman.
+19:49:54 cyril échange 2 cartes de bois contre une carte de laine.
+19:49:59 cyril échange 2 cartes de bois contre une carte d'argile.
+19:50:02 cyril échange 2 cartes de bois contre une carte d'argile.
+19:50:05 cyril dépense une carte d'argile et une carte de bois.
+19:50:05 cyril construit une route.
+19:50:05 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+19:50:05 cyril fonde une colonie.
+19:50:07 Début du tour 4 pour Bach.
+19:50:07 Bach a fait 9.
+19:50:07 Bach reçoit une carte de bois.
+19:50:07 Richard Stallman reçoit une carte de blé.
+19:50:08 Bach dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+19:50:08 Bach fonde une colonie.
+19:50:09 Début du tour 4 pour Coolio.
+19:50:09 Coolio a fait 12.
+19:50:10 Début du tour 4 pour Richard Stallman.
+19:50:10 Richard Stallman a fait 10.
+19:50:10 cyril reçoit une carte de blé.
+19:50:11 Richard Stallman joue la carte de développement Année faste.
+19:50:12 Richard Stallman prend une carte d'argile et une carte de pierre.
+19:50:13 Richard Stallman dépense une carte de blé, une carte de pierre et une carte de laine.
+19:50:13 Richard Stallman achète une carte de développement.
+19:50:14 Début du tour 5 pour cyril.
+19:50:22 cyril joue la carte de développement Chevalier.
+19:50:25 cyril déplace le voleur.
+19:50:26 Vous volez une carte d'argile à Richard Stallman.
+19:50:27 cyril a fait 7.
+19:50:32 cyril déplace le voleur.
+19:50:32 Vous volez une carte d'argile à Bach.
+19:50:37 Début du tour 5 pour Bach.
+19:50:37 Bach a fait 5.
+19:50:37 cyril reçoit une carte de pierre.
+19:50:38 Début du tour 5 pour Coolio.
+19:50:38 Coolio a fait 11.
+19:50:38 Richard Stallman reçoit une carte de laine.
+19:50:38 Bach reçoit 2 cartes d'argile.
+19:50:39 Début du tour 5 pour Richard Stallman.
+19:50:39 Richard Stallman a fait 5.
+19:50:39 cyril reçoit une carte de pierre.
+19:50:40 Richard Stallman joue la carte de développement Construction de route.
+19:50:41 Richard Stallman construit une route.
+19:50:42 Richard Stallman construit une route.
+19:50:44 Début du tour 6 pour cyril.
+19:50:45 cyril a fait 3.
+19:50:45 Coolio reçoit une carte de pierre.
+19:50:53 Début du tour 6 pour Bach.
+19:50:53 Bach a fait 9.
+19:50:53 Bach reçoit une carte de bois.
+19:50:53 Richard Stallman reçoit une carte de blé.
+19:50:54 Bach dépense une carte d'argile et une carte de bois.
+19:50:54 Bach construit une route.
+19:50:55 Début du tour 6 pour Coolio.
+19:50:55 Coolio a fait 7.
+19:50:56 Coolio déplace le voleur.
+19:50:56 Coolio vole une ressource à Bach.
+19:50:57 Coolio dépense 2 cartes de blés et 3 cartes de pierre.
+19:50:57 Coolio érige une ville.
+19:50:58 Début du tour 6 pour Richard Stallman.
+19:50:58 Richard Stallman a fait 9.
+19:50:58 Richard Stallman reçoit une carte de blé.
+19:50:58 Bach reçoit une carte de bois.
+19:50:59 Début du tour 7 pour cyril.
+19:51:00 cyril a fait 7.
+19:51:03 cyril déplace le voleur.
+19:51:06 Vous volez une carte de pierre à Coolio.
+19:51:20 Début du tour 7 pour Bach.
+19:51:20 Bach a fait 8.
+19:51:20 Coolio reçoit 2 cartes d'argile.
+19:51:20 cyril reçoit une carte d'argile et une carte de laine.
+19:51:21 Début du tour 7 pour Coolio.
+19:51:21 Coolio a fait 9.
+19:51:21 Richard Stallman reçoit une carte de blé.
+19:51:21 Bach reçoit une carte de bois.
+19:51:22 Début du tour 7 pour Richard Stallman.
+19:51:22 Richard Stallman a fait 11.
+19:51:22 Richard Stallman reçoit une carte de laine.
+19:51:22 Bach reçoit 2 cartes d'argile.
+19:51:23 Début du tour 8 pour cyril.
+19:51:24 cyril a fait 5.
+19:51:24 cyril reçoit une carte de pierre.
+19:51:24 Bach reçoit une carte de pierre.
+19:51:24 Richard Stallman reçoit une carte de pierre.
+19:51:35 cyril donne Richard Stallman une carte d'argile en échange de une carte de blé.
+19:51:37 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+19:51:37 cyril érige une ville.
+19:51:38 Début du tour 8 pour Bach.
+19:51:38 Bach a fait 11.
+19:51:38 Bach reçoit 2 cartes d'argile.
+19:51:38 Richard Stallman reçoit une carte de laine.
+19:51:40 Bach échange 3 cartes d'argile contre une carte de blé.
+19:51:41 Début du tour 8 pour Coolio.
+19:51:41 Coolio a fait 5.
+19:51:41 Richard Stallman reçoit une carte de pierre.
+19:51:41 cyril reçoit 2 cartes de pierre.
+19:51:41 Bach reçoit une carte de pierre.
+19:51:42 Début du tour 8 pour Richard Stallman.
+19:51:42 Richard Stallman a fait 3.
+19:51:42 Coolio reçoit une carte de pierre.
+19:51:43 Richard Stallman dépense une carte de blé, une carte de pierre et une carte de laine.
+19:51:43 Richard Stallman achète une carte de développement.
+19:51:44 Richard Stallman dépense une carte de blé, une carte de pierre et une carte de laine.
+19:51:44 Richard Stallman achète une carte de développement.
+19:51:45 Début du tour 9 pour cyril.
+19:52:01 cyril a fait 7.
+19:52:09 cyril déplace le voleur.
+19:52:09 Vous volez une carte de pierre à Coolio.
+19:52:26 cyril donne Bach une carte de laine en échange de une carte de bois.
+19:52:35 cyril dépense une carte d'argile et une carte de bois.
+19:52:35 cyril construit une route.
+19:52:37 Début du tour 9 pour Bach.
+19:52:37 Bach a fait 7.
+19:52:38 Bach déplace le voleur.
+19:52:38 Bach vous vole une carte de pierre.
+19:52:39 Bach dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+19:52:39 Bach fonde une colonie.
+19:52:40 Début du tour 9 pour Coolio.
+19:52:40 Coolio a fait 5.
+19:52:40 Richard Stallman reçoit une carte de pierre.
+19:52:40 cyril reçoit 2 cartes de pierre.
+19:52:40 Bach reçoit une carte de pierre.
+19:52:41 Début du tour 9 pour Richard Stallman.
+19:52:41 Richard Stallman a fait 9.
+19:52:41 Richard Stallman reçoit une carte de blé.
+19:52:41 Bach reçoit une carte de bois.
+19:52:42 Richard Stallman dépense une carte de blé, une carte de pierre et une carte de laine.
+19:52:42 Richard Stallman achète une carte de développement.
+19:52:43 Richard Stallman joue la carte de développement Chevalier.
+19:52:44 Richard Stallman déplace le voleur.
+19:52:44 Richard Stallman vous vole une carte de pierre.
+19:52:45 Début du tour 10 pour cyril.
+19:52:47 cyril a fait 3.
+19:52:47 Coolio reçoit une carte de pierre.
+19:52:54 cyril échange 3 cartes de pierre contre une carte de bois.
+19:52:56 cyril dépense une carte d'argile et une carte de bois.
+19:52:56 cyril construit une route.
+19:52:57 Début du tour 10 pour Bach.
+19:52:57 Bach a fait 11.
+19:52:57 Bach reçoit 2 cartes d'argile.
+19:52:57 Richard Stallman reçoit une carte de laine.
+19:52:58 Bach dépense une carte d'argile et une carte de bois.
+19:52:58 Bach construit une route.
+19:52:59 Début du tour 10 pour Coolio.
+19:52:59 Coolio a fait 5.
+19:52:59 Richard Stallman reçoit une carte de pierre.
+19:52:59 cyril reçoit 2 cartes de pierre.
+19:52:59 Bach reçoit une carte de pierre.
+19:53:00 Début du tour 10 pour Richard Stallman.
+19:53:00 Richard Stallman a fait 3.
+19:53:00 Coolio reçoit une carte de pierre.
+19:53:01 Richard Stallman joue la carte de développement Chevalier.
+19:53:01 Richard Stallman détient le chevalier le plus puissant.
+19:53:02 Richard Stallman déplace le voleur.
+19:53:02 Richard Stallman vole une ressource à Coolio.
+19:53:03 Début du tour 11 pour cyril.
+19:53:05 cyril a fait 10.
+19:53:05 cyril reçoit 2 cartes de blés et une carte de bois.
+19:53:05 Bach reçoit une carte de bois.
+19:53:05 Coolio reçoit 2 cartes de bois.
+19:53:13 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+19:53:13 cyril érige une ville.
+19:53:14 Début du tour 11 pour Bach.
+19:53:14 Bach a fait 8.
+19:53:14 cyril reçoit 2 cartes de laine.
+19:53:15 Bach dépense une carte d'argile et une carte de bois.
+19:53:15 Bach construit une route.
+19:53:16 Début du tour 11 pour Coolio.
+19:53:16 Coolio a fait 4.
+19:53:16 Coolio reçoit 2 cartes de laine.
+19:53:16 Bach reçoit 2 cartes de blés.
+19:53:17 Début du tour 11 pour Richard Stallman.
+19:53:17 Richard Stallman a fait 5.
+19:53:17 Richard Stallman reçoit une carte de pierre.
+19:53:17 cyril reçoit 2 cartes de pierre.
+19:53:17 Bach reçoit une carte de pierre.
+19:53:18 Richard Stallman joue la carte de développement Chevalier.
+19:53:19 Richard Stallman déplace le voleur.
+19:53:19 Richard Stallman vole une ressource à Bach.
+19:53:20 Début du tour 12 pour cyril.
+19:53:22 cyril a fait 5.
+19:53:22 cyril reçoit 2 cartes de pierre.
+19:53:22 Bach reçoit une carte de pierre.
+19:53:22 Richard Stallman reçoit une carte de pierre.
+19:53:34 cyril échange 3 cartes de pierre contre une carte d'argile.
+19:53:37 cyril dépense une carte d'argile et une carte de bois.
+19:53:37 cyril construit une route.
+19:53:38 Début du tour 12 pour Bach.
+19:53:38 Bach a fait 8.
+19:53:38 Coolio reçoit 2 cartes d'argile.
+19:53:38 cyril reçoit une carte d'argile et 2 cartes de laine.
+19:53:39 Bach dépense 2 cartes de blés et 3 cartes de pierre.
+19:53:39 Bach érige une ville.
+19:53:40 Début du tour 12 pour Coolio.
+19:53:40 Coolio a fait 11.
+19:53:40 Richard Stallman reçoit une carte de laine.
+19:53:40 Bach reçoit 3 cartes d'argile.
+19:53:41 Coolio échange 2 cartes d'argile contre une carte de blé.
+19:53:42 Coolio dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+19:53:42 Coolio fonde une colonie.
+19:53:43 Début du tour 12 pour Richard Stallman.
+19:53:43 Richard Stallman a fait 5.
+19:53:43 Richard Stallman reçoit une carte de pierre.
+19:53:43 cyril reçoit 2 cartes de pierre.
+19:53:43 Bach reçoit une carte de pierre.
+19:53:44 Richard Stallman échange 4 cartes de pierre contre une carte de bois.
+19:53:45 Début du tour 13 pour cyril.
+19:53:50 cyril a fait 8.
+19:53:50 cyril reçoit une carte d'argile et 2 cartes de laine.
+19:53:50 Coolio reçoit 2 cartes d'argile.
+19:54:01 cyril échange 3 cartes de pierre contre une carte de blé.
+19:54:03 cyril échange 3 cartes de laine contre une carte de bois.
+19:54:06 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+19:54:06 cyril fonde une colonie.
+19:54:07 Début du tour 13 pour Bach.
+19:54:07 Bach a fait 5.
+19:54:07 Bach reçoit une carte de pierre.
+19:54:07 Richard Stallman reçoit une carte de pierre.
+19:54:07 cyril reçoit 2 cartes de pierre.
+19:54:08 Bach échange 3 cartes de pierre contre une carte de bois.
+19:54:09 Bach échange 3 cartes d'argile contre une carte de bois.
+19:54:10 Début du tour 13 pour Coolio.
+19:54:10 Coolio a fait 8.
+19:54:10 Coolio reçoit 2 cartes d'argile.
+19:54:10 cyril reçoit une carte d'argile et 2 cartes de laine.
+19:54:11 Coolio dépense une carte d'argile et une carte de bois.
+19:54:11 Coolio construit une route.
+19:54:12 Début du tour 13 pour Richard Stallman.
+19:54:12 Richard Stallman a fait 4.
+19:54:12 Bach reçoit 3 cartes de blés.
+19:54:12 Coolio reçoit 3 cartes de laine.
+19:54:13 Richard Stallman dépense une carte d'argile et une carte de bois.
+19:54:13 Richard Stallman construit une route.
+19:54:14 Début du tour 14 pour cyril.
+19:54:15 cyril a fait 10.
+19:54:15 cyril reçoit 3 cartes de blés.
+19:54:22 cyril échange 3 cartes de laine contre une carte de pierre.
+19:54:24 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+19:54:24 cyril érige une ville.
+19:54:25 Début du tour 14 pour Bach.
+19:54:25 Bach a fait 7.
+19:54:26 Coolio jete 2 cartes d'argile et 2 cartes de laine.
+19:54:26 Bach jete une carte d'argile, 2 cartes de blés et une carte de pierre.
+19:54:27 Bach déplace le voleur.
+19:54:27 Bach vole une ressource à Coolio.
+19:54:28 Bach dépense une carte de blé, une carte de pierre et une carte de laine.
+19:54:28 Bach achète une carte de développement.
+19:54:29 Début du tour 14 pour Coolio.
+19:54:29 Coolio a fait 6.
+19:54:29 Coolio reçoit une carte de blé.
+19:54:29 Richard Stallman reçoit une carte de blé et une carte de laine.
+19:54:29 Bach reçoit 2 cartes de laine.
+19:54:30 Coolio dépense une carte de blé, une carte de pierre et une carte de laine.
+19:54:30 Coolio achète une carte de développement.
+19:54:31 Début du tour 14 pour Richard Stallman.
+19:54:31 Richard Stallman a fait 4.
+19:54:31 Bach reçoit 3 cartes de blés.
+19:54:31 Coolio reçoit 3 cartes de laine.
+19:54:32 Richard Stallman dépense une carte de blé, une carte de pierre et une carte de laine.
+19:54:32 Richard Stallman achète une carte de développement.
+19:54:33 Début du tour 15 pour cyril.
+19:54:34 cyril a fait 4.
+19:54:34 Bach reçoit 3 cartes de blés.
+19:54:34 Coolio reçoit 3 cartes de laine.
+19:54:39 cyril donne Bach une carte d'argile en échange de une carte de bois.
+19:54:42 cyril dépense une carte d'argile et une carte de bois.
+19:54:42 cyril construit une route.
+19:54:42 cyril a la route la plus longue.
+19:54:43 Début du tour 15 pour Bach.
+19:54:43 Bach a fait 5.
+19:54:43 Bach reçoit une carte de pierre.
+19:54:43 Richard Stallman reçoit une carte de pierre.
+19:54:43 cyril reçoit 2 cartes de pierre.
+19:54:44 Bach dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+19:54:44 Bach fonde une colonie.
+19:54:45 Bach dépense une carte de blé, une carte de pierre et une carte de laine.
+19:54:45 Bach achète une carte de développement.
+19:54:46 Bach joue la carte de développement Chevalier.
+19:54:47 Bach déplace le voleur.
+19:54:47 Bach vole une ressource à Coolio.
+19:54:48 Début du tour 15 pour Coolio.
+19:54:48 Coolio a fait 5.
+19:54:48 Richard Stallman reçoit une carte de pierre.
+19:54:48 cyril reçoit 2 cartes de pierre.
+19:54:48 Bach reçoit une carte de pierre.
+19:54:49 Coolio échange 4 cartes de laine contre une carte de blé.
+19:54:50 Coolio dépense une carte de blé, une carte de pierre et une carte de laine.
+19:54:50 Coolio achète une carte de développement.
+19:54:51 Début du tour 15 pour Richard Stallman.
+19:54:51 Richard Stallman a fait 5.
+19:54:51 Richard Stallman reçoit une carte de pierre.
+19:54:51 cyril reçoit 2 cartes de pierre.
+19:54:51 Bach reçoit une carte de pierre.
+19:54:52 Richard Stallman échange 4 cartes de pierre contre une carte de bois.
+19:54:53 Richard Stallman dépense une carte d'argile et une carte de bois.
+19:54:53 Richard Stallman construit une route.
+19:54:54 Richard Stallman joue la carte de développement Construction de route.
+19:54:55 Richard Stallman construit une route.
+19:54:56 Richard Stallman construit une route.
+19:54:56 Richard Stallman a la route la plus longue.
+19:54:58 Début du tour 16 pour cyril.
+19:54:59 cyril a fait 12.
+19:55:21 cyril donne Bach une carte de pierre en échange de une carte de blé.
+19:55:24 cyril donne Bach une carte de pierre en échange de une carte de blé.
+19:55:27 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+19:55:27 cyril érige une ville.
+19:55:28 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+19:55:28 Vous avez acheté la carte de développement Marché.
+19:55:29 Début du tour 16 pour Bach.
+19:55:29 Bach a fait 3.
+19:55:29 Bach reçoit une carte de bois.
+19:55:29 Coolio reçoit 2 cartes de pierre.
+19:55:30 Bach dépense 2 cartes de blés et 3 cartes de pierre.
+19:55:30 Bach érige une ville.
+19:55:31 Bach dépense une carte d'argile et une carte de bois.
+19:55:31 Bach construit une route.
+19:55:32 Début du tour 16 pour Coolio.
+19:55:32 Coolio a fait 6.
+19:55:32 Coolio reçoit une carte de blé.
+19:55:32 Richard Stallman reçoit une carte de blé et une carte de laine.
+19:55:32 Bach reçoit 2 cartes de laine.
+19:55:33 Coolio dépense une carte de blé, une carte de pierre et une carte de laine.
+19:55:33 Coolio achète une carte de développement.
+19:55:34 Coolio joue la carte de développement Année faste.
+19:55:35 Coolio prend une carte de pierre et une carte de bois.
+19:55:36 Début du tour 16 pour Richard Stallman.
+19:55:36 Richard Stallman a fait 6.
+19:55:36 Richard Stallman reçoit une carte de blé et une carte de laine.
+19:55:36 Bach reçoit 2 cartes de laine.
+19:55:36 Coolio reçoit une carte de blé.
+19:55:37 Richard Stallman dépense une carte de blé, une carte de pierre et une carte de laine.
+19:55:37 Richard Stallman achète une carte de développement.
+19:55:38 Début du tour 17 pour cyril.
+19:55:40 cyril a fait 8.
+19:55:40 cyril reçoit 2 cartes d'argile et 2 cartes de laine.
+19:55:40 Coolio reçoit 2 cartes d'argile.
+19:55:45 cyril joue la carte de développement Marché.
+19:55:54 Début du tour 17 pour Bach.
+19:55:54 Bach a fait 7.
+19:55:55 Bach déplace le voleur.
+19:55:55 Bach vole une ressource à Coolio.
+19:55:56 Bach échange 2 cartes de laine contre une carte d'argile.
+19:55:57 Début du tour 17 pour Coolio.
+19:55:57 Coolio joue la carte de développement Chevalier.
+19:55:58 Coolio déplace le voleur.
+19:55:58 Coolio vole une ressource à Bach.
+19:55:58 Coolio a fait 4.
+19:55:58 Coolio reçoit 3 cartes de laine.
+19:55:58 Bach reçoit 4 cartes de blés.
+19:55:59 Coolio dépense une carte de blé, une carte de pierre et une carte de laine.
+19:55:59 Coolio achète une carte de développement.
+19:56:00 Début du tour 17 pour Richard Stallman.
+19:56:00 Richard Stallman a fait 9.
+19:56:00 Richard Stallman reçoit une carte de blé.
+19:56:00 cyril reçoit 2 cartes de blés.
+19:56:00 Bach reçoit 2 cartes de bois.
+19:56:00 Coolio reçoit une carte de blé.
+19:56:01 Début du tour 18 pour cyril.
+19:56:02 cyril a fait 6.
+19:56:02 Coolio reçoit une carte de blé.
+19:56:02 Richard Stallman reçoit une carte de blé.
+19:56:06 cyril donne Bach une carte d'argile en échange de une carte de bois.
+19:56:09 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+19:56:09 cyril fonde une colonie.
+19:56:09 cyril a gagné la partie avec 10 points de victoire !
+19:56:09 Richard Stallman est parti.
+19:56:09 Coolio est parti.
+19:56:09 Bach est parti.
+

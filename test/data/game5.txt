@@ -1,0 +1,521 @@
+07:40:44 Connexion à localhost, port 5556
+07:40:44 Le joueur 0 s'appelle maintenant cyril.
+07:40:44 Le joueur 2 s'appelle maintenant Gödel.
+07:40:45 Le joueur 3 s'appelle maintenant Escher.
+07:40:45 Le joueur 1 s'appelle maintenant Chairman Mao.
+07:40:45 Placement pour cyril.
+07:40:59 cyril fonde une colonie.
+07:41:02 cyril construit une route.
+07:41:03 Placement pour Chairman Mao.
+07:41:04 Chairman Mao fonde une colonie.
+07:41:05 Chairman Mao construit une route.
+07:41:06 Placement pour Gödel.
+07:41:07 Gödel fonde une colonie.
+07:41:08 Gödel construit une route.
+07:41:09 Double placement pour Escher.
+07:41:10 Escher fonde une colonie.
+07:41:11 Escher fonde une colonie.
+07:41:12 Escher construit une route.
+07:41:13 Escher construit une route.
+07:41:14 Escher reçoit une carte de pierre et 2 cartes de bois.
+07:41:14 Placement pour Gödel.
+07:41:15 Gödel fonde une colonie.
+07:41:16 Gödel construit une route.
+07:41:17 Gödel reçoit une carte d'argile et 2 cartes de blés.
+07:41:17 Placement pour Chairman Mao.
+07:41:18 Chairman Mao fonde une colonie.
+07:41:19 Chairman Mao construit une route.
+07:41:20 Chairman Mao reçoit une carte de bois.
+07:41:20 Placement pour cyril.
+07:41:23 cyril fonde une colonie.
+07:41:37 cyril construit une route.
+07:41:38 cyril reçoit une carte de blé et 2 cartes de laine.
+07:41:38 Début du tour 1 pour cyril.
+07:41:43 cyril a fait 9.
+07:41:43 cyril reçoit une carte d'argile.
+07:41:43 Escher reçoit une carte d'argile et une carte de pierre.
+07:41:44 Début du tour 1 pour Chairman Mao.
+07:41:44 Chairman Mao a fait 4.
+07:41:44 Gödel reçoit une carte de bois.
+07:41:44 cyril reçoit une carte de laine et une carte de bois.
+07:41:45 Début du tour 1 pour Gödel.
+07:41:45 Gödel a fait 6.
+07:41:45 Gödel reçoit une carte de laine.
+07:41:45 Escher reçoit une carte de blé.
+07:41:45 cyril reçoit une carte de laine.
+07:41:46 Gödel dépense une carte d'argile et une carte de bois.
+07:41:46 Gödel construit une route.
+07:41:47 Début du tour 1 pour Escher.
+07:41:47 Escher a fait 4.
+07:41:47 cyril reçoit une carte de laine et une carte de bois.
+07:41:47 Gödel reçoit une carte de bois.
+07:41:48 Escher dépense une carte d'argile et une carte de bois.
+07:41:48 Escher construit une route.
+07:41:49 Début du tour 2 pour cyril.
+07:41:50 cyril a fait 5.
+07:41:50 Chairman Mao reçoit une carte de bois.
+07:41:50 Gödel reçoit une carte de bois.
+07:41:50 Escher reçoit une carte de bois.
+07:42:02 cyril échange 4 cartes de laine contre une carte d'argile.
+07:42:08 cyril dépense une carte d'argile et une carte de bois.
+07:42:08 cyril construit une route.
+07:42:08 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:42:08 cyril fonde une colonie.
+07:42:09 Début du tour 2 pour Chairman Mao.
+07:42:09 Chairman Mao a fait 10.
+07:42:09 Chairman Mao reçoit une carte de blé.
+07:42:09 Gödel reçoit une carte de blé.
+07:42:10 Début du tour 2 pour Gödel.
+07:42:10 Gödel a fait 9.
+07:42:10 Escher reçoit une carte d'argile et une carte de pierre.
+07:42:10 cyril reçoit une carte d'argile.
+07:42:11 Début du tour 2 pour Escher.
+07:42:11 Escher a fait 5.
+07:42:11 Escher reçoit une carte de bois.
+07:42:11 Chairman Mao reçoit une carte de bois.
+07:42:11 Gödel reçoit une carte de bois.
+07:42:12 Début du tour 3 pour cyril.
+07:42:15 cyril a fait 4.
+07:42:15 cyril reçoit 2 cartes de laine et une carte de bois.
+07:42:15 Gödel reçoit une carte de bois.
+07:42:17 cyril dépense une carte d'argile et une carte de bois.
+07:42:17 cyril construit une route.
+07:42:18 Début du tour 3 pour Chairman Mao.
+07:42:18 Chairman Mao a fait 8.
+07:42:18 Chairman Mao reçoit une carte de pierre et une carte de laine.
+07:42:18 cyril reçoit une carte de pierre.
+07:42:19 Chairman Mao dépense une carte de blé, une carte de pierre et une carte de laine.
+07:42:19 Chairman Mao achète une carte de développement.
+07:42:20 Début du tour 3 pour Gödel.
+07:42:20 Gödel a fait 9.
+07:42:20 Escher reçoit une carte d'argile et une carte de pierre.
+07:42:20 cyril reçoit une carte d'argile.
+07:42:21 Début du tour 3 pour Escher.
+07:42:21 Escher a fait 7.
+07:42:22 Gödel jete 3 cartes de blés et une carte de laine.
+07:42:22 Escher jete 2 cartes d'argile et 3 cartes de pierre.
+07:42:23 Escher déplace le voleur.
+07:42:23 Escher vous vole une carte de laine.
+07:42:24 Escher dépense une carte de blé, une carte de pierre et une carte de laine.
+07:42:24 Escher achète une carte de développement.
+07:42:25 Début du tour 4 pour cyril.
+07:42:27 cyril a fait 5.
+07:42:27 Chairman Mao reçoit une carte de bois.
+07:42:27 Gödel reçoit une carte de bois.
+07:42:27 Escher reçoit une carte de bois.
+07:42:30 Début du tour 4 pour Chairman Mao.
+07:42:30 Chairman Mao a fait 4.
+07:42:30 Gödel reçoit une carte de bois.
+07:42:30 cyril reçoit 2 cartes de laine et une carte de bois.
+07:42:31 Chairman Mao échange 3 cartes de bois contre une carte d'argile.
+07:42:32 Chairman Mao dépense une carte d'argile et une carte de bois.
+07:42:32 Chairman Mao construit une route.
+07:42:33 Début du tour 4 pour Gödel.
+07:42:33 Gödel a fait 7.
+07:42:34 Gödel déplace le voleur.
+07:42:34 Gödel vous vole une carte d'argile.
+07:42:35 Gödel échange 4 cartes de bois contre une carte de pierre.
+07:42:36 Début du tour 4 pour Escher.
+07:42:36 Escher a fait 8.
+07:42:36 cyril reçoit une carte de pierre.
+07:42:36 Chairman Mao reçoit une carte de pierre et une carte de laine.
+07:42:37 Début du tour 5 pour cyril.
+07:42:39 cyril a fait 5.
+07:42:39 Chairman Mao reçoit une carte de bois.
+07:42:39 Gödel reçoit une carte de bois.
+07:42:39 Escher reçoit une carte de bois.
+07:42:47 Début du tour 5 pour Chairman Mao.
+07:42:47 Chairman Mao a fait 10.
+07:42:47 Chairman Mao reçoit une carte de blé.
+07:42:47 Gödel reçoit une carte de blé.
+07:42:48 Chairman Mao dépense une carte de blé, une carte de pierre et une carte de laine.
+07:42:48 Chairman Mao achète une carte de développement.
+07:42:49 Début du tour 5 pour Gödel.
+07:42:49 Gödel a fait 9.
+07:42:49 Escher reçoit une carte de pierre.
+07:42:50 Début du tour 5 pour Escher.
+07:42:50 Escher a fait 5.
+07:42:50 Escher reçoit une carte de bois.
+07:42:50 Chairman Mao reçoit une carte de bois.
+07:42:50 Gödel reçoit une carte de bois.
+07:42:51 Escher échange 4 cartes de bois contre une carte d'argile.
+07:42:52 Début du tour 6 pour cyril.
+07:42:53 cyril a fait 8.
+07:42:53 cyril reçoit une carte de pierre.
+07:42:53 Chairman Mao reçoit une carte de pierre et une carte de laine.
+07:43:00 Début du tour 6 pour Chairman Mao.
+07:43:00 Chairman Mao a fait 8.
+07:43:00 Chairman Mao reçoit une carte de pierre et une carte de laine.
+07:43:00 cyril reçoit une carte de pierre.
+07:43:01 Début du tour 6 pour Gödel.
+07:43:01 Gödel a fait 10.
+07:43:01 Gödel reçoit une carte de blé.
+07:43:01 Chairman Mao reçoit une carte de blé.
+07:43:02 Début du tour 6 pour Escher.
+07:43:02 Escher a fait 5.
+07:43:02 Escher reçoit une carte de bois.
+07:43:02 Chairman Mao reçoit une carte de bois.
+07:43:02 Gödel reçoit une carte de bois.
+07:43:03 Début du tour 7 pour cyril.
+07:43:05 cyril a fait 8.
+07:43:05 cyril reçoit une carte de pierre.
+07:43:05 Chairman Mao reçoit une carte de pierre et une carte de laine.
+07:43:13 cyril donne Gödel une carte de laine en échange de une carte de blé.
+07:43:14 cyril échange 4 cartes de pierre contre une carte d'argile.
+07:43:16 cyril dépense une carte d'argile et une carte de bois.
+07:43:16 cyril construit une route.
+07:43:18 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+07:43:18 Vous avez acheté une carte de développement Chevalier.
+07:43:19 Début du tour 7 pour Chairman Mao.
+07:43:19 Chairman Mao a fait 11.
+07:43:19 Gödel reçoit une carte de blé.
+07:43:19 cyril reçoit une carte d'argile et une carte de blé.
+07:43:20 Chairman Mao dépense une carte de blé, une carte de pierre et une carte de laine.
+07:43:20 Chairman Mao achète une carte de développement.
+07:43:21 Début du tour 7 pour Gödel.
+07:43:21 Gödel a fait 6.
+07:43:21 Gödel reçoit une carte de laine.
+07:43:21 Escher reçoit une carte de blé.
+07:43:21 cyril reçoit une carte de laine.
+07:43:22 Gödel dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:43:22 Gödel fonde une colonie.
+07:43:23 Gödel dépense une carte de blé, une carte de pierre et une carte de laine.
+07:43:23 Gödel achète une carte de développement.
+07:43:24 Début du tour 7 pour Escher.
+07:43:24 Escher a fait 2.
+07:43:25 Début du tour 8 pour cyril.
+07:43:27 cyril joue la carte de développement Chevalier.
+07:43:38 cyril déplace le voleur.
+07:43:39 Vous volez une carte de bois à Gödel.
+07:43:41 cyril a fait 6.
+07:43:41 cyril reçoit une carte de laine.
+07:43:41 Gödel reçoit 2 cartes de laine.
+07:43:41 Escher reçoit une carte de blé.
+07:43:42 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:43:42 cyril fonde une colonie.
+07:43:44 Début du tour 8 pour Chairman Mao.
+07:43:44 Chairman Mao a fait 7.
+07:43:45 Chairman Mao déplace le voleur.
+07:43:45 Chairman Mao vole une ressource à Gödel.
+07:43:46 Chairman Mao échange 3 cartes de bois contre une carte de blé.
+07:43:47 Chairman Mao dépense une carte de blé, une carte de pierre et une carte de laine.
+07:43:47 Chairman Mao achète une carte de développement.
+07:43:48 Chairman Mao joue la carte de développement Chevalier.
+07:43:49 Chairman Mao déplace le voleur.
+07:43:49 Chairman Mao vole une ressource à Gödel.
+07:43:50 Début du tour 8 pour Gödel.
+07:43:50 Gödel a fait 7.
+07:43:51 Gödel déplace le voleur.
+07:43:51 Gödel vole une ressource à Chairman Mao.
+07:43:52 Gödel joue la carte de développement Monopole.
+07:43:53 Gödel vous prend 0 cartes de bois.
+07:43:53 Gödel prend une carte de bois à Chairman Mao.
+07:43:53 Gödel prend 3 cartes de bois à Escher.
+07:43:54 Gödel échange 4 cartes de bois contre une carte d'argile.
+07:43:55 Gödel dépense une carte d'argile et une carte de bois.
+07:43:55 Gödel construit une route.
+07:43:56 Début du tour 8 pour Escher.
+07:43:56 Escher a fait 9.
+07:43:56 Escher reçoit une carte d'argile et une carte de pierre.
+07:43:56 cyril reçoit une carte d'argile.
+07:43:57 Début du tour 9 pour cyril.
+07:43:59 cyril a fait 7.
+07:44:01 cyril déplace le voleur.
+07:44:02 Vous volez une carte de laine à Gödel.
+07:44:05 Début du tour 9 pour Chairman Mao.
+07:44:05 Chairman Mao a fait 7.
+07:44:06 Chairman Mao déplace le voleur.
+07:44:06 Chairman Mao vous vole une carte d'argile.
+07:44:07 Chairman Mao joue la carte de développement Monopole.
+07:44:08 Chairman Mao vous prend 3 cartes de laine.
+07:44:08 Chairman Mao prend 0 cartes de laine à Gödel.
+07:44:08 Chairman Mao prend 0 cartes de laine à Escher.
+07:44:09 Chairman Mao échange 3 cartes de laine contre une carte de bois.
+07:44:10 Début du tour 9 pour Gödel.
+07:44:10 Gödel a fait 5.
+07:44:10 Gödel reçoit une carte de bois.
+07:44:10 Escher reçoit une carte de bois.
+07:44:10 Chairman Mao reçoit une carte de bois.
+07:44:11 Début du tour 9 pour Escher.
+07:44:11 Escher a fait 5.
+07:44:11 Escher reçoit une carte de bois.
+07:44:11 Chairman Mao reçoit une carte de bois.
+07:44:11 Gödel reçoit une carte de bois.
+07:44:12 Début du tour 10 pour cyril.
+07:44:15 cyril a fait 5.
+07:44:15 Chairman Mao reçoit une carte de bois.
+07:44:15 Gödel reçoit une carte de bois.
+07:44:15 Escher reçoit une carte de bois.
+07:44:17 Début du tour 10 pour Chairman Mao.
+07:44:17 Chairman Mao a fait 4.
+07:44:17 Gödel reçoit une carte de bois.
+07:44:17 cyril reçoit 2 cartes de laine et 2 cartes de bois.
+07:44:18 Chairman Mao échange 3 cartes de bois contre une carte de blé.
+07:44:19 Chairman Mao dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:44:19 Chairman Mao fonde une colonie.
+07:44:20 Début du tour 10 pour Gödel.
+07:44:20 Gödel a fait 9.
+07:44:20 Escher reçoit une carte d'argile et une carte de pierre.
+07:44:20 cyril reçoit une carte d'argile.
+07:44:21 Gödel échange 4 cartes de bois contre une carte d'argile.
+07:44:22 Début du tour 10 pour Escher.
+07:44:22 Escher a fait 5.
+07:44:22 Escher reçoit une carte de bois.
+07:44:22 Chairman Mao reçoit 2 cartes de bois.
+07:44:22 Gödel reçoit une carte de bois.
+07:44:23 Escher dépense 2 cartes de blés et 3 cartes de pierre.
+07:44:23 Escher érige une ville.
+07:44:24 Début du tour 11 pour cyril.
+07:44:25 cyril a fait 6.
+07:44:25 Escher reçoit 2 cartes de blés.
+07:44:32 cyril donne Escher une carte de laine en échange de une carte d'argile.
+07:44:34 cyril dépense une carte d'argile et une carte de bois.
+07:44:34 cyril construit une route.
+07:44:34 cyril a la route la plus longue.
+07:44:35 cyril dépense une carte d'argile et une carte de bois.
+07:44:35 cyril construit une route.
+07:44:36 Début du tour 11 pour Chairman Mao.
+07:44:36 Chairman Mao a fait 3.
+07:44:36 Gödel reçoit une carte d'argile.
+07:44:36 Escher reçoit 2 cartes de laine.
+07:44:37 Début du tour 11 pour Gödel.
+07:44:37 Gödel a fait 12.
+07:44:37 Gödel reçoit une carte de bois.
+07:44:37 Escher reçoit une carte de bois.
+07:44:38 Début du tour 11 pour Escher.
+07:44:38 Escher a fait 10.
+07:44:38 Chairman Mao reçoit 2 cartes de blés.
+07:44:38 Gödel reçoit une carte de blé.
+07:44:39 Escher dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:44:39 Escher fonde une colonie.
+07:44:40 Escher dépense une carte d'argile et une carte de bois.
+07:44:40 Escher construit une route.
+07:44:41 Début du tour 12 pour cyril.
+07:44:44 cyril a fait 4.
+07:44:44 cyril reçoit 2 cartes de laine et 2 cartes de bois.
+07:44:44 Gödel reçoit une carte de bois.
+07:44:54 Début du tour 12 pour Chairman Mao.
+07:44:54 Chairman Mao a fait 4.
+07:44:54 Gödel reçoit une carte de bois.
+07:44:54 cyril reçoit 2 cartes de laine et 2 cartes de bois.
+07:44:55 Début du tour 12 pour Gödel.
+07:44:55 Gödel a fait 3.
+07:44:55 Gödel reçoit une carte d'argile.
+07:44:55 Escher reçoit 2 cartes de laine.
+07:44:56 Gödel échange 4 cartes de bois contre une carte de laine.
+07:44:57 Gödel dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:44:57 Gödel fonde une colonie.
+07:44:58 Début du tour 12 pour Escher.
+07:44:58 Escher a fait 11.
+07:44:58 cyril reçoit une carte d'argile et 2 cartes de blés.
+07:44:58 Gödel reçoit une carte d'argile et une carte de blé.
+07:44:59 Escher échange 3 cartes de laine contre une carte d'argile.
+07:45:00 Escher dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:45:00 Escher fonde une colonie.
+07:45:01 Début du tour 13 pour cyril.
+07:45:04 cyril a fait 5.
+07:45:04 Chairman Mao reçoit 2 cartes de bois.
+07:45:04 Gödel reçoit une carte de bois.
+07:45:04 Escher reçoit une carte de bois.
+07:45:23 cyril donne Gödel une carte de laine en échange de une carte d'argile.
+07:45:25 cyril donne Gödel une carte de laine en échange de une carte d'argile.
+07:45:28 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:45:28 cyril fonde une colonie.
+07:45:29 cyril dépense une carte d'argile et une carte de bois.
+07:45:29 cyril construit une route.
+07:45:30 cyril dépense une carte d'argile et une carte de bois.
+07:45:30 cyril construit une route.
+07:45:31 Début du tour 13 pour Chairman Mao.
+07:45:31 Chairman Mao a fait 7.
+07:45:32 Chairman Mao déplace le voleur.
+07:45:32 Chairman Mao vous vole une carte de laine.
+07:45:33 Chairman Mao échange 3 cartes de bois contre une carte de pierre.
+07:45:34 Chairman Mao dépense une carte de blé, une carte de pierre et une carte de laine.
+07:45:34 Chairman Mao achète une carte de développement.
+07:45:35 Début du tour 13 pour Gödel.
+07:45:35 Gödel a fait 5.
+07:45:35 Gödel reçoit une carte de bois.
+07:45:35 Escher reçoit une carte de bois.
+07:45:35 Chairman Mao reçoit 2 cartes de bois.
+07:45:36 Gödel dépense une carte d'argile et une carte de bois.
+07:45:36 Gödel construit une route.
+07:45:37 Gödel dépense une carte de blé, une carte de pierre et une carte de laine.
+07:45:37 Gödel achète une carte de développement.
+07:45:38 Début du tour 13 pour Escher.
+07:45:38 Escher a fait 7.
+07:45:39 Escher déplace le voleur.
+07:45:39 Escher vous vole une carte de laine.
+07:45:40 Escher échange 3 cartes de bois contre une carte d'argile.
+07:45:41 Escher dépense une carte d'argile et une carte de bois.
+07:45:41 Escher construit une route.
+07:45:42 Début du tour 14 pour cyril.
+07:45:43 cyril a fait 2.
+07:45:43 Escher reçoit 2 cartes de pierre.
+07:45:45 Début du tour 14 pour Chairman Mao.
+07:45:45 Chairman Mao a fait 5.
+07:45:45 Chairman Mao reçoit 2 cartes de bois.
+07:45:45 Gödel reçoit une carte de bois.
+07:45:45 Escher reçoit une carte de bois.
+07:45:46 Chairman Mao échange 3 cartes de bois contre une carte d'argile.
+07:45:47 Chairman Mao dépense une carte d'argile et une carte de bois.
+07:45:47 Chairman Mao construit une route.
+07:45:48 Chairman Mao joue la carte de développement Chevalier.
+07:45:49 Chairman Mao déplace le voleur.
+07:45:49 Chairman Mao vole une ressource à Escher.
+07:45:50 Début du tour 14 pour Gödel.
+07:45:50 Gödel a fait 7.
+07:45:51 Gödel déplace le voleur.
+07:45:51 Gödel vole une ressource à Escher.
+07:45:52 Gödel joue la carte de développement Chevalier.
+07:45:53 Gödel déplace le voleur.
+07:45:53 Gödel vous vole une carte de bois.
+07:45:54 Gödel échange 2 cartes de bois contre une carte d'argile.
+07:45:55 Gödel dépense une carte d'argile et une carte de bois.
+07:45:55 Gödel construit une route.
+07:45:56 Début du tour 14 pour Escher.
+07:45:56 Escher a fait 7.
+07:45:57 Escher déplace le voleur.
+07:45:57 Escher vole une ressource à Gödel.
+07:45:58 Début du tour 15 pour cyril.
+07:46:00 cyril a fait 7.
+07:46:05 cyril déplace le voleur.
+07:46:05 Vous volez une carte de pierre à Escher.
+07:46:07 Début du tour 15 pour Chairman Mao.
+07:46:07 Chairman Mao a fait 5.
+07:46:07 Chairman Mao reçoit 2 cartes de bois.
+07:46:07 Gödel reçoit une carte de bois.
+07:46:07 Escher reçoit une carte de bois.
+07:46:08 Chairman Mao échange 3 cartes de bois contre une carte de pierre.
+07:46:09 Chairman Mao dépense une carte de blé, une carte de pierre et une carte de laine.
+07:46:09 Chairman Mao achète une carte de développement.
+07:46:10 Début du tour 15 pour Gödel.
+07:46:10 Gödel a fait 7.
+07:46:11 Gödel déplace le voleur.
+07:46:11 Gödel vole une ressource à Escher.
+07:46:12 Début du tour 15 pour Escher.
+07:46:12 Escher a fait 9.
+07:46:12 Escher reçoit une carte de pierre.
+07:46:13 Début du tour 16 pour cyril.
+07:46:14 cyril a fait 10.
+07:46:14 Chairman Mao reçoit 2 cartes de blés.
+07:46:14 Gödel reçoit une carte de blé.
+07:46:17 Début du tour 16 pour Chairman Mao.
+07:46:17 Chairman Mao a fait 4.
+07:46:17 Gödel reçoit une carte de laine et une carte de bois.
+07:46:17 cyril reçoit 2 cartes de laine et 2 cartes de bois.
+07:46:18 Chairman Mao joue la carte de développement Chevalier.
+07:46:18 Chairman Mao détient le chevalier le plus puissant.
+07:46:19 Chairman Mao déplace le voleur.
+07:46:19 Chairman Mao vole une ressource à Gödel.
+07:46:20 Début du tour 16 pour Gödel.
+07:46:20 Gödel a fait 8.
+07:46:20 cyril reçoit une carte de pierre.
+07:46:20 Chairman Mao reçoit une carte de pierre et une carte de laine.
+07:46:21 Début du tour 16 pour Escher.
+07:46:21 Escher a fait 8.
+07:46:21 cyril reçoit une carte de pierre.
+07:46:21 Chairman Mao reçoit une carte de pierre et une carte de laine.
+07:46:22 Début du tour 17 pour cyril.
+07:46:24 cyril a fait 2.
+07:46:24 Escher reçoit 2 cartes de pierre.
+07:46:30 cyril échange 2 cartes de laine contre une carte de blé.
+07:46:34 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+07:46:34 cyril érige une ville.
+07:46:36 Début du tour 17 pour Chairman Mao.
+07:46:36 Chairman Mao a fait 7.
+07:46:37 Chairman Mao jete une carte de pierre, 2 cartes de laine et une carte de bois.
+07:46:38 Chairman Mao déplace le voleur.
+07:46:38 Chairman Mao vole une ressource à Escher.
+07:46:39 Début du tour 17 pour Gödel.
+07:46:39 Gödel a fait 5.
+07:46:39 Gödel reçoit une carte de bois.
+07:46:39 Escher reçoit une carte de bois.
+07:46:39 Chairman Mao reçoit 2 cartes de bois.
+07:46:40 Gödel échange 2 cartes de bois contre une carte de pierre.
+07:46:41 Gödel dépense une carte de blé, une carte de pierre et une carte de laine.
+07:46:41 Gödel achète une carte de développement.
+07:46:42 Début du tour 17 pour Escher.
+07:46:42 Escher a fait 7.
+07:46:43 Escher déplace le voleur.
+07:46:43 Escher vole une ressource à Gödel.
+07:46:44 Début du tour 18 pour cyril.
+07:46:45 cyril a fait 11.
+07:46:45 cyril reçoit 2 cartes d'argile et 2 cartes de blés.
+07:46:45 Gödel reçoit une carte d'argile et une carte de blé.
+07:46:53 Début du tour 18 pour Chairman Mao.
+07:46:53 Chairman Mao a fait 6.
+07:46:53 Escher reçoit 3 cartes de blés.
+07:46:54 Début du tour 18 pour Gödel.
+07:46:54 Gödel a fait 10.
+07:46:54 Gödel reçoit une carte de blé.
+07:46:54 Chairman Mao reçoit 2 cartes de blés.
+07:46:55 Gödel joue la carte de développement Année faste.
+07:46:56 Gödel prend une carte de pierre et une carte de bois.
+07:46:57 Gödel dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:46:57 Gödel fonde une colonie.
+07:46:58 Début du tour 18 pour Escher.
+07:46:58 Escher a fait 6.
+07:46:58 Escher reçoit 3 cartes de blés.
+07:46:59 Escher dépense 2 cartes de blés et 3 cartes de pierre.
+07:46:59 Escher érige une ville.
+07:47:00 Début du tour 19 pour cyril.
+07:47:01 cyril a fait 10.
+07:47:01 Chairman Mao reçoit 2 cartes de blés.
+07:47:01 Gödel reçoit une carte de blé.
+07:47:09 Début du tour 19 pour Chairman Mao.
+07:47:09 Chairman Mao a fait 8.
+07:47:09 Chairman Mao reçoit une carte de pierre et une carte de laine.
+07:47:09 cyril reçoit 2 cartes de pierre.
+07:47:10 Chairman Mao dépense 2 cartes de blés et 3 cartes de pierre.
+07:47:10 Chairman Mao érige une ville.
+07:47:11 Début du tour 19 pour Gödel.
+07:47:11 Gödel a fait 8.
+07:47:11 cyril reçoit 2 cartes de pierre.
+07:47:11 Chairman Mao reçoit 2 cartes de pierre et 2 cartes de laine.
+07:47:12 Début du tour 19 pour Escher.
+07:47:12 Escher a fait 10.
+07:47:12 Chairman Mao reçoit 3 cartes de blés.
+07:47:12 Gödel reçoit une carte de blé.
+07:47:13 Escher échange 3 cartes de blés contre une carte d'argile.
+07:47:14 Escher dépense une carte d'argile et une carte de bois.
+07:47:14 Escher construit une route.
+07:47:15 Début du tour 20 pour cyril.
+07:47:16 cyril a fait 7.
+07:47:17 Chairman Mao jete 7 cartes de blés.
+07:47:34 cyril jete 2 cartes d'argile, une carte de pierre et 2 cartes de bois.
+07:47:36 cyril déplace le voleur.
+07:47:36 Vous volez une carte de laine à Escher.
+07:47:41 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+07:47:41 cyril érige une ville.
+07:47:42 Début du tour 20 pour Chairman Mao.
+07:47:42 Chairman Mao a fait 8.
+07:47:42 Chairman Mao reçoit 2 cartes de pierre et 2 cartes de laine.
+07:47:42 cyril reçoit 2 cartes de pierre.
+07:47:43 Chairman Mao échange 3 cartes de pierre contre une carte d'argile.
+07:47:44 Chairman Mao échange 3 cartes de laine contre une carte de blé.
+07:47:45 Chairman Mao dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:47:45 Chairman Mao fonde une colonie.
+07:47:46 Début du tour 20 pour Gödel.
+07:47:46 Gödel a fait 4.
+07:47:46 Gödel reçoit une carte de laine et une carte de bois.
+07:47:46 cyril reçoit 3 cartes de laine et 3 cartes de bois.
+07:47:47 Gödel dépense une carte de blé, une carte de pierre et une carte de laine.
+07:47:47 Gödel achète une carte de développement.
+07:47:48 Début du tour 20 pour Escher.
+07:47:48 Escher a fait 5.
+07:47:48 Escher reçoit 2 cartes de bois.
+07:47:48 Chairman Mao reçoit 2 cartes de bois.
+07:47:48 Gödel reçoit une carte de bois.
+07:47:49 Début du tour 21 pour cyril.
+07:47:50 cyril a fait 8.
+07:47:50 cyril reçoit 2 cartes de pierre.
+07:47:50 Chairman Mao reçoit 2 cartes de pierre et 2 cartes de laine.
+07:48:02 cyril échange 4 cartes de pierre contre une carte d'argile.
+07:48:03 cyril échange 2 cartes de laine contre une carte de blé.
+07:48:07 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:48:07 cyril fonde une colonie.
+07:48:07 cyril a gagné la partie avec 10 points de victoire !
+07:48:07 Gödel est parti.
+07:48:07 Chairman Mao est parti.
+07:48:07 Escher est parti.
+
