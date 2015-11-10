@@ -8,18 +8,18 @@
         "debug": "LOG4JS_CONFIG=log4js-config.json node-debug src/js/piolog-cli.js"
     },
     "dependencies": {
-        "commander": "~2.0.0",
-        "handlebars": "~4.0.3",
+        "commander": "~2.9.0",
+        "handlebars": "~4.0.4",
         "log4js": "~0.6.27",
         "js-beautify": "~1.5.10",
-        "piolog": "~1.1.0"
+        "piolog": "~1.1.0-beta"
     },
     "devDependencies": {
         "del": "~2.0.2",
         "gulp": "~3.9.0",
         "gulp-concat": "~2.6.0",
         "gulp-sourcemaps": "~1.6.0",
-        "gulp-uglify": "~1.4.1"
+        "gulp-uglify": "~1.4.2"
     },
     "repository": {
         "type": "git",
