@@ -51,6 +51,7 @@ function nextLogFileLine() {
 
             eof = (bytesRead < bufferSize);
 
+            // FIXME: UTF-8 char may have been split between to readSync, it is lost
             currentLine = currentLine + bufferAsString;
 
             indexOfCR = currentLine.indexOf('\n');
