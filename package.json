@@ -5,7 +5,8 @@
     "main": "src/js/piolog-cli.js",
     "scripts": {
         "main": "LOG4JS_CONFIG=log4js-config.json node src/js/piolog-cli.js",
-        "debug": "LOG4JS_CONFIG=log4js-config.json node-debug src/js/piolog-cli.js"
+        "debug": "LOG4JS_CONFIG=log4js-config.json node-debug src/js/piolog-cli.js",
+        "test": "LOG4JS_CONFIG=log4js-config.json istanbul test _mocha -- test/js -R spec --recursive"
     },
     "dependencies": {
         "commander": "~2.9.0",
@@ -19,7 +20,10 @@
         "gulp": "~3.9.0",
         "gulp-concat": "~2.6.0",
         "gulp-sourcemaps": "~1.6.0",
-        "gulp-uglify": "~1.4.2"
+        "gulp-uglify": "~1.4.2",
+        "istanbul": "~0.4.0",
+        "mocha": "~2.3.3",
+        "unit.js": "~2.0.0"
     },
     "repository": {
         "type": "git",
