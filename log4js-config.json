@@ -5,6 +5,7 @@
         "category": "piolog"
     }],
     "levels": {
-        "piolog": "DEBUG"
+        "piolog.main": "ALL",
+        "piolog.matchers": "ALL"
     }
 }
