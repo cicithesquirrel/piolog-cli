@@ -38,7 +38,7 @@ function nextLogFileLine() {
     if (indexOfCR < 0) {
 
         var eof = false;
-        var bufferSize = 32;
+        var bufferSize = 128;
         var buffer = new Buffer(bufferSize);
 
         while (indexOfCR < 0 && !eof) {
