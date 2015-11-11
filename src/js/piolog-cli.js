@@ -7,6 +7,7 @@ var log4js = require('log4js');
 var Buffer = require('buffer').Buffer;
 var jsonformatter = require('./json-formatter');
 var htmlformatter = require('./html-formatter');
+var filereader = require('./filereader');
 
 var logger = log4js.getLogger("piolog.main");
 
@@ -23,61 +24,23 @@ var formatters = {
 };
 
 // open file
-var input = fs.openSync(program.args[0], 'r');
-
-var currentLine = '';
+var input = filereader.FileReader(program.args[0]);
+input.open();
 
 function nextLogFileLine() {
 
+    var currentLine = input.readLine();
+
     logger.trace('currentLine: ' + currentLine);
 
-    var retval;
-
-    var indexOfCR = currentLine.indexOf('\n');
-
-    if (indexOfCR < 0) {
-
-        var eof = false;
-        var bufferSize = 128;
-        var buffer = new Buffer(bufferSize);
-
-        while (indexOfCR < 0 && !eof) {
-
-            var bytesRead = fs.readSync(input, buffer, 0, bufferSize);
-
-            var bufferAsString = buffer.toString(undefined, 0, bytesRead);
-
-            logger.trace('buffer: "' + bufferAsString + '" with size: ' + bytesRead);
-
-            eof = (bytesRead < bufferSize);
-
-            // FIXME: UTF-8 char may have been split between to readSync, it is lost
-            currentLine = currentLine + bufferAsString;
-
-            indexOfCR = currentLine.indexOf('\n');
-        }
-    }
-
-    logger.trace('indexOfCR: ' + indexOfCR);
-
-    if (indexOfCR >= 0) {
-        retval = currentLine.substring(0, indexOfCR);
-        currentLine = currentLine.substring(indexOfCR + 1, currentLine.length);
-    } else if (currentLine.trim() !== '') {
-        retval = currentLine;
-        currentLine = '';
-    }
-
-    logger.trace('retval: ' + retval);
-
-    return retval;
+    return currentLine;
 }
 
 // parse file
 var game = piolog.parse(nextLogFileLine);
 
-// close fine
-fs.closeSync(input);
+// close file
+input.close();
 
 var formatter = formatters[program.format];
 
