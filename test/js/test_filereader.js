@@ -116,7 +116,47 @@ describe('"filereader" tests', function () {
     });
 
     describe('"FileReader" tests', function () {
-        // TODO FileReader tests
+
+        it('New file reader is not opened', function () {
+
+            var fr = new filereader.FileReader('inexistent_file');
+
+            test.bool(fr.isOpened()).isFalse();
+        });
+
+        it('Opened file is opened', function () {
+
+            var fr = new filereader.FileReader('test/data/empty_file');
+            fr.open();
+
+            test.bool(fr.isOpened()).isTrue();
+
+            fr.close();
+        });
+
+        it('File is not EOF when just opened', function () {
+
+            var fr = new filereader.FileReader('test/data/empty_file');
+            fr.open();
+
+            test.bool(fr.isEndOfFile()).isFalse();
+
+            fr.close();
+        });
+
+        it('Read empty file', function () {
+
+            var fr = new filereader.FileReader('test/data/empty_file');
+            fr.open();
+
+            var content = fr.readLine();
+
+            test.bool(fr.isEndOfFile()).isTrue();
+
+            test.string(content).is('');
+
+            fr.close();
+        });
     });
 
 });

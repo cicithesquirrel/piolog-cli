@@ -97,7 +97,7 @@ exports.FileReader = function (fileName, encoding, readBufferSize) {
             this.fd = fs.openSync(this.fileName, 'r');
         },
         isOpened: function () {
-            return !(this.fd);
+            return (this.fd !== null);
         },
 
 
