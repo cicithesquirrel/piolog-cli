@@ -6,7 +6,8 @@
     "scripts": {
         "main": "LOG4JS_CONFIG=log4js-config.json node src/js/piolog-cli.js",
         "debug": "LOG4JS_CONFIG=log4js-config.json node-debug src/js/piolog-cli.js",
-        "test": "LOG4JS_CONFIG=log4js-config.json istanbul test _mocha -- test/js -R spec --recursive"
+        "test": "LOG4JS_CONFIG=log4js-config.json istanbul test _mocha -- test/js -R spec --recursive",
+        "cover": "LOG4JS_CONFIG=log4js-config.json istanbul cover _mocha -- test/js -R spec --recursive"
     },
     "dependencies": {
         "commander": "~2.9.0",

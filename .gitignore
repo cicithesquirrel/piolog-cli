@@ -6,3 +6,4 @@ pio*.log
 /npm-debug.log
 /logs/
 /result.*
+/coverage/
