@@ -44,7 +44,7 @@ exports.ContentBuffer = function (encoding) {
             if (indexOfCR >= 0) {
                 retval = contentAsString.substring(0, indexOfCR);
             } else {
-                retval = null;
+                retval = undefined;
             }
             return retval;
         },
