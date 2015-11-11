@@ -43,6 +43,9 @@ exports.ContentBuffer = function (encoding) {
             var retval;
             if (indexOfCR >= 0) {
                 retval = contentAsString.substring(0, indexOfCR);
+                var consumedBytes = Buffer.byteLength(retval, this.encoding) + 1;
+                this.buffer = this.buffer.slice(consumedBytes);
+                this.size = this.size - consumedBytes;
             } else {
                 retval = undefined;
             }
@@ -92,16 +95,19 @@ exports.FileReader = function (fileName, encoding, readBufferSize) {
         fd: null,
         eof: false,
         buffer: new exports.ContentBuffer(encoding),
+
         open: function () {
             assertMustNotBeOpened(this);
             this.fd = fs.openSync(this.fileName, 'r');
+            this.eof = false;
         },
+
         isOpened: function () {
             return (this.fd !== null);
         },
 
 
-        readMoreBytes: function () {
+        __readMoreBytes: function () {
             var readBytes = fs.readSync(this.fd, tmpBuffer, 0, readBufferSize);
 
             if (readBytes < readBufferSize) {
@@ -117,7 +123,7 @@ exports.FileReader = function (fileName, encoding, readBufferSize) {
             var retval = this.buffer.getOneLineFromTempBuffer();
 
             while (!retval && !this.eof) {
-                this.readMoreBytes();
+                this.__readMoreBytes();
                 retval = this.buffer.getOneLineFromTempBuffer();
             }
 
@@ -134,7 +140,7 @@ exports.FileReader = function (fileName, encoding, readBufferSize) {
         close: function () {
             assertMustBeOpened(this);
             fs.closeSync(this.fd);
-            this.fd = undefined;
+            this.fd = null;
         }
     };
 };
