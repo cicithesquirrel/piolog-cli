@@ -10,6 +10,9 @@ Interface en ligne de commande pour [piolog](https://github.com/cicithesquirrel/
 
   * Exécuter en ligne de commande : `npm run main -- [args]`
   * Déboguer avec Chrome : `npm run debug -- [args]`
+  * Exécuter les tests : `npm test`
+  * Exécuter les tests avec mesure de la couverture de code : `npm run cover`
+    * Le rapport est `coverage/lcov-report/index.html`
 
 Voir les commandes dans le fichier `package.json`.
 
@@ -25,11 +28,17 @@ Voir les commandes dans le fichier `gulpfile.js`.
 
   * `src` : Sources
     * `js/piolog-cli.js` : Programme en ligne de commande
+    * `js/html-formatter.js` : Génération d'un rapport au format HTML
+    * `js/json-formatter.js` : Génération d'un rapport au format JSON
+    * `js/contentbuffer.js` : API pour un buffer en mémoire (utilisé pour la lecture du fichier de log d'une partie)
+    * `js/filereader.js` : API pour la lecture du fichier de log d'une partie
     * `html/html-formatter.html` : Modèle de page HTML pour le rendu dans ce format
-  * `log4js-config.json` : Exemple de configuration des loggers
-  * `.jshintrc` : Configuration JSHint
+  * `test` : Tests et fichiers de test
   * `.gitignore` : Configuration Git
+  * `.jshintrc` : Configuration JSHint
   * `gulpfile.js` : Script de build Gulp
+  * `LICENSE` : Fichier de licence
+  * `log4js-config.json` : Exemple de configuration des loggers
   * `package.json` : Configuration NPM
   * `README.md` : Documentation du module
 
