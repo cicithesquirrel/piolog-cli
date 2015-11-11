@@ -144,16 +144,56 @@ describe('"filereader" tests', function () {
             fr.close();
         });
 
-        it('Read empty file', function () {
+        it('Read empty file reaches EOF', function () {
 
             var fr = new filereader.FileReader('test/data/empty_file');
             fr.open();
 
-            var content = fr.readLine();
+            var line = fr.readLine();
+            test.string(line).is('');
 
             test.bool(fr.isEndOfFile()).isTrue();
 
-            test.string(content).is('');
+            fr.close();
+        });
+
+        it('Read three lines of a 551-line file', function () {
+
+            var fr = new filereader.FileReader('test/data/game1.txt');
+            fr.open();
+
+            var line;
+
+            test.bool(fr.isEndOfFile()).isFalse();
+
+            line = fr.readLine();
+            test.string(line).is('07:20:20 Connexion à localhost, port 5556');
+            test.bool(fr.isEndOfFile()).isFalse();
+
+            line = fr.readLine();
+            test.string(line).is('07:20:20 Le joueur 3 s\'appelle maintenant cyril.');
+            test.bool(fr.isEndOfFile()).isFalse();
+
+            line = fr.readLine();
+            test.string(line).is('07:20:20 Le joueur 1 s\'appelle maintenant Bach.');
+            test.bool(fr.isEndOfFile()).isFalse();
+
+            fr.close();
+        });
+
+        it('Read a 551-line file', function () {
+
+            var fr = new filereader.FileReader('test/data/game1.txt');
+            fr.open();
+
+            /*var lineCount = 0;
+            while (!fr.isEndOfFile()) {
+                var l = fr.readLine();
+                console.log(l);
+                lineCount++;
+            }*/
+
+            //test.number(lineCount).is(551);
 
             fr.close();
         });
