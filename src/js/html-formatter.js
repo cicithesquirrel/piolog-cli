@@ -50,6 +50,41 @@ exports.format = function (game, options) {
             var asString = JSON.stringify(gameGraphsScore);
 
             return '<script>var gameGraphsScore = ' + asString + ';</script>';
+        },
+        diceByPlayer: function () {
+            var gameGraphsScore = [
+             ['Dice'], ['2'], ['3'], ['4'], ['5'], ['6'], ['7'], ['8'], ['9'], ['10'], ['11'], ['12']
+            ];
+
+            var i, j;
+
+            for (i = 0; i < game.playerOrder.length; i++) {
+                gameGraphsScore[0].push(game.playerOrder[i]);
+
+                for (j = 1; j < 12; j++) {
+                    gameGraphsScore[j].push(0);
+                }
+            }
+
+            logger.info(JSON.stringify(gameGraphsScore));
+
+            for (i = 1; i < game.turns.length; i++) {
+                var turn = game.turns[i];
+
+                for (j = 0; j < game.playerOrder.length; j++) {
+                    var player = game.playerOrder[j];
+                    var dice = turn.players[player].dice;
+                    if (dice) {
+                        var index = dice - 1;
+                        var arrayForDice = gameGraphsScore[index];
+                        arrayForDice[j + 1] = arrayForDice[j + 1] + 1;
+                    }
+                }
+            }
+
+            var asString = JSON.stringify(gameGraphsScore);
+
+            return '<script>var gameGraphsDiceByPlayer = ' + asString + ';</script>';
         }
     };
 

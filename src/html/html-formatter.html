@@ -39,47 +39,6 @@
     <script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization','version':'1.1','packages':['corechart']}]}">
         /* */
     </script>
-    <script type="text/javascript">
-        function toGoogleChartDataTable(domTable) {
-            var googleDataTable = new google.visualization.DataTable();
-
-            var domHeaderLine = domTable.children[0].children[0];
-
-            var converters = [];
-
-            for (var domHeaderIndex = 0; domHeaderIndex < domHeaderLine.children.length; domHeaderIndex++) {
-                var domHeaderCell = domHeaderLine.children[domHeaderIndex];
-                var dataType = domHeaderCell.getAttribute('data-chart-type');
-                googleDataTable.addColumn(dataType, domHeaderCell.textContent);
-                if (dataType === 'number') {
-                    converters[domHeaderIndex] = parseFloat;
-                } else if (dataType === 'string') {
-                    converters[domHeaderIndex] = null;
-                }
-            }
-
-            for (var lineIndex = 0; lineIndex < domTable.children[1].childElementCount; lineIndex++) {
-                var domLine = domTable.children[1].children[lineIndex];
-
-                var googleDataLine = [];
-
-                for (var domCellIndex = 0; domCellIndex < domLine.children.length; domCellIndex++) {
-                    var domCell = domLine.children[domCellIndex];
-
-                    var converterFunction = converters[domCellIndex];
-                    if (converterFunction) {
-                        googleDataLine.push(converterFunction(domCell.textContent));
-                    } else {
-                        googleDataLine.push(domCell.textContent);
-                    }
-                }
-
-                googleDataTable.addRows([googleDataLine]);
-            }
-
-            return googleDataTable;
-        }
-    </script>
 </head>
 
 <body>
@@ -103,33 +62,12 @@
     <h2>Stats</h2>
     <script type="text/javascript">
         google.setOnLoadCallback(function () {
-            drawDiceStatsByPlayer();
+            drawDiceByPlayerStats();
             drawScoreStats();
         });
-
-        function drawDiceStatsByPlayer() {
-
-            var domTable = document.getElementById('dice_stats_by_player');
-
-            var data = toGoogleChartDataTable(domTable);
-
-            var options = {
-                title: 'Dice stats by player',
-                legend: {
-                    position: 'top',
-                    maxLines: 3
-                },
-                bar: {
-                    groupWidth: '75%'
-                },
-                isStacked: true,
-            };
-
-            var chart = new google.visualization.ColumnChart(document.getElementById('dice_stats_by_player'));
-            chart.draw(data, options);
-        }
     </script>
-    {{{stats.graphs.score}}}
+
+    <h3>Score</h3> {{{stats.graphs.score}}}
     <script>
         function drawScoreStats() {
 
@@ -143,19 +81,16 @@
             chart.draw(data, options);
         }
     </script>
-    <h3>Score</h3>
     <div id="graphs_score" style="width: 900px; height: 500px;"></div>
 
-    <h3>Dice</h3>
+    <h3>Dice</h3> {{{stats.graphs.diceByPlayer}}}
     <script type="text/javascript">
-        function drawDiceStatsByPlayer() {
+        function drawDiceByPlayerStats() {
 
-            var domTable = document.getElementById('dice_stats_by_player');
-
-            var data = toGoogleChartDataTable(domTable);
+            var data = google.visualization.arrayToDataTable(gameGraphsDiceByPlayer);
 
             var options = {
-                title: 'Dice stats by player',
+                title: 'Dice by player',
                 legend: {
                     position: 'top',
                     maxLines: 3
@@ -166,30 +101,11 @@
                 isStacked: true,
             };
 
-            var chart = new google.visualization.ColumnChart(document.getElementById('dice_stats_by_player'));
+            var chart = new google.visualization.ColumnChart(document.getElementById('graphs_dice_by_player'));
             chart.draw(data, options);
         }
     </script>
-    <table id="dice_stats_by_player" style="width: 900px; height: 500px;">
-        <thead>
-            <tr>
-                <td data-chart-type="string">Dice</td>
-                {{#playerOrder}}
-                <td data-chart-type="number">{{.}}</td>
-                {{/playerOrder}}
-            </tr>
-        </thead>
-        <tbody>
-            {{#stats.diceByPlayer}}
-            <tr>
-                <td>{{@index}}</td>
-                {{#.}}
-                <td>{{times}}</td>
-                {{/.}}
-            </tr>
-            {{/stats.diceByPlayer}}
-        </tbody>
-    </table>
+    <div id="graphs_dice_by_player" style="width: 900px; height: 500px;"></div>
 </body>
 
 </html>
