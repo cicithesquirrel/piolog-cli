@@ -61,15 +61,17 @@
     {{/if}}
     <h2>Stats</h2>
     <script type="text/javascript">
+        var drawGraphFunctions = [];
         google.setOnLoadCallback(function () {
-            drawDiceByPlayerStats();
-            drawScoreStats();
+            for (var i = 0; i < drawGraphFunctions.length; i++) {
+                drawGraphFunctions[i]();
+            }
         });
     </script>
 
     <h3>Score</h3> {{{stats.graphs.score}}}
     <script>
-        function drawScoreStats() {
+        drawGraphFunctions.push(function () {
 
             var data = google.visualization.arrayToDataTable(gameGraphsScore);
 
@@ -79,13 +81,13 @@
 
             var chart = new google.visualization.LineChart(document.getElementById('graphs_score'));
             chart.draw(data, options);
-        }
+        });
     </script>
     <div id="graphs_score" style="width: 900px; height: 500px;"></div>
 
     <h3>Dice</h3> {{{stats.graphs.diceByPlayer}}}
     <script type="text/javascript">
-        function drawDiceByPlayerStats() {
+        drawGraphFunctions.push(function () {
 
             var data = google.visualization.arrayToDataTable(gameGraphsDiceByPlayer);
 
@@ -103,7 +105,7 @@
 
             var chart = new google.visualization.ColumnChart(document.getElementById('graphs_dice_by_player'));
             chart.draw(data, options);
-        }
+        });
     </script>
     <div id="graphs_dice_by_player" style="width: 900px; height: 500px;"></div>
 </body>
