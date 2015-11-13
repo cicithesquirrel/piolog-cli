@@ -45,6 +45,8 @@ exports.format = function (game, options) {
 
                 if (propertyValue) {
                     turnForGraph.push(propertyValue);
+                } else {
+                    turnForGraph.push(0);
                 }
             }
 
@@ -57,8 +59,17 @@ exports.format = function (game, options) {
     }
 
     game.stats.graphs = {
-        score: function () {
+        scoreEvolution: function () {
             return buildEvolutionGraph('gameGraphsScore', 'score');
+        },
+        citiesEvolution: function () {
+            return buildEvolutionGraph('gameGraphsCities', 'city');
+        },
+        coloniesEvolution: function () {
+            return buildEvolutionGraph('gameGraphsColonies', 'colony');
+        },
+        roadsEvolution: function () {
+            return buildEvolutionGraph('gameGraphsRoads', 'road');
         },
         diceByPlayer: function () {
             var gameGraphsScore = [

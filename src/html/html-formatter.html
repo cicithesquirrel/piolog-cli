@@ -69,7 +69,7 @@
         });
     </script>
 
-    <h3>Score</h3> {{{stats.graphs.score}}}
+    <h3>Score</h3> {{{stats.graphs.scoreEvolution}}}
     <script>
         drawGraphFunctions.push(function () {
 
@@ -84,6 +84,46 @@
         });
     </script>
     <div id="graphs_score" style="width: 900px; height: 500px;"></div>
+
+    <h3>Buildings</h3> {{{stats.graphs.roadsEvolution}}}{{{stats.graphs.citiesEvolution}}}{{{stats.graphs.coloniesEvolution}}}
+    <script>
+        drawGraphFunctions.push(function () {
+
+            var data = google.visualization.arrayToDataTable(gameGraphsColonies);
+
+            var options = {
+                title: 'Colonies Evolution'
+            };
+
+            var chart = new google.visualization.LineChart(document.getElementById('graphs_building_colonies'));
+            chart.draw(data, options);
+        });
+        drawGraphFunctions.push(function () {
+
+            var data = google.visualization.arrayToDataTable(gameGraphsCities);
+
+            var options = {
+                title: 'Cities Evolution'
+            };
+
+            var chart = new google.visualization.LineChart(document.getElementById('graphs_building_cities'));
+            chart.draw(data, options);
+        });
+        drawGraphFunctions.push(function () {
+
+            var data = google.visualization.arrayToDataTable(gameGraphsRoads);
+
+            var options = {
+                title: 'Roads Evolution'
+            };
+
+            var chart = new google.visualization.LineChart(document.getElementById('graphs_building_roads'));
+            chart.draw(data, options);
+        });
+    </script>
+    <div id="graphs_building_colonies" style="width: 900px; height: 500px;"></div>
+    <div id="graphs_building_cities" style="width: 900px; height: 500px;"></div>
+    <div id="graphs_building_roads" style="width: 900px; height: 500px;"></div>
 
     <h3>Dice</h3> {{{stats.graphs.diceByPlayer}}}
     <script type="text/javascript">
