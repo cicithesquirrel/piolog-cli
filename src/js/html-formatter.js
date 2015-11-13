@@ -22,34 +22,43 @@ exports.format = function (game, options) {
         return label;
     };
 
-    game.stats.graphs = {
-        score: function () {
-            var gameGraphsScore = [
+
+    function buildEvolutionGraph(jsVarName, propertyName) {
+        var graph = [
              ['Turn']
             ];
 
-            for (var i = 0; i < game.playerOrder.length; i++) {
-                gameGraphsScore[0].push(game.playerOrder[i]);
-            }
+        for (var i = 0; i < game.playerOrder.length; i++) {
+            graph[0].push(game.playerOrder[i]);
+        }
 
-            for (var j = 0; j < game.turns.length; j++) {
-                var turn = game.turns[j];
+        for (var j = 0; j < game.turns.length; j++) {
+            var turn = game.turns[j];
 
-                var turnForGraph = [];
-                turnForGraph.push(j);
+            var turnForGraph = [];
+            turnForGraph.push(j);
 
-                for (i = 0; i < game.playerOrder.length; i++) {
-                    var player = game.playerOrder[i];
+            for (i = 0; i < game.playerOrder.length; i++) {
+                var player = game.playerOrder[i];
 
-                    turnForGraph.push(turn.players[player].score);
+                var propertyValue = turn.players[player][propertyName];
+
+                if (propertyValue) {
+                    turnForGraph.push(propertyValue);
                 }
-
-                gameGraphsScore.push(turnForGraph);
             }
 
-            var asString = JSON.stringify(gameGraphsScore);
+            graph.push(turnForGraph);
+        }
 
-            return '<script>var gameGraphsScore = ' + asString + ';</script>';
+        var asString = JSON.stringify(graph);
+
+        return '<script>var ' + jsVarName + ' = ' + asString + ';</script>';
+    }
+
+    game.stats.graphs = {
+        score: function () {
+            return buildEvolutionGraph('gameGraphsScore', 'score');
         },
         diceByPlayer: function () {
             var gameGraphsScore = [
