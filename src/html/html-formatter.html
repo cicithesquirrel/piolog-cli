@@ -67,59 +67,33 @@
                 drawGraphFunctions[i]();
             }
         });
+
+        function addEvolutionChart(title, placeHolder, dataAsArray) {
+            drawGraphFunctions.push(function () {
+
+                var data = google.visualization.arrayToDataTable(dataAsArray);
+
+                var options = {
+                    title: title
+                };
+
+                var chart = new google.visualization.LineChart(document.getElementById(placeHolder));
+                chart.draw(data, options);
+            });
+        }
     </script>
 
     <h3>Score</h3> {{{stats.graphs.scoreEvolution}}}
     <script>
-        drawGraphFunctions.push(function () {
-
-            var data = google.visualization.arrayToDataTable(gameGraphsScore);
-
-            var options = {
-                title: 'Score Evolution'
-            };
-
-            var chart = new google.visualization.LineChart(document.getElementById('graphs_score'));
-            chart.draw(data, options);
-        });
+        addEvolutionChart('Score Evolution', 'graphs_score', gameGraphsScore);
     </script>
     <div id="graphs_score" style="width: 900px; height: 500px;"></div>
 
     <h3>Buildings</h3> {{{stats.graphs.roadsEvolution}}}{{{stats.graphs.citiesEvolution}}}{{{stats.graphs.coloniesEvolution}}}
     <script>
-        drawGraphFunctions.push(function () {
-
-            var data = google.visualization.arrayToDataTable(gameGraphsColonies);
-
-            var options = {
-                title: 'Colonies Evolution'
-            };
-
-            var chart = new google.visualization.LineChart(document.getElementById('graphs_building_colonies'));
-            chart.draw(data, options);
-        });
-        drawGraphFunctions.push(function () {
-
-            var data = google.visualization.arrayToDataTable(gameGraphsCities);
-
-            var options = {
-                title: 'Cities Evolution'
-            };
-
-            var chart = new google.visualization.LineChart(document.getElementById('graphs_building_cities'));
-            chart.draw(data, options);
-        });
-        drawGraphFunctions.push(function () {
-
-            var data = google.visualization.arrayToDataTable(gameGraphsRoads);
-
-            var options = {
-                title: 'Roads Evolution'
-            };
-
-            var chart = new google.visualization.LineChart(document.getElementById('graphs_building_roads'));
-            chart.draw(data, options);
-        });
+        addEvolutionChart('Colonies Evolution', 'graphs_building_colonies', gameGraphsColonies);
+        addEvolutionChart('Cities Evolution', 'graphs_building_cities', gameGraphsCities);
+        addEvolutionChart('Roads Evolution', 'graphs_building_roads', gameGraphsRoads);
     </script>
     <div id="graphs_building_colonies" style="width: 900px; height: 500px;"></div>
     <div id="graphs_building_cities" style="width: 900px; height: 500px;"></div>
