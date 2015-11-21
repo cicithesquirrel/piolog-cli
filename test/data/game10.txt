@@ -1,0 +1,707 @@
+16:48:21 Connexion à localhost, port 5556
+16:48:21 Le joueur 3 s'appelle maintenant cyril.
+16:48:21 Le joueur 0 s'appelle maintenant Richard Nixon.
+16:48:21 Le joueur 1 s'appelle maintenant Abraham Lincoln.
+16:48:21 Le joueur 2 s'appelle maintenant Joan of Arc.
+16:48:21 Placement pour Richard Nixon.
+16:48:22 Richard Nixon fonde une colonie.
+16:48:23 Richard Nixon construit une route.
+16:48:24 Placement pour Abraham Lincoln.
+16:48:25 Abraham Lincoln fonde une colonie.
+16:48:26 Abraham Lincoln construit une route.
+16:48:27 Placement pour Joan of Arc.
+16:48:28 Joan of Arc fonde une colonie.
+16:48:29 Joan of Arc construit une route.
+16:48:30 Double placement pour cyril.
+16:48:54 cyril fonde une colonie.
+16:48:55 cyril construit une route.
+16:48:58 cyril retire une route.
+16:48:58 cyril retire une colonie.
+16:49:11 cyril fonde une colonie.
+16:49:11 cyril construit une route.
+16:49:14 cyril fonde une colonie.
+16:49:14 cyril construit une route.
+16:49:15 cyril reçoit une carte d'argile, une carte de blé et une carte de laine.
+16:49:15 Placement pour Joan of Arc.
+16:49:16 Joan of Arc fonde une colonie.
+16:49:17 Joan of Arc construit une route.
+16:49:18 Joan of Arc reçoit 2 cartes d'argile et une carte de pierre.
+16:49:18 Placement pour Abraham Lincoln.
+16:49:19 Abraham Lincoln fonde une colonie.
+16:49:20 Abraham Lincoln construit une route.
+16:49:21 Abraham Lincoln reçoit une carte de blé et une carte de laine.
+16:49:21 Placement pour Richard Nixon.
+16:49:22 Richard Nixon fonde une colonie.
+16:49:23 Richard Nixon construit une route.
+16:49:24 Richard Nixon reçoit une carte de blé et 2 cartes de bois.
+16:49:24 Début du tour 1 pour Richard Nixon.
+16:49:24 Richard Nixon a fait 5.
+16:49:24 Richard Nixon reçoit 2 cartes de blés.
+16:49:24 Abraham Lincoln reçoit une carte de bois.
+16:49:24 Joan of Arc reçoit une carte de bois.
+16:49:25 Début du tour 1 pour Abraham Lincoln.
+16:49:25 Abraham Lincoln a fait 7.
+16:49:26 Abraham Lincoln déplace le voleur.
+16:49:26 Abraham Lincoln vole une ressource à Richard Nixon.
+16:49:27 Début du tour 1 pour Joan of Arc.
+16:49:27 Joan of Arc a fait 5.
+16:49:27 Joan of Arc reçoit une carte de bois.
+16:49:27 Richard Nixon reçoit 2 cartes de blés.
+16:49:27 Abraham Lincoln reçoit une carte de bois.
+16:49:28 Joan of Arc dépense une carte d'argile et une carte de bois.
+16:49:28 Joan of Arc construit une route.
+16:49:29 Début du tour 1 pour cyril.
+16:49:33 cyril a fait 7.
+16:49:38 cyril déplace le voleur.
+16:49:38 Vous volez une carte de blé à Richard Nixon.
+16:49:48 Début du tour 2 pour Richard Nixon.
+16:49:48 Richard Nixon a fait 8.
+16:49:48 Richard Nixon reçoit une carte de blé et une carte de laine.
+16:49:48 Abraham Lincoln reçoit une carte de laine.
+16:49:48 Joan of Arc reçoit une carte de blé.
+16:49:49 Début du tour 2 pour Abraham Lincoln.
+16:49:49 Abraham Lincoln a fait 3.
+16:49:49 cyril reçoit une carte de bois.
+16:49:49 Richard Nixon reçoit une carte de bois.
+16:49:50 Début du tour 2 pour Joan of Arc.
+16:49:50 Joan of Arc a fait 3.
+16:49:50 cyril reçoit une carte de bois.
+16:49:50 Richard Nixon reçoit une carte de bois.
+16:49:51 Début du tour 2 pour cyril.
+16:49:54 cyril a fait 3.
+16:49:54 cyril reçoit une carte de bois.
+16:49:54 Richard Nixon reçoit une carte de bois.
+16:50:15 Début du tour 3 pour Richard Nixon.
+16:50:15 Richard Nixon a fait 10.
+16:50:15 Abraham Lincoln reçoit une carte de blé.
+16:50:15 Joan of Arc reçoit une carte d'argile et une carte de blé.
+16:50:16 Richard Nixon échange 4 cartes de bois contre une carte de pierre.
+16:50:17 Richard Nixon dépense une carte de blé, une carte de pierre et une carte de laine.
+16:50:17 Richard Nixon achète une carte de développement.
+16:50:18 Début du tour 3 pour Abraham Lincoln.
+16:50:18 Abraham Lincoln a fait 5.
+16:50:18 Abraham Lincoln reçoit une carte de bois.
+16:50:18 Joan of Arc reçoit une carte de bois.
+16:50:19 Début du tour 3 pour Joan of Arc.
+16:50:19 Joan of Arc a fait 6.
+16:50:19 cyril reçoit une carte d'argile.
+16:50:19 Richard Nixon reçoit une carte de bois.
+16:50:19 Abraham Lincoln reçoit une carte d'argile.
+16:50:20 Début du tour 3 pour cyril.
+16:50:21 cyril a fait 9.
+16:50:21 cyril reçoit une carte de pierre.
+16:50:21 Joan of Arc reçoit une carte de pierre.
+16:50:29 cyril donne Joan of Arc une carte de pierre en échange de une carte d'argile.
+16:50:32 cyril dépense une carte d'argile et une carte de bois.
+16:50:32 cyril construit une route.
+16:50:32 cyril dépense une carte d'argile et une carte de bois.
+16:50:32 cyril construit une route.
+16:50:33 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+16:50:33 cyril fonde une colonie.
+16:50:34 Début du tour 4 pour Richard Nixon.
+16:50:34 Richard Nixon joue la carte de développement Chevalier.
+16:50:35 Richard Nixon déplace le voleur.
+16:50:35 Richard Nixon vole une ressource à Abraham Lincoln.
+16:50:36 Richard Nixon a fait 7.
+16:50:36 Abraham Lincoln jete 3 cartes de blés et une carte de bois.
+16:50:36 Joan of Arc jete une carte d'argile, une carte de pierre et 2 cartes de bois.
+16:50:37 Richard Nixon déplace le voleur.
+16:50:37 Richard Nixon vole une ressource à Abraham Lincoln.
+16:50:38 Début du tour 4 pour Abraham Lincoln.
+16:50:38 Abraham Lincoln a fait 10.
+16:50:38 Abraham Lincoln reçoit une carte de blé.
+16:50:38 Joan of Arc reçoit une carte d'argile et une carte de blé.
+16:50:39 Abraham Lincoln dépense une carte d'argile et une carte de bois.
+16:50:39 Abraham Lincoln construit une route.
+16:50:40 Début du tour 4 pour Joan of Arc.
+16:50:40 Joan of Arc a fait 7.
+16:50:41 Joan of Arc déplace le voleur.
+16:50:41 Joan of Arc vole une ressource à Abraham Lincoln.
+16:50:42 Début du tour 4 pour cyril.
+16:50:43 cyril a fait 9.
+16:50:43 cyril reçoit une carte de pierre.
+16:50:43 Joan of Arc reçoit une carte de pierre.
+16:50:45 Début du tour 5 pour Richard Nixon.
+16:50:45 Richard Nixon a fait 7.
+16:50:46 Joan of Arc jete une carte d'argile, 2 cartes de blés et une carte de pierre.
+16:50:47 Richard Nixon déplace le voleur.
+16:50:47 Richard Nixon vole une ressource à Joan of Arc.
+16:50:48 Richard Nixon dépense une carte de blé, une carte de pierre et une carte de laine.
+16:50:48 Richard Nixon achète une carte de développement.
+16:50:49 Début du tour 5 pour Abraham Lincoln.
+16:50:49 Abraham Lincoln a fait 8.
+16:50:49 Abraham Lincoln reçoit une carte de laine.
+16:50:49 Joan of Arc reçoit une carte de blé.
+16:50:49 Richard Nixon reçoit une carte de blé et une carte de laine.
+16:50:50 Début du tour 5 pour Joan of Arc.
+16:50:50 Joan of Arc a fait 6.
+16:50:50 cyril reçoit une carte d'argile et une carte de bois.
+16:50:50 Richard Nixon reçoit une carte de bois.
+16:50:50 Abraham Lincoln reçoit une carte d'argile.
+16:50:51 Début du tour 5 pour cyril.
+16:50:52 cyril a fait 10.
+16:50:52 Abraham Lincoln reçoit une carte de blé.
+16:50:52 Joan of Arc reçoit une carte d'argile et une carte de blé.
+16:50:53 cyril dépense une carte d'argile et une carte de bois.
+16:50:53 cyril construit une route.
+16:50:54 Début du tour 6 pour Richard Nixon.
+16:50:54 Richard Nixon a fait 10.
+16:50:54 Abraham Lincoln reçoit une carte de blé.
+16:50:54 Joan of Arc reçoit une carte d'argile et une carte de blé.
+16:50:55 Début du tour 6 pour Abraham Lincoln.
+16:50:55 Abraham Lincoln a fait 7.
+16:50:56 Richard Nixon jete 2 cartes de blés et 2 cartes de bois.
+16:50:56 Joan of Arc jete 2 cartes d'argile et 2 cartes de blés.
+16:50:57 Abraham Lincoln déplace le voleur.
+16:50:57 Abraham Lincoln vole une ressource à Richard Nixon.
+16:50:58 Début du tour 6 pour Joan of Arc.
+16:50:58 Joan of Arc a fait 6.
+16:50:58 cyril reçoit une carte d'argile.
+16:50:58 Abraham Lincoln reçoit une carte d'argile.
+16:50:59 Début du tour 6 pour cyril.
+16:51:00 cyril a fait 6.
+16:51:00 cyril reçoit une carte d'argile.
+16:51:00 Abraham Lincoln reçoit une carte d'argile.
+16:51:01 Début du tour 7 pour Richard Nixon.
+16:51:01 Richard Nixon a fait 7.
+16:51:02 Abraham Lincoln jete 2 cartes d'argile, une carte de blé et une carte de laine.
+16:51:03 Richard Nixon déplace le voleur.
+16:51:03 Richard Nixon vous vole une carte d'argile.
+16:51:04 Richard Nixon dépense une carte d'argile et une carte de bois.
+16:51:04 Richard Nixon construit une route.
+16:51:05 Début du tour 7 pour Abraham Lincoln.
+16:51:05 Abraham Lincoln a fait 2.
+16:51:06 Début du tour 7 pour Joan of Arc.
+16:51:06 Joan of Arc a fait 6.
+16:51:06 cyril reçoit une carte de bois.
+16:51:06 Richard Nixon reçoit une carte de bois.
+16:51:07 Début du tour 7 pour cyril.
+16:51:08 cyril a fait 8.
+16:51:08 Richard Nixon reçoit une carte de blé et une carte de laine.
+16:51:08 Abraham Lincoln reçoit une carte de laine.
+16:51:08 Joan of Arc reçoit une carte de blé.
+16:51:13 cyril donne Abraham Lincoln une carte de pierre en échange de une carte de laine.
+16:51:15 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+16:51:15 cyril fonde une colonie.
+16:51:16 Début du tour 8 pour Richard Nixon.
+16:51:16 Richard Nixon a fait 6.
+16:51:16 Richard Nixon reçoit une carte de bois.
+16:51:16 cyril reçoit une carte de bois.
+16:51:17 Début du tour 8 pour Abraham Lincoln.
+16:51:17 Abraham Lincoln a fait 7.
+16:51:18 Abraham Lincoln déplace le voleur.
+16:51:18 Abraham Lincoln vole une ressource à Richard Nixon.
+16:51:19 Abraham Lincoln dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+16:51:19 Abraham Lincoln fonde une colonie.
+16:51:20 Début du tour 8 pour Joan of Arc.
+16:51:20 Joan of Arc a fait 6.
+16:51:20 cyril reçoit une carte d'argile.
+16:51:20 Abraham Lincoln reçoit une carte d'argile.
+16:51:21 Début du tour 8 pour cyril.
+16:51:24 cyril a fait 7.
+16:51:26 cyril déplace le voleur.
+16:51:29 Vous volez une carte de pierre à Joan of Arc.
+16:51:52 Début du tour 9 pour Richard Nixon.
+16:51:52 Richard Nixon a fait 7.
+16:51:53 Richard Nixon déplace le voleur.
+16:51:53 Richard Nixon vous vole une carte de bois.
+16:51:54 Début du tour 9 pour Abraham Lincoln.
+16:51:54 Abraham Lincoln a fait 5.
+16:51:54 Abraham Lincoln reçoit une carte de bois.
+16:51:54 Joan of Arc reçoit une carte de bois.
+16:51:54 Richard Nixon reçoit 2 cartes de blés.
+16:51:55 Abraham Lincoln dépense une carte d'argile et une carte de bois.
+16:51:55 Abraham Lincoln construit une route.
+16:51:56 Début du tour 9 pour Joan of Arc.
+16:51:56 Joan of Arc a fait 11.
+16:51:56 Joan of Arc reçoit une carte d'argile.
+16:51:56 cyril reçoit une carte de laine.
+16:51:57 Début du tour 9 pour cyril.
+16:51:59 cyril a fait 8.
+16:51:59 Richard Nixon reçoit une carte de blé et une carte de laine.
+16:51:59 Abraham Lincoln reçoit une carte de laine.
+16:51:59 Joan of Arc reçoit une carte de blé.
+16:52:01 Début du tour 10 pour Richard Nixon.
+16:52:01 Richard Nixon a fait 12.
+16:52:02 Richard Nixon échange 4 cartes de blés contre une carte d'argile.
+16:52:03 Richard Nixon dépense une carte d'argile et une carte de bois.
+16:52:03 Richard Nixon construit une route.
+16:52:04 Début du tour 10 pour Abraham Lincoln.
+16:52:04 Abraham Lincoln a fait 6.
+16:52:04 cyril reçoit une carte de bois.
+16:52:04 Richard Nixon reçoit une carte de bois.
+16:52:05 Début du tour 10 pour Joan of Arc.
+16:52:05 Joan of Arc a fait 11.
+16:52:05 Joan of Arc reçoit une carte d'argile.
+16:52:05 cyril reçoit une carte de laine.
+16:52:06 Joan of Arc échange 4 cartes de blés contre une carte de laine.
+16:52:07 Joan of Arc dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+16:52:07 Joan of Arc fonde une colonie.
+16:52:08 Début du tour 10 pour cyril.
+16:52:09 cyril a fait 7.
+16:52:13 cyril déplace le voleur.
+16:52:14 Vous volez une carte de pierre à Abraham Lincoln.
+16:52:16 Début du tour 11 pour Richard Nixon.
+16:52:16 Richard Nixon a fait 2.
+16:52:17 Début du tour 11 pour Abraham Lincoln.
+16:52:17 Abraham Lincoln a fait 7.
+16:52:18 Abraham Lincoln déplace le voleur.
+16:52:18 Abraham Lincoln vole une ressource à Richard Nixon.
+16:52:19 Début du tour 11 pour Joan of Arc.
+16:52:19 Joan of Arc a fait 8.
+16:52:19 Joan of Arc reçoit une carte de blé.
+16:52:19 Richard Nixon reçoit une carte de blé et une carte de laine.
+16:52:19 Abraham Lincoln reçoit une carte de laine.
+16:52:20 Début du tour 11 pour cyril.
+16:52:21 cyril a fait 9.
+16:52:21 cyril reçoit une carte de pierre.
+16:52:21 Abraham Lincoln reçoit une carte de laine.
+16:52:21 Joan of Arc reçoit une carte de pierre et une carte de laine.
+16:52:30 cyril dépense une carte d'argile et une carte de bois.
+16:52:30 cyril construit une route.
+16:52:32 Début du tour 12 pour Richard Nixon.
+16:52:32 Richard Nixon a fait 8.
+16:52:32 Richard Nixon reçoit une carte de blé et une carte de laine.
+16:52:32 Abraham Lincoln reçoit une carte de laine.
+16:52:32 Joan of Arc reçoit une carte de blé.
+16:52:33 Début du tour 12 pour Abraham Lincoln.
+16:52:33 Abraham Lincoln a fait 4.
+16:52:33 Abraham Lincoln reçoit une carte de pierre.
+16:52:33 cyril reçoit 2 cartes de blés et une carte de pierre.
+16:52:34 Abraham Lincoln échange 3 cartes de laine contre une carte d'argile.
+16:52:35 Abraham Lincoln dépense une carte d'argile et une carte de bois.
+16:52:35 Abraham Lincoln construit une route.
+16:52:36 Début du tour 12 pour Joan of Arc.
+16:52:36 Joan of Arc a fait 6.
+16:52:36 cyril reçoit une carte d'argile.
+16:52:36 Abraham Lincoln reçoit une carte d'argile.
+16:52:38 Joan of Arc dépense une carte de blé, une carte de pierre et une carte de laine.
+16:52:38 Joan of Arc achète une carte de développement.
+16:52:39 Début du tour 12 pour cyril.
+16:52:40 cyril a fait 6.
+16:52:40 cyril reçoit une carte d'argile.
+16:52:40 Abraham Lincoln reçoit une carte d'argile.
+16:52:43 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+16:52:43 cyril érige une ville.
+16:52:46 cyril retire une ville.
+16:52:46 cyril est remboursé de 2 cartes de blés et 3 cartes de pierre.
+16:52:56 cyril donne Richard Nixon une carte de pierre en échange de une carte de bois.
+16:53:03 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+16:53:03 cyril érige une ville.
+16:53:06 cyril dépense une carte d'argile et une carte de bois.
+16:53:06 cyril construit une route.
+16:53:06 cyril a la route la plus longue.
+16:53:07 Début du tour 13 pour Richard Nixon.
+16:53:07 Richard Nixon a fait 6.
+16:53:07 Abraham Lincoln reçoit une carte d'argile.
+16:53:07 cyril reçoit 2 cartes d'argile.
+16:53:08 Richard Nixon dépense une carte de blé, une carte de pierre et une carte de laine.
+16:53:08 Richard Nixon achète une carte de développement.
+16:53:09 Début du tour 13 pour Abraham Lincoln.
+16:53:09 Abraham Lincoln a fait 6.
+16:53:09 Abraham Lincoln reçoit une carte d'argile.
+16:53:09 cyril reçoit 2 cartes d'argile.
+16:53:10 Abraham Lincoln échange 3 cartes d'argile contre une carte de blé.
+16:53:11 Abraham Lincoln dépense une carte de blé, une carte de pierre et une carte de laine.
+16:53:11 Abraham Lincoln achète une carte de développement.
+16:53:12 Début du tour 13 pour Joan of Arc.
+16:53:12 Joan of Arc a fait 6.
+16:53:12 cyril reçoit 2 cartes d'argile.
+16:53:12 Abraham Lincoln reçoit une carte d'argile.
+16:53:13 Joan of Arc joue la carte de développement Monopole.
+16:53:14 Joan of Arc prend 0 cartes d'argile à Richard Nixon.
+16:53:14 Joan of Arc prend 2 cartes d'argile à Abraham Lincoln.
+16:53:14 Joan of Arc vous prend 7 cartes d'argile.
+16:53:15 Joan of Arc échange 4 cartes d'argile contre une carte de bois.
+16:53:16 Joan of Arc dépense une carte d'argile et une carte de bois.
+16:53:16 Joan of Arc construit une route.
+16:53:17 Début du tour 13 pour cyril.
+16:53:18 cyril a fait 9.
+16:53:18 cyril reçoit une carte de pierre.
+16:53:18 Abraham Lincoln reçoit une carte de laine.
+16:53:18 Joan of Arc reçoit une carte de pierre et une carte de laine.
+16:53:23 Début du tour 14 pour Richard Nixon.
+16:53:23 Richard Nixon joue la carte de développement Chevalier.
+16:53:24 Richard Nixon déplace le voleur.
+16:53:24 Richard Nixon vous vole une carte de pierre.
+16:53:24 Richard Nixon a fait 6.
+16:53:24 Richard Nixon reçoit une carte de bois.
+16:53:24 cyril reçoit une carte de bois.
+16:53:25 Richard Nixon dépense une carte de blé, une carte de pierre et une carte de laine.
+16:53:25 Richard Nixon achète une carte de développement.
+16:53:26 Début du tour 14 pour Abraham Lincoln.
+16:53:26 Abraham Lincoln a fait 8.
+16:53:26 Abraham Lincoln reçoit une carte de laine.
+16:53:26 Joan of Arc reçoit une carte de blé.
+16:53:26 Richard Nixon reçoit une carte de blé et une carte de laine.
+16:53:27 Début du tour 14 pour Joan of Arc.
+16:53:27 Joan of Arc a fait 6.
+16:53:27 cyril reçoit une carte de bois.
+16:53:27 Richard Nixon reçoit une carte de bois.
+16:53:28 Joan of Arc dépense une carte de blé, une carte de pierre et une carte de laine.
+16:53:28 Joan of Arc achète une carte de développement.
+16:53:29 Début du tour 14 pour cyril.
+16:53:31 cyril a fait 7.
+16:53:32 Richard Nixon jete une carte de blé, 2 cartes de laine et une carte de bois.
+16:53:41 cyril déplace le voleur.
+16:53:41 Vous volez une carte d'argile à Joan of Arc.
+16:53:42 cyril dépense une carte d'argile et une carte de bois.
+16:53:42 cyril construit une route.
+16:53:43 Début du tour 15 pour Richard Nixon.
+16:53:43 Richard Nixon a fait 8.
+16:53:43 Richard Nixon reçoit une carte de blé et une carte de laine.
+16:53:43 Abraham Lincoln reçoit une carte de laine.
+16:53:43 Joan of Arc reçoit une carte de blé.
+16:53:44 Richard Nixon joue la carte de développement Construction de route.
+16:53:45 Richard Nixon construit une route.
+16:53:46 Richard Nixon construit une route.
+16:53:48 Début du tour 15 pour Abraham Lincoln.
+16:53:48 Abraham Lincoln a fait 3.
+16:53:48 cyril reçoit une carte de bois.
+16:53:49 Richard Nixon reçoit une carte de bois.
+16:53:50 Abraham Lincoln échange 3 cartes de laine contre une carte de pierre.
+16:53:51 Début du tour 15 pour Joan of Arc.
+16:53:51 Joan of Arc joue la carte de développement Chevalier.
+16:53:52 Joan of Arc déplace le voleur.
+16:53:52 Joan of Arc vous vole une carte de bois.
+16:53:52 Joan of Arc a fait 10.
+16:53:52 Joan of Arc reçoit une carte d'argile et une carte de blé.
+16:53:52 Abraham Lincoln reçoit 2 cartes de blés.
+16:53:53 Joan of Arc échange 4 cartes d'argile contre une carte de laine.
+16:53:54 Joan of Arc dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+16:53:54 Joan of Arc fonde une colonie.
+16:53:55 Début du tour 15 pour cyril.
+16:53:55 cyril a fait 3.
+16:53:55 cyril reçoit une carte de bois.
+16:53:55 Richard Nixon reçoit une carte de bois.
+16:53:55 Joan of Arc reçoit une carte de bois.
+16:54:02 Début du tour 16 pour Richard Nixon.
+16:54:02 Richard Nixon a fait 2.
+16:54:03 Début du tour 16 pour Abraham Lincoln.
+16:54:03 Abraham Lincoln a fait 7.
+16:54:04 Richard Nixon jete une carte de blé, une carte de laine et 2 cartes de bois.
+16:54:05 Abraham Lincoln déplace le voleur.
+16:54:05 Abraham Lincoln vole une ressource à Richard Nixon.
+16:54:06 Abraham Lincoln dépense une carte de blé, une carte de pierre et une carte de laine.
+16:54:06 Abraham Lincoln achète une carte de développement.
+16:54:07 Début du tour 16 pour Joan of Arc.
+16:54:07 Joan of Arc a fait 4.
+16:54:07 Joan of Arc reçoit une carte de blé.
+16:54:07 cyril reçoit 3 cartes de blés et une carte de pierre.
+16:54:07 Abraham Lincoln reçoit une carte de pierre.
+16:54:08 Début du tour 16 pour cyril.
+16:54:09 cyril a fait 12.
+16:54:09 Joan of Arc reçoit une carte de laine.
+16:54:20 cyril échange 3 cartes de blés contre une carte d'argile.
+16:54:23 cyril dépense une carte d'argile et une carte de bois.
+16:54:23 cyril construit une route.
+16:54:24 Début du tour 17 pour Richard Nixon.
+16:54:24 Richard Nixon a fait 8.
+16:54:24 Richard Nixon reçoit une carte de blé et une carte de laine.
+16:54:24 Abraham Lincoln reçoit une carte de laine.
+16:54:24 Joan of Arc reçoit une carte de blé.
+16:54:25 Début du tour 17 pour Abraham Lincoln.
+16:54:25 Abraham Lincoln a fait 7.
+16:54:26 Abraham Lincoln déplace le voleur.
+16:54:26 Abraham Lincoln vole une ressource à Joan of Arc.
+16:54:27 Abraham Lincoln dépense une carte de blé, une carte de pierre et une carte de laine.
+16:54:27 Abraham Lincoln achète une carte de développement.
+16:54:28 Abraham Lincoln joue la carte de développement Chevalier.
+16:54:29 Abraham Lincoln déplace le voleur.
+16:54:29 Abraham Lincoln vole une ressource à Richard Nixon.
+16:54:30 Début du tour 17 pour Joan of Arc.
+16:54:30 Joan of Arc a fait 8.
+16:54:30 Joan of Arc reçoit une carte de blé.
+16:54:30 Richard Nixon reçoit une carte de blé et une carte de laine.
+16:54:30 Abraham Lincoln reçoit une carte de laine.
+16:54:31 Début du tour 17 pour cyril.
+16:54:34 cyril a fait 6.
+16:54:34 cyril reçoit 2 cartes d'argile.
+16:54:34 Abraham Lincoln reçoit une carte d'argile.
+16:54:49 cyril donne Richard Nixon une carte d'argile en échange de une carte de blé.
+16:54:52 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+16:54:52 cyril fonde une colonie.
+16:54:54 Début du tour 18 pour Richard Nixon.
+16:54:54 Richard Nixon a fait 4.
+16:54:54 Abraham Lincoln reçoit une carte de pierre.
+16:54:54 Joan of Arc reçoit une carte de blé.
+16:54:54 cyril reçoit 3 cartes de blés et une carte de pierre.
+16:54:55 Richard Nixon dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+16:54:55 Richard Nixon fonde une colonie.
+16:54:56 Début du tour 18 pour Abraham Lincoln.
+16:54:56 Abraham Lincoln a fait 7.
+16:54:57 Abraham Lincoln déplace le voleur.
+16:54:57 Abraham Lincoln vous vole une carte de laine.
+16:54:58 Abraham Lincoln dépense une carte d'argile et une carte de bois.
+16:54:58 Abraham Lincoln construit une route.
+16:54:59 Abraham Lincoln dépense une carte de blé, une carte de pierre et une carte de laine.
+16:54:59 Abraham Lincoln achète une carte de développement.
+16:55:00 Abraham Lincoln joue la carte de développement Année faste.
+16:55:01 Abraham Lincoln prend 2 cartes de pierre.
+16:55:02 Abraham Lincoln dépense une carte de blé, une carte de pierre et une carte de laine.
+16:55:02 Abraham Lincoln achète une carte de développement.
+16:55:03 Début du tour 18 pour Joan of Arc.
+16:55:03 Joan of Arc a fait 7.
+16:55:04 Joan of Arc déplace le voleur.
+16:55:04 Joan of Arc vole une ressource à Richard Nixon.
+16:55:05 Joan of Arc échange 4 cartes de blés contre une carte d'argile.
+16:55:06 Joan of Arc dépense une carte d'argile et une carte de bois.
+16:55:06 Joan of Arc construit une route.
+16:55:07 Début du tour 18 pour cyril.
+16:55:08 cyril a fait 9.
+16:55:08 cyril reçoit une carte de pierre.
+16:55:08 Abraham Lincoln reçoit une carte de laine.
+16:55:08 Joan of Arc reçoit une carte de pierre et une carte de laine.
+16:55:10 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+16:55:10 cyril érige une ville.
+16:55:11 Début du tour 19 pour Richard Nixon.
+16:55:11 Richard Nixon a fait 8.
+16:55:11 Richard Nixon reçoit une carte de blé.
+16:55:11 Joan of Arc reçoit une carte de blé.
+16:55:13 Début du tour 19 pour Abraham Lincoln.
+16:55:13 Abraham Lincoln joue la carte de développement Chevalier.
+16:55:14 Abraham Lincoln déplace le voleur.
+16:55:14 Abraham Lincoln vole une ressource à Richard Nixon.
+16:55:14 Abraham Lincoln a fait 10.
+16:55:14 Abraham Lincoln reçoit 2 cartes de blés.
+16:55:14 Joan of Arc reçoit une carte d'argile et une carte de blé.
+16:55:15 Abraham Lincoln dépense une carte de blé, une carte de pierre et une carte de laine.
+16:55:15 Abraham Lincoln achète une carte de développement.
+16:55:16 Début du tour 19 pour Joan of Arc.
+16:55:16 Joan of Arc a fait 10.
+16:55:16 Joan of Arc reçoit une carte d'argile et une carte de blé.
+16:55:16 Abraham Lincoln reçoit 2 cartes de blés.
+16:55:17 Joan of Arc dépense une carte de blé, une carte de pierre et une carte de laine.
+16:55:17 Joan of Arc achète une carte de développement.
+16:55:18 Début du tour 19 pour cyril.
+16:55:19 cyril a fait 7.
+16:55:28 cyril déplace le voleur.
+16:55:30 Vous volez une carte de blé à Abraham Lincoln.
+16:55:31 Début du tour 20 pour Richard Nixon.
+16:55:31 Richard Nixon a fait 9.
+16:55:31 Abraham Lincoln reçoit une carte de laine.
+16:55:31 Joan of Arc reçoit une carte de pierre et une carte de laine.
+16:55:31 cyril reçoit 2 cartes de pierre.
+16:55:32 Début du tour 20 pour Abraham Lincoln.
+16:55:32 Abraham Lincoln joue la carte de développement Chevalier.
+16:55:32 Abraham Lincoln détient le chevalier le plus puissant.
+16:55:33 Abraham Lincoln déplace le voleur.
+16:55:33 Abraham Lincoln vous vole une carte de blé.
+16:55:34 Abraham Lincoln a fait 8.
+16:55:34 Abraham Lincoln reçoit une carte de laine.
+16:55:34 Joan of Arc reçoit une carte de blé.
+16:55:34 Richard Nixon reçoit une carte de blé et 2 cartes de laine.
+16:55:34 Abraham Lincoln échange 3 cartes de blés contre une carte de pierre.
+16:55:35 Abraham Lincoln dépense une carte de blé, une carte de pierre et une carte de laine.
+16:55:35 Abraham Lincoln achète une carte de développement.
+16:55:36 Début du tour 20 pour Joan of Arc.
+16:55:36 Joan of Arc a fait 4.
+16:55:36 Joan of Arc reçoit une carte de blé.
+16:55:36 cyril reçoit 3 cartes de blés et 2 cartes de pierre.
+16:55:36 Abraham Lincoln reçoit une carte de pierre.
+16:55:37 Joan of Arc dépense une carte de blé, une carte de pierre et une carte de laine.
+16:55:37 Joan of Arc achète une carte de développement.
+16:55:38 Joan of Arc joue la carte de développement Chevalier.
+16:55:39 Joan of Arc déplace le voleur.
+16:55:39 Joan of Arc vole une ressource à Richard Nixon.
+16:55:40 Début du tour 20 pour cyril.
+16:55:41 cyril a fait 5.
+16:55:41 cyril reçoit une carte de blé.
+16:55:41 Richard Nixon reçoit 2 cartes de blés.
+16:55:41 Abraham Lincoln reçoit une carte de bois.
+16:55:41 Joan of Arc reçoit 2 cartes de bois.
+16:55:50 cyril échange 3 cartes de blés contre une carte de laine.
+16:55:53 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+16:55:53 Vous avez acheté une carte de développement Chevalier.
+16:55:54 Début du tour 21 pour Richard Nixon.
+16:55:54 Richard Nixon a fait 7.
+16:55:55 Joan of Arc jete une carte d'argile, 3 cartes de blés et une carte de laine.
+16:55:56 Richard Nixon déplace le voleur.
+16:55:56 Richard Nixon vous vole une carte de pierre.
+16:55:57 Richard Nixon dépense une carte de blé, une carte de pierre et une carte de laine.
+16:55:57 Richard Nixon achète une carte de développement.
+16:55:58 Début du tour 21 pour Abraham Lincoln.
+16:55:58 Abraham Lincoln joue la carte de développement Chevalier.
+16:55:59 Abraham Lincoln déplace le voleur.
+16:55:59 Abraham Lincoln vole une ressource à Richard Nixon.
+16:56:00 Abraham Lincoln a fait 8.
+16:56:00 Abraham Lincoln reçoit une carte de laine.
+16:56:00 Joan of Arc reçoit une carte de blé.
+16:56:00 Richard Nixon reçoit une carte de blé et 2 cartes de laine.
+16:56:00 Abraham Lincoln dépense une carte de blé, une carte de pierre et une carte de laine.
+16:56:00 Abraham Lincoln achète une carte de développement.
+16:56:01 Début du tour 21 pour Joan of Arc.
+16:56:01 Joan of Arc a fait 4.
+16:56:01 Joan of Arc reçoit une carte de blé.
+16:56:01 cyril reçoit 3 cartes de blés et 2 cartes de pierre.
+16:56:01 Abraham Lincoln reçoit une carte de pierre.
+16:56:02 Joan of Arc dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+16:56:02 Joan of Arc fonde une colonie.
+16:56:03 Début du tour 21 pour cyril.
+16:56:04 cyril a fait 8.
+16:56:04 Richard Nixon reçoit une carte de blé et 2 cartes de laine.
+16:56:04 Abraham Lincoln reçoit une carte de laine.
+16:56:04 Joan of Arc reçoit une carte de blé.
+16:56:12 cyril échange 3 cartes de pierre contre une carte de laine.
+16:56:20 cyril échange 3 cartes de blés contre une carte de laine.
+16:56:22 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+16:56:22 Vous avez acheté une carte de développement Chevalier.
+16:56:25 cyril joue la carte de développement Chevalier.
+16:56:28 cyril déplace le voleur.
+16:56:29 Vous volez une carte de pierre à Abraham Lincoln.
+16:56:30 Début du tour 22 pour Richard Nixon.
+16:56:30 Richard Nixon a fait 5.
+16:56:30 Richard Nixon reçoit 2 cartes de blés.
+16:56:30 cyril reçoit une carte de blé.
+16:56:31 Richard Nixon échange 2 cartes de laine contre une carte de pierre.
+16:56:32 Richard Nixon dépense une carte de blé, une carte de pierre et une carte de laine.
+16:56:32 Richard Nixon achète une carte de développement.
+16:56:33 Début du tour 22 pour Abraham Lincoln.
+16:56:33 Abraham Lincoln a fait 7.
+16:56:34 Abraham Lincoln déplace le voleur.
+16:56:34 Abraham Lincoln vole une ressource à Richard Nixon.
+16:56:35 Abraham Lincoln joue la carte de développement Construction de route.
+16:56:36 Abraham Lincoln construit une route.
+16:56:37 Abraham Lincoln construit une route.
+16:56:39 Début du tour 22 pour Joan of Arc.
+16:56:39 Joan of Arc a fait 6.
+16:56:39 cyril reçoit 2 cartes d'argile et une carte de bois.
+16:56:39 Richard Nixon reçoit une carte de bois.
+16:56:39 Abraham Lincoln reçoit une carte d'argile.
+16:56:40 Joan of Arc échange 2 cartes de blés contre une carte d'argile.
+16:56:41 Joan of Arc dépense une carte d'argile et une carte de bois.
+16:56:41 Joan of Arc construit une route.
+16:56:42 Début du tour 22 pour cyril.
+16:56:44 cyril joue la carte de développement Chevalier.
+16:56:49 cyril déplace le voleur.
+16:56:50 Vous volez une carte de bois à Abraham Lincoln.
+16:56:51 cyril a fait 6.
+16:56:51 cyril reçoit 2 cartes d'argile et une carte de bois.
+16:56:51 Richard Nixon reçoit une carte de bois.
+16:56:51 Abraham Lincoln reçoit une carte d'argile.
+16:56:54 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+16:56:54 Vous avez acheté une carte de développement Chevalier.
+16:56:57 cyril dépense une carte d'argile et une carte de bois.
+16:56:57 cyril construit une route.
+16:56:58 cyril dépense une carte d'argile et une carte de bois.
+16:56:58 cyril construit une route.
+16:56:58 cyril dépense une carte d'argile et une carte de bois.
+16:56:58 cyril construit une route.
+16:57:01 Début du tour 23 pour Richard Nixon.
+16:57:01 Richard Nixon a fait 10.
+16:57:01 Joan of Arc reçoit 2 cartes d'argile.
+16:57:02 Richard Nixon joue la carte de développement Chevalier.
+16:57:03 Richard Nixon déplace le voleur.
+16:57:03 Richard Nixon vole une ressource à Abraham Lincoln.
+16:57:04 Début du tour 23 pour Abraham Lincoln.
+16:57:04 Abraham Lincoln a fait 9.
+16:57:04 Abraham Lincoln reçoit une carte de laine.
+16:57:04 Joan of Arc reçoit une carte de pierre et une carte de laine.
+16:57:04 cyril reçoit 2 cartes de pierre.
+16:57:05 Abraham Lincoln joue la carte de développement Monopole.
+16:57:06 Abraham Lincoln prend 2 cartes de laine à Richard Nixon.
+16:57:06 Abraham Lincoln prend 2 cartes de laine à Joan of Arc.
+16:57:06 Abraham Lincoln vous prend 0 cartes de laine.
+16:57:07 Abraham Lincoln échange 3 cartes de laine contre une carte de bois.
+16:57:08 Abraham Lincoln dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+16:57:08 Abraham Lincoln fonde une colonie.
+16:57:09 Début du tour 23 pour Joan of Arc.
+16:57:09 Joan of Arc a fait 6.
+16:57:09 cyril reçoit une carte de bois.
+16:57:09 Richard Nixon reçoit une carte de bois.
+16:57:10 Début du tour 23 pour cyril.
+16:57:13 cyril a fait 6.
+16:57:13 cyril reçoit une carte de bois.
+16:57:13 Richard Nixon reçoit une carte de bois.
+16:57:21 cyril dépense une carte d'argile et une carte de bois.
+16:57:21 cyril construit une route.
+16:57:23 Début du tour 24 pour Richard Nixon.
+16:57:23 Richard Nixon a fait 5.
+16:57:23 Richard Nixon reçoit 2 cartes de blés.
+16:57:23 Abraham Lincoln reçoit une carte de bois.
+16:57:23 Joan of Arc reçoit 2 cartes de bois.
+16:57:23 cyril reçoit une carte de blé.
+16:57:24 Richard Nixon échange 4 cartes de blés contre une carte de laine.
+16:57:25 Début du tour 24 pour Abraham Lincoln.
+16:57:25 Abraham Lincoln a fait 9.
+16:57:25 Abraham Lincoln reçoit 2 cartes de laine.
+16:57:25 Joan of Arc reçoit une carte de pierre et une carte de laine.
+16:57:25 cyril reçoit 2 cartes de pierre.
+16:57:26 Abraham Lincoln échange 3 cartes de laine contre une carte d'argile.
+16:57:27 Abraham Lincoln dépense une carte d'argile et une carte de bois.
+16:57:27 Abraham Lincoln construit une route.
+16:57:28 Début du tour 24 pour Joan of Arc.
+16:57:28 Joan of Arc a fait 7.
+16:57:29 Joan of Arc jete 2 cartes d'argile, une carte de pierre et une carte de bois.
+16:57:30 Joan of Arc déplace le voleur.
+16:57:30 Joan of Arc vole une ressource à Richard Nixon.
+16:57:31 Joan of Arc dépense une carte de blé, une carte de pierre et une carte de laine.
+16:57:31 Joan of Arc achète une carte de développement.
+16:57:32 Début du tour 24 pour cyril.
+16:57:33 cyril a fait 7.
+16:57:35 cyril déplace le voleur.
+16:57:37 Vous volez une carte de laine à Abraham Lincoln.
+16:57:40 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+16:57:40 Vous avez acheté la carte de développement Chapelle.
+16:57:41 Début du tour 25 pour Richard Nixon.
+16:57:41 Richard Nixon a fait 5.
+16:57:41 Richard Nixon reçoit 2 cartes de blés.
+16:57:41 Abraham Lincoln reçoit une carte de bois.
+16:57:41 Joan of Arc reçoit 2 cartes de bois.
+16:57:41 cyril reçoit une carte de blé.
+16:57:42 Début du tour 25 pour Abraham Lincoln.
+16:57:42 Abraham Lincoln a fait 5.
+16:57:42 Abraham Lincoln reçoit une carte de bois.
+16:57:42 Joan of Arc reçoit 2 cartes de bois.
+16:57:42 cyril reçoit une carte de blé.
+16:57:42 Richard Nixon reçoit 2 cartes de blés.
+16:57:43 Début du tour 25 pour Joan of Arc.
+16:57:43 Joan of Arc joue la carte de développement Chevalier.
+16:57:45 Joan of Arc déplace le voleur.
+16:57:45 Joan of Arc vole une ressource à Richard Nixon.
+16:57:45 Joan of Arc a fait 4.
+16:57:45 Joan of Arc reçoit une carte de blé.
+16:57:45 cyril reçoit 3 cartes de blés et 2 cartes de pierre.
+16:57:45 Abraham Lincoln reçoit une carte de pierre.
+16:57:46 Joan of Arc échange 4 cartes de bois contre une carte d'argile.
+16:57:47 Joan of Arc dépense une carte d'argile et une carte de bois.
+16:57:47 Joan of Arc construit une route.
+16:57:48 Début du tour 25 pour cyril.
+16:57:49 cyril a fait 11.
+16:57:49 cyril reçoit 2 cartes de laine.
+16:57:49 Joan of Arc reçoit 2 cartes d'argile.
+16:58:10 cyril échange 3 cartes de blés contre une carte d'argile.
+16:58:14 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+16:58:14 Vous avez acheté une carte de développement Année faste.
+16:58:26 cyril dépense une carte d'argile et une carte de bois.
+16:58:26 cyril construit une route.
+16:58:29 Début du tour 26 pour Richard Nixon.
+16:58:29 Richard Nixon a fait 9.
+16:58:29 Abraham Lincoln reçoit 2 cartes de laine.
+16:58:29 Joan of Arc reçoit une carte de pierre et une carte de laine.
+16:58:29 cyril reçoit 2 cartes de pierre.
+16:58:30 Début du tour 26 pour Abraham Lincoln.
+16:58:30 Abraham Lincoln a fait 8.
+16:58:30 Joan of Arc reçoit une carte de blé.
+16:58:30 Richard Nixon reçoit une carte de blé.
+16:58:31 Début du tour 26 pour Joan of Arc.
+16:58:31 Joan of Arc a fait 11.
+16:58:31 Joan of Arc reçoit 2 cartes d'argile.
+16:58:31 cyril reçoit 2 cartes de laine.
+16:58:32 Joan of Arc échange 2 cartes de blés contre une carte de pierre.
+16:58:33 Début du tour 26 pour cyril.
+16:58:35 cyril a fait 3.
+16:58:35 cyril reçoit 2 cartes de bois.
+16:58:35 Richard Nixon reçoit une carte de bois.
+16:58:35 Joan of Arc reçoit 2 cartes de bois.
+16:58:42 cyril joue la carte de développement Année faste.
+16:58:46 cyril prend 2 cartes d'argile.
+16:58:51 cyril dépense une carte d'argile et une carte de bois.
+16:58:51 cyril construit une route.
+16:59:06 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+16:59:06 cyril fonde une colonie.
+16:59:06 cyril a gagné la partie avec 10 points de victoire !
+16:59:06 Abraham Lincoln est parti.
+16:59:06 Richard Nixon est parti.
+16:59:06 Joan of Arc est parti.
+

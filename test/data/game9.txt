@@ -1,0 +1,354 @@
+07:36:05 Connexion à localhost, port 5556
+07:36:05 Le joueur 2 s'appelle maintenant cyril.
+07:36:05 Le joueur 3 s'appelle maintenant Gorbachev.
+07:36:05 Le joueur 0 s'appelle maintenant Rupert Murdoch.
+07:36:05 Le joueur 1 s'appelle maintenant Napoleon.
+07:36:05 Placement pour Rupert Murdoch.
+07:36:06 Rupert Murdoch fonde une colonie.
+07:36:07 Rupert Murdoch construit une route.
+07:36:08 Placement pour Napoleon.
+07:36:09 Napoleon fonde une colonie.
+07:36:10 Napoleon construit une route.
+07:36:11 Placement pour cyril.
+07:36:29 cyril fonde une colonie.
+07:36:29 cyril construit une route.
+07:36:32 Double placement pour Gorbachev.
+07:36:33 Gorbachev fonde une colonie.
+07:36:34 Gorbachev fonde une colonie.
+07:36:35 Gorbachev construit une route.
+07:36:36 Gorbachev construit une route.
+07:36:37 Gorbachev reçoit une carte d'argile et 2 cartes de blés.
+07:36:37 Placement pour cyril.
+07:36:51 cyril fonde une colonie.
+07:36:53 cyril construit une route.
+07:37:00 cyril retire une route.
+07:37:01 cyril construit une route.
+07:37:03 cyril reçoit une carte de blé et 2 cartes de pierre.
+07:37:03 Placement pour Napoleon.
+07:37:04 Napoleon fonde une colonie.
+07:37:05 Napoleon construit une route.
+07:37:06 Napoleon reçoit 2 cartes de bois.
+07:37:06 Placement pour Rupert Murdoch.
+07:37:07 Rupert Murdoch fonde une colonie.
+07:37:08 Rupert Murdoch construit une route.
+07:37:09 Rupert Murdoch reçoit 2 cartes de blés et une carte de pierre.
+07:37:09 Début du tour 1 pour Rupert Murdoch.
+07:37:09 Rupert Murdoch a fait 6.
+07:37:09 Rupert Murdoch reçoit une carte d'argile.
+07:37:09 cyril reçoit une carte de laine.
+07:37:09 Gorbachev reçoit une carte d'argile.
+07:37:10 Début du tour 1 pour Napoleon.
+07:37:10 Napoleon a fait 9.
+07:37:10 cyril reçoit une carte d'argile.
+07:37:11 Début du tour 1 pour cyril.
+07:37:11 cyril a fait 3.
+07:37:11 cyril reçoit une carte de pierre et une carte de bois.
+07:37:11 Gorbachev reçoit une carte de bois.
+07:37:11 Rupert Murdoch reçoit une carte de pierre.
+07:37:21 cyril dépense une carte d'argile et une carte de bois.
+07:37:21 cyril construit une route.
+07:37:22 Début du tour 1 pour Gorbachev.
+07:37:22 Gorbachev a fait 9.
+07:37:22 cyril reçoit une carte d'argile.
+07:37:23 Gorbachev dépense une carte d'argile et une carte de bois.
+07:37:23 Gorbachev construit une route.
+07:37:24 Début du tour 2 pour Rupert Murdoch.
+07:37:24 Rupert Murdoch a fait 8.
+07:37:24 Napoleon reçoit une carte de blé et une carte de bois.
+07:37:24 cyril reçoit une carte de blé.
+07:37:24 Gorbachev reçoit une carte de bois.
+07:37:25 Début du tour 2 pour Napoleon.
+07:37:25 Napoleon a fait 3.
+07:37:25 cyril reçoit une carte de pierre et une carte de bois.
+07:37:25 Gorbachev reçoit une carte de bois.
+07:37:25 Rupert Murdoch reçoit une carte de pierre.
+07:37:26 Début du tour 2 pour cyril.
+07:37:28 cyril a fait 10.
+07:37:28 cyril reçoit une carte de pierre.
+07:37:28 Rupert Murdoch reçoit une carte de blé.
+07:37:28 Napoleon reçoit une carte de blé.
+07:37:37 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:37:37 cyril fonde une colonie.
+07:37:39 Début du tour 2 pour Gorbachev.
+07:37:39 Gorbachev a fait 8.
+07:37:39 Gorbachev reçoit une carte de bois.
+07:37:39 Napoleon reçoit une carte de blé et une carte de bois.
+07:37:39 cyril reçoit une carte de blé.
+07:37:40 Début du tour 3 pour Rupert Murdoch.
+07:37:40 Rupert Murdoch a fait 4.
+07:37:40 Rupert Murdoch reçoit une carte de laine.
+07:37:40 Gorbachev reçoit une carte de blé et une carte de laine.
+07:37:41 Rupert Murdoch dépense 2 cartes de blés et 3 cartes de pierre.
+07:37:41 Rupert Murdoch érige une ville.
+07:37:42 Début du tour 3 pour Napoleon.
+07:37:42 Napoleon a fait 3.
+07:37:42 cyril reçoit une carte de pierre et une carte de bois.
+07:37:42 Gorbachev reçoit une carte de bois.
+07:37:42 Rupert Murdoch reçoit une carte de pierre.
+07:37:43 Début du tour 3 pour cyril.
+07:37:44 cyril a fait 5.
+07:37:44 Rupert Murdoch reçoit 2 cartes de bois.
+07:37:44 Napoleon reçoit une carte de pierre et une carte de bois.
+07:37:49 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+07:37:49 cyril érige une ville.
+07:37:50 Début du tour 3 pour Gorbachev.
+07:37:50 Gorbachev a fait 9.
+07:37:50 cyril reçoit 2 cartes d'argile et une carte de laine.
+07:37:51 Gorbachev dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:37:51 Gorbachev fonde une colonie.
+07:37:52 Début du tour 4 pour Rupert Murdoch.
+07:37:52 Rupert Murdoch a fait 5.
+07:37:52 Rupert Murdoch reçoit 2 cartes de bois.
+07:37:52 Napoleon reçoit une carte de pierre et une carte de bois.
+07:37:53 Rupert Murdoch dépense une carte d'argile et une carte de bois.
+07:37:53 Rupert Murdoch construit une route.
+07:37:54 Rupert Murdoch dépense une carte de blé, une carte de pierre et une carte de laine.
+07:37:54 Rupert Murdoch achète une carte de développement.
+07:37:55 Début du tour 4 pour Napoleon.
+07:37:55 Napoleon a fait 5.
+07:37:55 Napoleon reçoit une carte de pierre et une carte de bois.
+07:37:55 Rupert Murdoch reçoit 2 cartes de bois.
+07:37:56 Napoleon dépense 2 cartes de blés et 3 cartes de pierre.
+07:37:56 Napoleon érige une ville.
+07:37:57 Début du tour 4 pour cyril.
+07:37:58 cyril a fait 9.
+07:37:58 cyril reçoit 2 cartes d'argile et une carte de laine.
+07:37:58 Gorbachev reçoit une carte de laine.
+07:38:00 cyril dépense une carte d'argile et une carte de bois.
+07:38:00 cyril construit une route.
+07:38:04 cyril retire une route.
+07:38:04 cyril est remboursé de une carte d'argile et une carte de bois.
+07:38:16 cyril échange 3 cartes de pierre contre une carte de bois.
+07:38:24 cyril donne Rupert Murdoch une carte d'argile en échange de une carte de bois.
+07:38:26 cyril dépense une carte d'argile et une carte de bois.
+07:38:26 cyril construit une route.
+07:38:26 cyril dépense une carte d'argile et une carte de bois.
+07:38:26 cyril construit une route.
+07:38:27 cyril dépense une carte d'argile et une carte de bois.
+07:38:27 cyril construit une route.
+07:38:29 Début du tour 4 pour Gorbachev.
+07:38:29 Gorbachev a fait 8.
+07:38:29 Gorbachev reçoit une carte de bois.
+07:38:29 Napoleon reçoit 2 cartes de blés et une carte de bois.
+07:38:29 cyril reçoit une carte de blé.
+07:38:30 Début du tour 5 pour Rupert Murdoch.
+07:38:30 Rupert Murdoch a fait 6.
+07:38:30 Rupert Murdoch reçoit 2 cartes d'argile.
+07:38:30 cyril reçoit 2 cartes de laine.
+07:38:30 Gorbachev reçoit une carte d'argile.
+07:38:31 Rupert Murdoch joue la carte de développement Chevalier.
+07:38:32 Rupert Murdoch déplace le voleur.
+07:38:32 Rupert Murdoch vole une ressource à Napoleon.
+07:38:33 Début du tour 5 pour Napoleon.
+07:38:33 Napoleon a fait 6.
+07:38:33 cyril reçoit 2 cartes de laine.
+07:38:33 Gorbachev reçoit une carte d'argile.
+07:38:33 Rupert Murdoch reçoit 2 cartes d'argile.
+07:38:34 Napoleon échange 4 cartes de bois contre une carte d'argile.
+07:38:35 Napoleon dépense une carte d'argile et une carte de bois.
+07:38:35 Napoleon construit une route.
+07:38:36 Début du tour 5 pour cyril.
+07:38:37 cyril a fait 4.
+07:38:37 Gorbachev reçoit 2 cartes de blés et une carte de laine.
+07:38:37 Rupert Murdoch reçoit 2 cartes de laine.
+07:38:43 cyril échange 3 cartes de laine contre une carte de pierre.
+07:38:45 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+07:38:45 Vous avez acheté une carte de développement Chevalier.
+07:38:46 Début du tour 5 pour Gorbachev.
+07:38:46 Gorbachev a fait 6.
+07:38:46 Gorbachev reçoit une carte d'argile.
+07:38:46 Rupert Murdoch reçoit 2 cartes d'argile.
+07:38:46 cyril reçoit 2 cartes de laine.
+07:38:47 Gorbachev dépense une carte d'argile et une carte de bois.
+07:38:47 Gorbachev construit une route.
+07:38:48 Gorbachev dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:38:48 Gorbachev fonde une colonie.
+07:38:49 Gorbachev dépense une carte d'argile et une carte de bois.
+07:38:49 Gorbachev construit une route.
+07:38:50 Début du tour 6 pour Rupert Murdoch.
+07:38:50 Rupert Murdoch a fait 9.
+07:38:50 cyril reçoit 2 cartes d'argile et une carte de laine.
+07:38:50 Gorbachev reçoit une carte d'argile et une carte de laine.
+07:38:51 Rupert Murdoch dépense une carte d'argile et une carte de bois.
+07:38:51 Rupert Murdoch construit une route.
+07:38:52 Rupert Murdoch dépense une carte d'argile et une carte de bois.
+07:38:52 Rupert Murdoch construit une route.
+07:38:53 Rupert Murdoch dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:38:53 Rupert Murdoch fonde une colonie.
+07:38:54 Rupert Murdoch dépense une carte d'argile et une carte de bois.
+07:38:54 Rupert Murdoch construit une route.
+07:38:55 Début du tour 6 pour Napoleon.
+07:38:55 Napoleon a fait 2.
+07:38:55 Rupert Murdoch reçoit une carte de laine.
+07:38:56 Début du tour 6 pour cyril.
+07:38:56 cyril a fait 8.
+07:38:56 Gorbachev reçoit une carte de bois.
+07:38:57 Napoleon reçoit une carte de bois.
+07:39:00 cyril échange 3 cartes de laine contre une carte de bois.
+07:39:02 cyril dépense une carte d'argile et une carte de bois.
+07:39:02 cyril construit une route.
+07:39:02 cyril a la route la plus longue.
+07:39:06 cyril joue la carte de développement Chevalier.
+07:39:15 cyril déplace le voleur.
+07:39:15 Vous volez une carte de bois à Napoleon.
+07:39:18 Début du tour 6 pour Gorbachev.
+07:39:18 Gorbachev a fait 11.
+07:39:18 Gorbachev reçoit 2 cartes de blés.
+07:39:18 Rupert Murdoch reçoit une carte de blé.
+07:39:19 Gorbachev dépense une carte d'argile et une carte de bois.
+07:39:19 Gorbachev construit une route.
+07:39:20 Début du tour 7 pour Rupert Murdoch.
+07:39:20 Rupert Murdoch a fait 9.
+07:39:20 Rupert Murdoch reçoit une carte d'argile.
+07:39:20 cyril reçoit 2 cartes d'argile et une carte de laine.
+07:39:20 Gorbachev reçoit une carte d'argile et une carte de laine.
+07:39:21 Début du tour 7 pour Napoleon.
+07:39:21 Napoleon a fait 8.
+07:39:21 Napoleon reçoit 2 cartes de blés et une carte de bois.
+07:39:21 cyril reçoit une carte de blé.
+07:39:21 Gorbachev reçoit une carte de bois.
+07:39:22 Début du tour 7 pour cyril.
+07:39:25 cyril a fait 8.
+07:39:25 cyril reçoit une carte de blé.
+07:39:25 Gorbachev reçoit une carte de bois.
+07:39:25 Napoleon reçoit 2 cartes de blés et une carte de bois.
+07:39:37 cyril donne Napoleon une carte d'argile en échange de une carte de bois.
+07:39:42 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:39:42 cyril fonde une colonie.
+07:39:47 Début du tour 7 pour Gorbachev.
+07:39:47 Gorbachev a fait 6.
+07:39:47 Gorbachev reçoit une carte d'argile.
+07:39:47 Rupert Murdoch reçoit 2 cartes d'argile.
+07:39:47 cyril reçoit 2 cartes de laine.
+07:39:48 Gorbachev dépense une carte d'argile et une carte de bois.
+07:39:48 Gorbachev construit une route.
+07:39:49 Gorbachev dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:39:49 Gorbachev fonde une colonie.
+07:39:50 Début du tour 8 pour Rupert Murdoch.
+07:39:50 Rupert Murdoch a fait 3.
+07:39:50 Rupert Murdoch reçoit une carte de pierre.
+07:39:50 cyril reçoit une carte de pierre et 2 cartes de bois.
+07:39:50 Gorbachev reçoit une carte de pierre et une carte de bois.
+07:39:51 Rupert Murdoch dépense une carte de blé, une carte de pierre et une carte de laine.
+07:39:51 Rupert Murdoch achète une carte de développement.
+07:39:52 Début du tour 8 pour Napoleon.
+07:39:52 Napoleon a fait 8.
+07:39:52 Napoleon reçoit 2 cartes de blés et une carte de bois.
+07:39:52 cyril reçoit une carte de blé et une carte de bois.
+07:39:52 Gorbachev reçoit une carte de bois.
+07:39:53 Napoleon dépense une carte d'argile et une carte de bois.
+07:39:53 Napoleon construit une route.
+07:39:54 Début du tour 8 pour cyril.
+07:39:55 cyril a fait 3.
+07:39:55 cyril reçoit une carte de pierre et 2 cartes de bois.
+07:39:55 Gorbachev reçoit une carte de pierre et une carte de bois.
+07:39:55 Rupert Murdoch reçoit une carte de pierre.
+07:40:50 cyril échange 3 cartes de laine contre une carte de pierre.
+07:40:56 cyril échange 3 cartes de bois contre une carte d'argile.
+07:40:59 cyril dépense une carte d'argile et une carte de bois.
+07:40:59 cyril construit une route.
+07:40:59 cyril dépense une carte d'argile et une carte de bois.
+07:40:59 cyril construit une route.
+07:41:00 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+07:41:00 cyril érige une ville.
+07:41:02 Début du tour 8 pour Gorbachev.
+07:41:02 Gorbachev a fait 7.
+07:41:03 Rupert Murdoch jete 4 cartes d'argile.
+07:41:03 Napoleon jete 5 cartes de blés et une carte de bois.
+07:41:03 Gorbachev jete 3 cartes de blés, une carte de pierre et 2 cartes de bois.
+07:41:04 Gorbachev déplace le voleur.
+07:41:04 Gorbachev vole une ressource à Napoleon.
+07:41:05 Gorbachev dépense une carte de blé, une carte de pierre et une carte de laine.
+07:41:05 Gorbachev achète une carte de développement.
+07:41:06 Début du tour 9 pour Rupert Murdoch.
+07:41:06 Rupert Murdoch a fait 7.
+07:41:07 Rupert Murdoch déplace le voleur.
+07:41:07 Rupert Murdoch vole une ressource à Napoleon.
+07:41:08 Rupert Murdoch dépense une carte d'argile et une carte de bois.
+07:41:08 Rupert Murdoch construit une route.
+07:41:09 Rupert Murdoch joue la carte de développement Chevalier.
+07:41:10 Rupert Murdoch déplace le voleur.
+07:41:10 Rupert Murdoch vole une ressource à Napoleon.
+07:41:11 Rupert Murdoch dépense une carte de blé, une carte de pierre et une carte de laine.
+07:41:11 Rupert Murdoch achète une carte de développement.
+07:41:12 Début du tour 9 pour Napoleon.
+07:41:12 Napoleon a fait 5.
+07:41:12 Napoleon reçoit 2 cartes de pierre et une carte de bois.
+07:41:12 Rupert Murdoch reçoit 2 cartes de bois.
+07:41:13 Début du tour 9 pour cyril.
+07:41:15 cyril a fait 8.
+07:41:15 cyril reçoit une carte de bois.
+07:41:15 Gorbachev reçoit une carte de bois.
+07:41:15 Napoleon reçoit une carte de bois.
+07:41:17 Début du tour 9 pour Gorbachev.
+07:41:17 Gorbachev a fait 8.
+07:41:17 Gorbachev reçoit une carte de bois.
+07:41:17 Napoleon reçoit une carte de bois.
+07:41:17 cyril reçoit une carte de bois.
+07:41:18 Gorbachev joue la carte de développement Chevalier.
+07:41:19 Gorbachev déplace le voleur.
+07:41:19 Gorbachev vole une ressource à Napoleon.
+07:41:20 Gorbachev échange 4 cartes de bois contre une carte de pierre.
+07:41:21 Gorbachev dépense une carte de blé, une carte de pierre et une carte de laine.
+07:41:21 Gorbachev achète une carte de développement.
+07:41:22 Début du tour 10 pour Rupert Murdoch.
+07:41:22 Rupert Murdoch joue la carte de développement Chevalier.
+07:41:22 Rupert Murdoch détient le chevalier le plus puissant.
+07:41:23 Rupert Murdoch déplace le voleur.
+07:41:23 Rupert Murdoch vole une ressource à Napoleon.
+07:41:23 Rupert Murdoch a fait 4.
+07:41:24 Rupert Murdoch reçoit 2 cartes de laine.
+07:41:24 Gorbachev reçoit 2 cartes de blés et 2 cartes de laine.
+07:41:24 Rupert Murdoch dépense une carte d'argile et une carte de bois.
+07:41:24 Rupert Murdoch construit une route.
+07:41:25 Début du tour 10 pour Napoleon.
+07:41:25 Napoleon a fait 7.
+07:41:26 Napoleon déplace le voleur.
+07:41:26 Napoleon vole une ressource à Gorbachev.
+07:41:27 Napoleon dépense une carte de blé, une carte de pierre et une carte de laine.
+07:41:27 Napoleon achète une carte de développement.
+07:41:28 Début du tour 10 pour cyril.
+07:41:29 cyril a fait 4.
+07:41:29 Gorbachev reçoit 2 cartes de blés et 2 cartes de laine.
+07:41:29 Rupert Murdoch reçoit 2 cartes de laine.
+07:41:31 Début du tour 10 pour Gorbachev.
+07:41:31 Gorbachev joue la carte de développement Chevalier.
+07:41:32 Gorbachev déplace le voleur.
+07:41:32 Gorbachev vous vole une carte de bois.
+07:41:32 Gorbachev a fait 6.
+07:41:33 Gorbachev reçoit une carte d'argile.
+07:41:33 Rupert Murdoch reçoit 2 cartes d'argile.
+07:41:33 cyril reçoit 2 cartes de laine.
+07:41:33 Gorbachev dépense une carte d'argile et une carte de bois.
+07:41:33 Gorbachev construit une route.
+07:41:34 Début du tour 11 pour Rupert Murdoch.
+07:41:34 Rupert Murdoch a fait 3.
+07:41:34 Rupert Murdoch reçoit une carte de pierre.
+07:41:34 cyril reçoit 2 cartes de pierre et 2 cartes de bois.
+07:41:34 Gorbachev reçoit une carte de pierre et une carte de bois.
+07:41:35 Début du tour 11 pour Napoleon.
+07:41:35 Napoleon a fait 9.
+07:41:35 cyril reçoit 2 cartes d'argile et une carte de laine.
+07:41:35 Gorbachev reçoit une carte d'argile et 2 cartes de laine.
+07:41:35 Rupert Murdoch reçoit une carte d'argile.
+07:41:36 Napoleon joue la carte de développement Monopole.
+07:41:37 Napoleon prend 3 cartes d'argile à Rupert Murdoch.
+07:41:37 Napoleon vous prend 2 cartes d'argile.
+07:41:37 Napoleon prend une carte d'argile à Gorbachev.
+07:41:38 Napoleon échange 4 cartes d'argile contre une carte de laine.
+07:41:39 Début du tour 11 pour cyril.
+07:41:40 cyril a fait 9.
+07:41:40 cyril reçoit 2 cartes d'argile et une carte de laine.
+07:41:40 Gorbachev reçoit une carte d'argile et 2 cartes de laine.
+07:41:40 Rupert Murdoch reçoit une carte d'argile.
+07:41:58 cyril échange 3 cartes de laine contre une carte de blé.
+07:42:00 cyril donne Gorbachev 2 cartes de pierre en échange de une carte de blé.
+07:42:03 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:42:03 cyril fonde une colonie.
+07:42:04 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+07:42:04 cyril fonde une colonie.
+07:42:04 cyril a gagné la partie avec 10 points de victoire !
+07:42:04 Gorbachev est parti.
+07:42:04 Napoleon est parti.
+07:42:04 Rupert Murdoch est parti.
+

@@ -1,0 +1,553 @@
+18:34:13 Connexion à localhost, port 5556
+18:34:14 Le joueur 1 s'appelle maintenant cyril.
+18:34:14 Le joueur 3 s'appelle maintenant Ernie and Bert.
+18:34:14 Le joueur 2 s'appelle maintenant Winston Churchill.
+18:34:14 Le joueur 0 s'appelle maintenant Kermit the Frog.
+18:34:14 Placement pour Kermit the Frog.
+18:34:15 Kermit the Frog fonde une colonie.
+18:34:16 Kermit the Frog construit une route.
+18:34:17 Placement pour cyril.
+18:34:36 cyril fonde une colonie.
+18:34:36 cyril construit une route.
+18:34:38 Placement pour Winston Churchill.
+18:34:39 Winston Churchill fonde une colonie.
+18:34:40 Winston Churchill construit une route.
+18:34:41 Double placement pour Ernie and Bert.
+18:34:42 Ernie and Bert fonde une colonie.
+18:34:43 Ernie and Bert fonde une colonie.
+18:34:44 Ernie and Bert construit une route.
+18:34:45 Ernie and Bert construit une route.
+18:34:46 Ernie and Bert reçoit 2 cartes de laine et une carte de bois.
+18:34:46 Placement pour Winston Churchill.
+18:34:47 Winston Churchill fonde une colonie.
+18:34:48 Winston Churchill construit une route.
+18:34:49 Winston Churchill reçoit une carte d'argile et 2 cartes de blés.
+18:34:49 Placement pour cyril.
+18:34:51 cyril fonde une colonie.
+18:34:56 cyril construit une route.
+18:34:57 cyril reçoit 2 cartes de laine et une carte de bois.
+18:34:57 Placement pour Kermit the Frog.
+18:34:58 Kermit the Frog fonde une colonie.
+18:34:59 Kermit the Frog construit une route.
+18:35:00 Kermit the Frog reçoit une carte d'argile et 2 cartes de blés.
+18:35:00 Début du tour 1 pour Kermit the Frog.
+18:35:00 Kermit the Frog a fait 6.
+18:35:00 Kermit the Frog reçoit une carte de blé.
+18:35:00 Winston Churchill reçoit une carte de blé et une carte de bois.
+18:35:01 Début du tour 1 pour cyril.
+18:35:04 cyril a fait 10.
+18:35:04 cyril reçoit une carte de bois.
+18:35:04 Ernie and Bert reçoit une carte de pierre.
+18:35:04 Kermit the Frog reçoit une carte de bois.
+18:35:05 Début du tour 1 pour Winston Churchill.
+18:35:05 Winston Churchill a fait 10.
+18:35:05 Ernie and Bert reçoit une carte de pierre.
+18:35:05 Kermit the Frog reçoit une carte de bois.
+18:35:05 cyril reçoit une carte de bois.
+18:35:06 Winston Churchill dépense une carte d'argile et une carte de bois.
+18:35:06 Winston Churchill construit une route.
+18:35:07 Début du tour 1 pour Ernie and Bert.
+18:35:07 Ernie and Bert a fait 6.
+18:35:07 Kermit the Frog reçoit une carte de blé.
+18:35:07 Winston Churchill reçoit une carte de blé et une carte de bois.
+18:35:08 Début du tour 2 pour Kermit the Frog.
+18:35:08 Kermit the Frog a fait 11.
+18:35:08 Winston Churchill reçoit une carte d'argile.
+18:35:08 Ernie and Bert reçoit une carte de laine.
+18:35:09 Kermit the Frog dépense une carte d'argile et une carte de bois.
+18:35:09 Kermit the Frog construit une route.
+18:35:10 Début du tour 2 pour cyril.
+18:35:11 cyril a fait 2.
+18:35:11 cyril reçoit une carte de laine.
+18:35:16 Début du tour 2 pour Winston Churchill.
+18:35:16 Winston Churchill a fait 10.
+18:35:16 Ernie and Bert reçoit une carte de pierre.
+18:35:16 Kermit the Frog reçoit une carte de bois.
+18:35:16 cyril reçoit une carte de bois.
+18:35:17 Début du tour 2 pour Ernie and Bert.
+18:35:17 Ernie and Bert a fait 10.
+18:35:17 Ernie and Bert reçoit une carte de pierre.
+18:35:17 Kermit the Frog reçoit une carte de bois.
+18:35:17 cyril reçoit une carte de bois.
+18:35:18 Début du tour 3 pour Kermit the Frog.
+18:35:18 Kermit the Frog a fait 3.
+18:35:18 cyril reçoit une carte de pierre.
+18:35:18 Winston Churchill reçoit une carte de pierre.
+18:35:18 Ernie and Bert reçoit une carte de bois.
+18:35:19 Début du tour 3 pour cyril.
+18:35:21 cyril a fait 9.
+18:35:21 cyril reçoit une carte de laine.
+18:35:21 Winston Churchill reçoit une carte de laine.
+18:35:21 Ernie and Bert reçoit une carte de bois.
+18:35:29 cyril échange 4 cartes de laine contre une carte d'argile.
+18:35:32 cyril dépense une carte d'argile et une carte de bois.
+18:35:32 cyril construit une route.
+18:35:33 Début du tour 3 pour Winston Churchill.
+18:35:33 Winston Churchill a fait 11.
+18:35:33 Winston Churchill reçoit une carte d'argile.
+18:35:33 Ernie and Bert reçoit une carte de laine.
+18:35:34 Winston Churchill dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+18:35:34 Winston Churchill fonde une colonie.
+18:35:35 Début du tour 3 pour Ernie and Bert.
+18:35:35 Ernie and Bert a fait 9.
+18:35:35 Ernie and Bert reçoit une carte de bois.
+18:35:35 cyril reçoit une carte de laine.
+18:35:35 Winston Churchill reçoit 2 cartes de laine.
+18:35:36 Début du tour 4 pour Kermit the Frog.
+18:35:36 Kermit the Frog a fait 9.
+18:35:36 cyril reçoit une carte de laine.
+18:35:36 Winston Churchill reçoit 2 cartes de laine.
+18:35:36 Ernie and Bert reçoit une carte de bois.
+18:35:37 Début du tour 4 pour cyril.
+18:35:38 cyril a fait 5.
+18:35:38 Ernie and Bert reçoit une carte de blé.
+18:35:38 Kermit the Frog reçoit une carte de blé et une carte de pierre.
+18:35:50 Début du tour 4 pour Winston Churchill.
+18:35:50 Winston Churchill a fait 4.
+18:35:50 Winston Churchill reçoit une carte d'argile et une carte de blé.
+18:35:50 cyril reçoit une carte d'argile.
+18:35:51 Winston Churchill dépense une carte de blé, une carte de pierre et une carte de laine.
+18:35:51 Winston Churchill achète une carte de développement.
+18:35:52 Début du tour 4 pour Ernie and Bert.
+18:35:52 Ernie and Bert a fait 7.
+18:35:53 Winston Churchill jete 2 cartes d'argile et 2 cartes de blés.
+18:35:53 Kermit the Frog jete 3 cartes de blés et une carte de bois.
+18:35:53 Ernie and Bert jete 3 cartes de pierre, une carte de laine et 3 cartes de bois.
+18:36:02 cyril jete une carte de pierre, une carte de laine et 2 cartes de bois.
+18:36:03 Ernie and Bert déplace le voleur.
+18:36:03 Ernie and Bert vole une ressource à Winston Churchill.
+18:36:04 Ernie and Bert dépense une carte de blé, une carte de pierre et une carte de laine.
+18:36:04 Ernie and Bert achète une carte de développement.
+18:36:05 Début du tour 5 pour Kermit the Frog.
+18:36:05 Kermit the Frog a fait 9.
+18:36:05 Ernie and Bert reçoit une carte de bois.
+18:36:06 Début du tour 5 pour cyril.
+18:36:08 cyril a fait 8.
+18:36:08 cyril reçoit une carte de blé.
+18:36:08 Ernie and Bert reçoit une carte de laine.
+18:36:08 Kermit the Frog reçoit une carte de laine.
+18:36:10 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+18:36:10 cyril fonde une colonie.
+18:36:12 Début du tour 5 pour Winston Churchill.
+18:36:12 Winston Churchill a fait 2.
+18:36:12 cyril reçoit 2 cartes de laine.
+18:36:13 Début du tour 5 pour Ernie and Bert.
+18:36:13 Ernie and Bert a fait 5.
+18:36:13 Ernie and Bert reçoit une carte de blé.
+18:36:13 Kermit the Frog reçoit une carte de blé et une carte de pierre.
+18:36:14 Ernie and Bert joue la carte de développement Chevalier.
+18:36:15 Ernie and Bert déplace le voleur.
+18:36:15 Ernie and Bert vole une ressource à Winston Churchill.
+18:36:16 Ernie and Bert échange 4 cartes de laine contre une carte d'argile.
+18:36:17 Ernie and Bert dépense une carte d'argile et une carte de bois.
+18:36:17 Ernie and Bert construit une route.
+18:36:18 Début du tour 6 pour Kermit the Frog.
+18:36:18 Kermit the Frog a fait 12.
+18:36:18 Kermit the Frog reçoit une carte d'argile.
+18:36:19 Kermit the Frog dépense une carte d'argile et une carte de bois.
+18:36:19 Kermit the Frog construit une route.
+18:36:20 Kermit the Frog dépense une carte de blé, une carte de pierre et une carte de laine.
+18:36:20 Kermit the Frog achète une carte de développement.
+18:36:21 Début du tour 6 pour cyril.
+18:36:22 cyril a fait 4.
+18:36:22 cyril reçoit une carte d'argile.
+18:36:22 Winston Churchill reçoit une carte d'argile et une carte de blé.
+18:36:24 cyril dépense une carte d'argile et une carte de bois.
+18:36:24 cyril construit une route.
+18:36:26 Début du tour 6 pour Winston Churchill.
+18:36:26 Winston Churchill a fait 12.
+18:36:26 Kermit the Frog reçoit une carte d'argile.
+18:36:27 Début du tour 6 pour Ernie and Bert.
+18:36:27 Ernie and Bert a fait 5.
+18:36:27 Ernie and Bert reçoit une carte de blé.
+18:36:27 Kermit the Frog reçoit une carte de blé et une carte de pierre.
+18:36:28 Début du tour 7 pour Kermit the Frog.
+18:36:28 Kermit the Frog a fait 6.
+18:36:28 Kermit the Frog reçoit une carte de blé.
+18:36:28 Winston Churchill reçoit une carte de blé.
+18:36:29 Kermit the Frog joue la carte de développement Monopole.
+18:36:30 Kermit the Frog vous prend 0 cartes de blés.
+18:36:30 Kermit the Frog prend 3 cartes de blés à Winston Churchill.
+18:36:30 Kermit the Frog prend 2 cartes de blés à Ernie and Bert.
+18:36:31 Kermit the Frog échange 4 cartes de blés contre une carte de pierre.
+18:36:32 Kermit the Frog dépense 2 cartes de blés et 3 cartes de pierre.
+18:36:32 Kermit the Frog érige une ville.
+18:36:33 Début du tour 7 pour cyril.
+18:36:35 cyril a fait 10.
+18:36:35 cyril reçoit une carte de bois.
+18:36:35 Ernie and Bert reçoit une carte de pierre.
+18:36:35 Kermit the Frog reçoit 2 cartes de bois.
+18:36:37 Début du tour 7 pour Winston Churchill.
+18:36:37 Winston Churchill a fait 8.
+18:36:37 Ernie and Bert reçoit une carte de laine.
+18:36:37 Kermit the Frog reçoit 2 cartes de laine.
+18:36:37 cyril reçoit une carte de blé.
+18:36:38 Début du tour 7 pour Ernie and Bert.
+18:36:38 Ernie and Bert a fait 8.
+18:36:38 Ernie and Bert reçoit une carte de laine.
+18:36:38 Kermit the Frog reçoit 2 cartes de laine.
+18:36:38 cyril reçoit une carte de blé.
+18:36:39 Début du tour 8 pour Kermit the Frog.
+18:36:39 Kermit the Frog a fait 7.
+18:36:40 Kermit the Frog jete 2 cartes de blés, 2 cartes de laine et une carte de bois.
+18:36:41 Kermit the Frog déplace le voleur.
+18:36:41 Kermit the Frog vous vole une carte de laine.
+18:36:42 Kermit the Frog dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+18:36:42 Kermit the Frog fonde une colonie.
+18:36:43 Début du tour 8 pour cyril.
+18:36:45 cyril a fait 7.
+18:36:48 cyril déplace le voleur.
+18:36:49 Vous volez une carte de bois à Kermit the Frog.
+18:36:56 Début du tour 8 pour Winston Churchill.
+18:36:56 Winston Churchill a fait 5.
+18:36:56 Ernie and Bert reçoit une carte de blé.
+18:36:56 Kermit the Frog reçoit une carte de blé et 2 cartes de pierre.
+18:36:57 Début du tour 8 pour Ernie and Bert.
+18:36:57 Ernie and Bert a fait 6.
+18:36:57 cyril reçoit une carte de bois.
+18:36:57 Winston Churchill reçoit une carte de bois.
+18:36:58 Ernie and Bert dépense une carte de blé, une carte de pierre et une carte de laine.
+18:36:58 Ernie and Bert achète une carte de développement.
+18:36:59 Début du tour 9 pour Kermit the Frog.
+18:36:59 Kermit the Frog a fait 4.
+18:36:59 cyril reçoit une carte d'argile.
+18:36:59 Winston Churchill reçoit une carte d'argile et une carte de blé.
+18:37:00 Kermit the Frog dépense une carte de blé, une carte de pierre et une carte de laine.
+18:37:00 Kermit the Frog achète une carte de développement.
+18:37:01 Début du tour 9 pour cyril.
+18:37:04 cyril a fait 8.
+18:37:04 cyril reçoit une carte de blé.
+18:37:04 Ernie and Bert reçoit une carte de laine.
+18:37:04 Kermit the Frog reçoit 3 cartes de laine.
+18:37:17 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+18:37:17 cyril fonde une colonie.
+18:37:18 Début du tour 9 pour Winston Churchill.
+18:37:18 Winston Churchill a fait 8.
+18:37:18 Ernie and Bert reçoit une carte de laine.
+18:37:18 Kermit the Frog reçoit 3 cartes de laine.
+18:37:18 cyril reçoit 2 cartes de blés.
+18:37:19 Winston Churchill dépense une carte d'argile et une carte de bois.
+18:37:19 Winston Churchill construit une route.
+18:37:20 Début du tour 9 pour Ernie and Bert.
+18:37:20 Ernie and Bert a fait 11.
+18:37:20 Ernie and Bert reçoit une carte de laine.
+18:37:20 Winston Churchill reçoit une carte d'argile.
+18:37:21 Ernie and Bert échange 4 cartes de laine contre une carte d'argile.
+18:37:22 Ernie and Bert joue la carte de développement Chevalier.
+18:37:23 Ernie and Bert déplace le voleur.
+18:37:23 Ernie and Bert vous vole une carte de bois.
+18:37:24 Début du tour 10 pour Kermit the Frog.
+18:37:24 Kermit the Frog a fait 6.
+18:37:24 Kermit the Frog reçoit une carte de blé.
+18:37:24 cyril reçoit une carte de bois.
+18:37:24 Winston Churchill reçoit une carte de blé et une carte de bois.
+18:37:25 Kermit the Frog dépense une carte de blé, une carte de pierre et une carte de laine.
+18:37:25 Kermit the Frog achète une carte de développement.
+18:37:26 Kermit the Frog joue la carte de développement Chevalier.
+18:37:27 Kermit the Frog déplace le voleur.
+18:37:27 Kermit the Frog vole une ressource à Winston Churchill.
+18:37:28 Début du tour 10 pour cyril.
+18:37:30 cyril a fait 9.
+18:37:30 cyril reçoit une carte de laine.
+18:37:30 Winston Churchill reçoit 2 cartes de laine.
+18:37:30 Ernie and Bert reçoit une carte de bois.
+18:37:36 cyril échange 3 cartes de blés contre une carte d'argile.
+18:37:39 cyril dépense une carte d'argile et une carte de bois.
+18:37:39 cyril construit une route.
+18:37:40 Début du tour 10 pour Winston Churchill.
+18:37:40 Winston Churchill a fait 6.
+18:37:40 Winston Churchill reçoit une carte de blé.
+18:37:40 Kermit the Frog reçoit une carte de blé.
+18:37:41 Winston Churchill dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+18:37:41 Winston Churchill fonde une colonie.
+18:37:42 Début du tour 10 pour Ernie and Bert.
+18:37:42 Ernie and Bert a fait 7.
+18:37:43 Kermit the Frog jete une carte d'argile, une carte de blé et 2 cartes de laine.
+18:37:44 Ernie and Bert déplace le voleur.
+18:37:44 Ernie and Bert vole une ressource à Winston Churchill.
+18:37:45 Ernie and Bert dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+18:37:45 Ernie and Bert fonde une colonie.
+18:37:46 Début du tour 11 pour Kermit the Frog.
+18:37:46 Kermit the Frog a fait 6.
+18:37:46 Kermit the Frog reçoit une carte de blé.
+18:37:46 cyril reçoit une carte de bois.
+18:37:46 Winston Churchill reçoit une carte de blé et une carte de bois.
+18:37:47 Kermit the Frog échange 3 cartes de laine contre une carte de pierre.
+18:37:48 Kermit the Frog dépense une carte de blé, une carte de pierre et une carte de laine.
+18:37:48 Kermit the Frog achète une carte de développement.
+18:37:49 Kermit the Frog joue la carte de développement Chevalier.
+18:37:50 Kermit the Frog déplace le voleur.
+18:37:50 Kermit the Frog vole une ressource à Winston Churchill.
+18:37:51 Début du tour 11 pour cyril.
+18:37:52 cyril a fait 2.
+18:37:52 cyril reçoit 2 cartes de laine.
+18:37:54 cyril échange 3 cartes de laine contre une carte d'argile.
+18:37:56 cyril dépense une carte d'argile et une carte de bois.
+18:37:56 cyril construit une route.
+18:37:57 Début du tour 11 pour Winston Churchill.
+18:37:57 Winston Churchill a fait 6.
+18:37:58 Winston Churchill reçoit une carte de blé.
+18:37:58 Kermit the Frog reçoit une carte de blé.
+18:37:59 Début du tour 11 pour Ernie and Bert.
+18:37:59 Ernie and Bert a fait 9.
+18:37:59 Ernie and Bert reçoit une carte de bois.
+18:37:59 cyril reçoit une carte de laine.
+18:37:59 Winston Churchill reçoit 2 cartes de laine.
+18:38:00 Début du tour 12 pour Kermit the Frog.
+18:38:00 Kermit the Frog a fait 11.
+18:38:00 Winston Churchill reçoit 2 cartes d'argile.
+18:38:00 Ernie and Bert reçoit une carte de laine.
+18:38:01 Kermit the Frog joue la carte de développement Chevalier.
+18:38:01 Kermit the Frog détient le chevalier le plus puissant.
+18:38:02 Kermit the Frog déplace le voleur.
+18:38:02 Kermit the Frog vole une ressource à Winston Churchill.
+18:38:03 Début du tour 12 pour cyril.
+18:38:06 cyril a fait 7.
+18:38:07 Winston Churchill jete 3 cartes de blés et une carte de laine.
+18:38:11 cyril déplace le voleur.
+18:38:12 Vous volez une carte de blé à Kermit the Frog.
+18:38:13 Début du tour 12 pour Winston Churchill.
+18:38:13 Winston Churchill a fait 7.
+18:38:14 Winston Churchill déplace le voleur.
+18:38:14 Winston Churchill vous vole une carte de bois.
+18:38:15 Winston Churchill dépense une carte d'argile et une carte de bois.
+18:38:15 Winston Churchill construit une route.
+18:38:16 Début du tour 12 pour Ernie and Bert.
+18:38:16 Ernie and Bert a fait 5.
+18:38:16 Ernie and Bert reçoit une carte de blé.
+18:38:16 Kermit the Frog reçoit une carte de blé et 2 cartes de pierre.
+18:38:17 Début du tour 13 pour Kermit the Frog.
+18:38:17 Kermit the Frog a fait 7.
+18:38:18 Kermit the Frog déplace le voleur.
+18:38:18 Kermit the Frog vole une ressource à Winston Churchill.
+18:38:19 Kermit the Frog dépense une carte de blé, une carte de pierre et une carte de laine.
+18:38:19 Kermit the Frog achète une carte de développement.
+18:38:20 Début du tour 13 pour cyril.
+18:38:22 cyril a fait 8.
+18:38:22 cyril reçoit 2 cartes de blés.
+18:38:22 Ernie and Bert reçoit une carte de laine.
+18:38:22 Kermit the Frog reçoit 3 cartes de laine.
+18:38:27 cyril échange 3 cartes de blés contre une carte de pierre.
+18:38:29 cyril dépense une carte de blé, une carte de pierre et une carte de laine.
+18:38:29 Vous avez acheté une carte de développement Chevalier.
+18:38:29 Début du tour 13 pour Winston Churchill.
+18:38:29 Winston Churchill a fait 11.
+18:38:29 Winston Churchill reçoit 2 cartes d'argile.
+18:38:29 Ernie and Bert reçoit une carte de laine.
+18:38:30 Winston Churchill dépense une carte d'argile et une carte de bois.
+18:38:30 Winston Churchill construit une route.
+18:38:31 Début du tour 13 pour Ernie and Bert.
+18:38:31 Ernie and Bert a fait 7.
+18:38:32 Ernie and Bert jete une carte de blé et 3 cartes de laine.
+18:38:33 Ernie and Bert déplace le voleur.
+18:38:33 Ernie and Bert vole une ressource à Winston Churchill.
+18:38:34 Début du tour 14 pour Kermit the Frog.
+18:38:34 Kermit the Frog a fait 10.
+18:38:34 Kermit the Frog reçoit 2 cartes de bois.
+18:38:34 cyril reçoit une carte de pierre et une carte de bois.
+18:38:34 Ernie and Bert reçoit une carte de pierre.
+18:38:36 Kermit the Frog dépense une carte d'argile et une carte de bois.
+18:38:36 Kermit the Frog construit une route.
+18:38:37 Début du tour 14 pour cyril.
+18:38:38 cyril a fait 7.
+18:38:41 cyril déplace le voleur.
+18:38:42 Vous volez une carte de laine à Kermit the Frog.
+18:38:46 Début du tour 14 pour Winston Churchill.
+18:38:46 Winston Churchill a fait 7.
+18:38:47 Winston Churchill déplace le voleur.
+18:38:47 Winston Churchill vous vole une carte de laine.
+18:38:48 Début du tour 14 pour Ernie and Bert.
+18:38:48 Ernie and Bert a fait 6.
+18:38:48 Kermit the Frog reçoit une carte de blé.
+18:38:48 cyril reçoit une carte de bois.
+18:38:48 Winston Churchill reçoit une carte de blé et une carte de bois.
+18:38:49 Début du tour 15 pour Kermit the Frog.
+18:38:49 Kermit the Frog a fait 8.
+18:38:49 Kermit the Frog reçoit 3 cartes de laine.
+18:38:49 Ernie and Bert reçoit une carte de laine.
+18:38:50 Kermit the Frog dépense une carte de blé, une carte de pierre et une carte de laine.
+18:38:50 Kermit the Frog achète une carte de développement.
+18:38:51 Début du tour 15 pour cyril.
+18:38:53 cyril a fait 4.
+18:38:53 cyril reçoit une carte d'argile.
+18:38:53 Winston Churchill reçoit une carte d'argile et une carte de blé.
+18:38:53 Ernie and Bert reçoit une carte de blé.
+18:38:57 cyril joue la carte de développement Chevalier.
+18:38:57 cyril déplace le voleur.
+18:38:58 Vous volez une carte de laine à Kermit the Frog.
+18:39:05 cyril donne Winston Churchill une carte de pierre en échange de une carte de blé.
+18:39:08 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+18:39:08 cyril fonde une colonie.
+18:39:09 Début du tour 15 pour Winston Churchill.
+18:39:09 Winston Churchill a fait 8.
+18:39:09 cyril reçoit 2 cartes de blés.
+18:39:10 Winston Churchill dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+18:39:10 Winston Churchill fonde une colonie.
+18:39:11 Début du tour 15 pour Ernie and Bert.
+18:39:11 Ernie and Bert a fait 4.
+18:39:11 Ernie and Bert reçoit une carte de blé.
+18:39:11 cyril reçoit une carte d'argile.
+18:39:11 Winston Churchill reçoit une carte d'argile et une carte de blé.
+18:39:12 Ernie and Bert dépense une carte de blé, une carte de pierre et une carte de laine.
+18:39:12 Ernie and Bert achète une carte de développement.
+18:39:13 Début du tour 16 pour Kermit the Frog.
+18:39:13 Kermit the Frog a fait 8.
+18:39:13 cyril reçoit 2 cartes de blés.
+18:39:14 Kermit the Frog échange 3 cartes de laine contre une carte d'argile.
+18:39:15 Kermit the Frog joue la carte de développement Construction de route.
+18:39:16 Kermit the Frog construit une route.
+18:39:17 Kermit the Frog construit une route.
+18:39:19 Début du tour 16 pour cyril.
+18:39:20 cyril a fait 3.
+18:39:20 cyril reçoit une carte de pierre.
+18:39:20 Winston Churchill reçoit 2 cartes de pierre.
+18:39:20 Ernie and Bert reçoit 2 cartes de bois.
+18:39:38 cyril échange 3 cartes de blés contre une carte d'argile.
+18:39:43 Début du tour 16 pour Winston Churchill.
+18:39:43 Winston Churchill a fait 10.
+18:39:43 Ernie and Bert reçoit une carte de pierre.
+18:39:43 Kermit the Frog reçoit 2 cartes de bois.
+18:39:43 cyril reçoit une carte de pierre et une carte de bois.
+18:39:44 Début du tour 16 pour Ernie and Bert.
+18:39:44 Ernie and Bert a fait 8.
+18:39:44 cyril reçoit 2 cartes de blés.
+18:39:45 Ernie and Bert dépense une carte de blé, une carte de pierre et une carte de laine.
+18:39:45 Ernie and Bert achète une carte de développement.
+18:39:46 Début du tour 17 pour Kermit the Frog.
+18:39:46 Kermit the Frog a fait 9.
+18:39:46 cyril reçoit une carte de laine.
+18:39:46 Winston Churchill reçoit 2 cartes de laine.
+18:39:46 Ernie and Bert reçoit une carte de bois.
+18:39:47 Début du tour 17 pour cyril.
+18:39:49 cyril a fait 8.
+18:39:49 cyril reçoit 2 cartes de blés.
+18:40:01 cyril donne Winston Churchill une carte de blé en échange de une carte d'argile.
+18:40:01 cyril donne Kermit the Frog une carte de blé en échange de une carte de bois.
+18:40:04 cyril dépense une carte d'argile et une carte de bois.
+18:40:04 cyril construit une route.
+18:40:04 cyril a la route la plus longue.
+18:40:04 cyril dépense une carte d'argile et une carte de bois.
+18:40:04 cyril construit une route.
+18:40:13 Début du tour 17 pour Winston Churchill.
+18:40:13 Winston Churchill a fait 8.
+18:40:13 cyril reçoit 2 cartes de blés.
+18:40:14 Winston Churchill dépense 2 cartes de blés et 3 cartes de pierre.
+18:40:14 Winston Churchill érige une ville.
+18:40:15 Début du tour 17 pour Ernie and Bert.
+18:40:15 Ernie and Bert joue la carte de développement Chevalier.
+18:40:16 Ernie and Bert déplace le voleur.
+18:40:16 Ernie and Bert vous vole une carte de pierre.
+18:40:16 Ernie and Bert a fait 9.
+18:40:16 Ernie and Bert reçoit une carte de bois.
+18:40:16 cyril reçoit une carte de laine.
+18:40:16 Winston Churchill reçoit 3 cartes de laine.
+18:40:17 Ernie and Bert échange 4 cartes de bois contre une carte d'argile.
+18:40:18 Ernie and Bert dépense une carte d'argile et une carte de bois.
+18:40:18 Ernie and Bert construit une route.
+18:40:19 Début du tour 18 pour Kermit the Frog.
+18:40:19 Kermit the Frog a fait 5.
+18:40:19 Kermit the Frog reçoit une carte de blé et 2 cartes de pierre.
+18:40:19 cyril reçoit une carte de pierre.
+18:40:19 Ernie and Bert reçoit une carte de blé.
+18:40:20 Kermit the Frog dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+18:40:20 Kermit the Frog fonde une colonie.
+18:40:21 Début du tour 18 pour cyril.
+18:40:22 cyril a fait 7.
+18:40:33 cyril jete 3 cartes de blés et 2 cartes de laine.
+18:40:35 cyril déplace le voleur.
+18:40:36 Vous volez une carte de pierre à Kermit the Frog.
+18:40:38 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+18:40:38 cyril érige une ville.
+18:40:40 Début du tour 18 pour Winston Churchill.
+18:40:40 Winston Churchill a fait 3.
+18:40:40 Winston Churchill reçoit 3 cartes de pierre.
+18:40:40 Ernie and Bert reçoit 2 cartes de bois.
+18:40:40 cyril reçoit une carte de pierre.
+18:40:41 Winston Churchill échange 2 cartes de laine contre une carte de bois.
+18:40:42 Winston Churchill dépense une carte d'argile et une carte de bois.
+18:40:42 Winston Churchill construit une route.
+18:40:43 Début du tour 18 pour Ernie and Bert.
+18:40:43 Ernie and Bert a fait 5.
+18:40:43 Ernie and Bert reçoit une carte de blé.
+18:40:43 Kermit the Frog reçoit une carte de blé et 2 cartes de pierre.
+18:40:43 cyril reçoit une carte de pierre.
+18:40:44 Ernie and Bert échange 4 cartes de bois contre une carte de laine.
+18:40:45 Ernie and Bert dépense une carte de blé, une carte de pierre et une carte de laine.
+18:40:45 Ernie and Bert achète une carte de développement.
+18:40:46 Début du tour 19 pour Kermit the Frog.
+18:40:46 Kermit the Frog a fait 9.
+18:40:46 cyril reçoit une carte de laine.
+18:40:46 Winston Churchill reçoit 3 cartes de laine.
+18:40:46 Ernie and Bert reçoit une carte de bois.
+18:40:47 Kermit the Frog dépense 2 cartes de blés et 3 cartes de pierre.
+18:40:47 Kermit the Frog érige une ville.
+18:40:48 Début du tour 19 pour cyril.
+18:40:49 cyril a fait 8.
+18:40:49 cyril reçoit 3 cartes de blés.
+18:40:53 cyril dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+18:40:53 cyril fonde une colonie.
+18:40:54 Début du tour 19 pour Winston Churchill.
+18:40:54 Winston Churchill a fait 6.
+18:40:54 Winston Churchill reçoit une carte de blé et 2 cartes de bois.
+18:40:54 Kermit the Frog reçoit 3 cartes de blés.
+18:40:54 cyril reçoit une carte de bois.
+18:40:55 Winston Churchill dépense une carte de blé, une carte de pierre et une carte de laine.
+18:40:55 Winston Churchill achète une carte de développement.
+18:40:56 Début du tour 19 pour Ernie and Bert.
+18:40:56 Ernie and Bert a fait 6.
+18:40:56 Kermit the Frog reçoit 3 cartes de blés.
+18:40:56 cyril reçoit une carte de bois.
+18:40:56 Winston Churchill reçoit une carte de blé et 2 cartes de bois.
+18:40:57 Ernie and Bert joue la carte de développement Année faste.
+18:40:58 Ernie and Bert prend une carte d'argile et une carte de laine.
+18:40:59 Ernie and Bert dépense une carte d'argile et une carte de bois.
+18:40:59 Ernie and Bert construit une route.
+18:41:00 Début du tour 20 pour Kermit the Frog.
+18:41:00 Kermit the Frog a fait 7.
+18:41:01 Winston Churchill jete une carte de blé, 2 cartes de pierre, 2 cartes de laine et une carte de bois.
+18:41:02 Kermit the Frog déplace le voleur.
+18:41:02 Kermit the Frog vole une ressource à Winston Churchill.
+18:41:03 Kermit the Frog échange 3 cartes de blés contre une carte d'argile.
+18:41:04 Kermit the Frog dépense une carte d'argile et une carte de bois.
+18:41:04 Kermit the Frog construit une route.
+18:41:05 Début du tour 20 pour cyril.
+18:41:06 cyril a fait 6.
+18:41:06 Winston Churchill reçoit une carte de blé.
+18:41:06 Kermit the Frog reçoit 3 cartes de blés.
+18:41:10 Début du tour 20 pour Winston Churchill.
+18:41:10 Winston Churchill a fait 7.
+18:41:11 Winston Churchill déplace le voleur.
+18:41:11 Winston Churchill vole une ressource à Kermit the Frog.
+18:41:12 Winston Churchill joue la carte de développement Monopole.
+18:41:13 Winston Churchill prend 5 cartes de blés à Kermit the Frog.
+18:41:13 Winston Churchill vous prend 2 cartes de blés.
+18:41:13 Winston Churchill prend une carte de blé à Ernie and Bert.
+18:41:14 Winston Churchill échange 4 cartes de blés contre une carte d'argile.
+18:41:15 Winston Churchill dépense une carte d'argile, une carte de blé, une carte de laine et une carte de bois.
+18:41:15 Winston Churchill fonde une colonie.
+18:41:16 Début du tour 20 pour Ernie and Bert.
+18:41:16 Ernie and Bert a fait 6.
+18:41:16 Kermit the Frog reçoit 3 cartes de blés.
+18:41:16 cyril reçoit une carte de bois.
+18:41:16 Winston Churchill reçoit une carte de blé et 3 cartes de bois.
+18:41:17 Début du tour 21 pour Kermit the Frog.
+18:41:17 Kermit the Frog a fait 5.
+18:41:17 Kermit the Frog reçoit 2 cartes de blés et 2 cartes de pierre.
+18:41:17 cyril reçoit 2 cartes de pierre.
+18:41:17 Ernie and Bert reçoit une carte de blé.
+18:41:18 Kermit the Frog dépense une carte de blé, une carte de pierre et une carte de laine.
+18:41:18 Kermit the Frog achète une carte de développement.
+18:41:19 Début du tour 21 pour cyril.
+18:41:26 cyril a fait 10.
+18:41:26 cyril reçoit 2 cartes de pierre et une carte de bois.
+18:41:26 Ernie and Bert reçoit une carte de pierre.
+18:41:26 Kermit the Frog reçoit 2 cartes de bois.
+18:41:46 cyril échange 2 cartes de bois contre une carte de blé.
+18:41:47 cyril échange 2 cartes de bois contre une carte de blé.
+18:41:55 cyril dépense 2 cartes de blés et 3 cartes de pierre.
+18:41:55 cyril érige une ville.
+18:41:55 cyril a gagné la partie avec 10 points de victoire !
+18:41:55 Ernie and Bert est parti.
+18:41:55 Kermit the Frog est parti.
+18:41:56 Winston Churchill est parti.
+
