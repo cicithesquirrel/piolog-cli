@@ -74,7 +74,8 @@
                 var data = google.visualization.arrayToDataTable(dataAsArray);
 
                 var options = {
-                    title: title
+                    title: title,
+                    colors: ['#cd0000', '#1e90ff', '#171717', '#ff7f00']
                 };
 
                 var chart = new google.visualization.LineChart(document.getElementById(placeHolder));
@@ -115,6 +116,7 @@
                     groupWidth: '75%'
                 },
                 isStacked: true,
+                colors: ['#cd0000', '#1e90ff', '#171717', '#ff7f00']
             };
 
             var chart = new google.visualization.ColumnChart(document.getElementById('graphs_dice_by_player'));
